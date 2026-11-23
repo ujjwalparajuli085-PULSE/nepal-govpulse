@@ -2,72 +2,151 @@
   "adDate": "Monday, November 23, 2026",
   "bsDate": "७ मंसिर २०८३, सोमबार",
   "leadDispatch": {
-    "kicker": "Lead Dispatch • New Delhi / Kathmandu",
-    "title": "PM Balendra Shah Concludes India State Visit with NPR 240B Package, 8 MoUs & Ayodhya–Janakpur Rail Launch",
-    "summary": "Prime Minister Balendra Shah and Indian Prime Minister Narendra Modi adopted the \"Viksit Bharat and Samunnat Nepal\" Joint Vision at Hyderabad House today, announcing NPR 56 billion in reconstruction grants, NPR 184 billion in energy lines of credit, bidirectional B345 air-route talks, and access to Kandla and Paradip ports.",
-    "primaryLinkText": "MoFA Official Portal",
-    "primaryLinkUrl": "https://mofa.gov.np/"
+    "kicker": "Lead Dispatch • OnlineKhabar",
+    "title": "Nepal gets access to Paradip and Kandla ports for third-country trade",
+    "summary": "New Delhi, November 23 Nepal will gain access to India’s Paradip port in Odisha and Kandla port in Gujarat for imports and exports with third countries, Indian Prime Minister Narendra Modi announced during Prime Minister Balendra Shah’s visit to India. Modi ma...",
+    "primaryLinkText": "Read on OnlineKhabar",
+    "primaryLinkUrl": "https://english.onlinekhabar.com/access-paradip-kandla-port-nepal.html"
   },
   "breakingTicker": [
-    "PM Balen concludes Delhi visit with NPR 240B package & 8 MoUs",
-    "Special Court summons 93 incl. Madhav Nepal & Minendra Rijal",
-    "Gold +NPR 4,800 to NPR 247,400/tola",
-    "FNJ demands withdrawal of Press Council Ordinance"
+    "Nepal gets access to Paradip and Kandla ports for third-country trade",
+    "Prime Minister Balen Shah returns after two-day state visit to India",
+    "UML’s internal struggle spills into Chyasal as Oli-Pokharel tensions grow",
+    "Supreme Court orders registration of AI-related writ against Tribhuvan University"
   ],
   "activities": [
     {
-      "id": "act-1",
+      "id": "act-live-0",
       "category": "Official & Diplomatic",
       "time": "Nov 23, 2026",
-      "agency": "MoFA / OPMCM",
-      "title": "PM Balendra Shah & PM Modi Issue Joint Press Release & NPR 240B Package",
-      "summary": "India announced INR 15,000 crore (NPR 24,000 crore) in development assistance—INR 3,500 crore in grants and INR 11,500 crore in Line of Credit for energy projects.",
-      "sourceName": "MoFA / Ratopati",
-      "sourceUrl": "https://english.ratopati.com/story/87929/nepal-india-joint-statement-bhairahawa-lucknow-air-route-to-be-two-way-joint-vision-of-developed-india-and-prosperous-nepal-made-public"
+      "agency": "OnlineKhabar",
+      "title": "Nepal gets access to Paradip and Kandla ports for third-country trade",
+      "summary": "New Delhi, November 23 Nepal will gain access to India’s Paradip port in Odisha and Kandla port in Gujarat for imports and exports with third countries, Indian Prime Minister Narendra Modi announced during Prime Minister Balendra Shah’s visit to India. Modi ma...",
+      "sourceName": "OnlineKhabar",
+      "sourceUrl": "https://english.onlinekhabar.com/access-paradip-kandla-port-nepal.html"
     },
     {
-      "id": "act-2",
+      "id": "act-live-1",
+      "category": "Official & Diplomatic",
+      "time": "Nov 23, 2026",
+      "agency": "OnlineKhabar",
+      "title": "Prime Minister Balen Shah returns after two-day state visit to India",
+      "summary": "Kathmandu, November 23 Prime Minister Balendra Shah has returned to Nepal after completing his two-day state visit to India. Shah arrived at Tribhuvan International Airport a short while ago. He had travelled to New Delhi via Indira Gandhi International Airpor...",
+      "sourceName": "OnlineKhabar",
+      "sourceUrl": "https://english.onlinekhabar.com/balen-shah-returns-from-india.html"
+    },
+    {
+      "id": "act-live-2",
+      "category": "Domestic & Ministries",
+      "time": "Nov 23, 2026",
+      "agency": "OnlineKhabar",
+      "title": "UML’s internal struggle spills into Chyasal as Oli-Pokharel tensions grow",
+      "summary": "Kathmandu, November 23 The growing distance between CPN-UML chair KP Sharma Oli and General Secretary Shankar Pokharel is increasingly visible not only in party decisions but also in activities at the party headquarters in Chyasal. Oli, who generally visited t...",
+      "sourceName": "OnlineKhabar",
+      "sourceUrl": "https://english.onlinekhabar.com/oli-pokharel-rift-deepens-uml.html"
+    },
+    {
+      "id": "act-live-3",
       "category": "Judiciary & Law",
       "time": "Nov 23, 2026",
-      "agency": "Special Court (CIAA Case)",
-      "title": "Special Court Summons Former PM Madhav Nepal, Minendra Rijal & 91 Others",
-      "summary": "Summonses issued for 93 defendants in the NPR 734.9 million land-swap corruption case filed by the CIAA.",
-      "sourceName": "Ratopati",
-      "sourceUrl": "https://english.ratopati.com/story/87927/summons-issued-for-93-people-including-former-prime-minister-nepal-in-corruption-case"
+      "agency": "OnlineKhabar",
+      "title": "Supreme Court orders registration of AI-related writ against Tribhuvan University",
+      "summary": "Kathmandu, November 23 The Supreme Court has ordered the registration of a writ petition filed against Tribhuvan University over its use of artificial intelligence (AI) detection software in academic assessments. A bench of Justice Sunil Kumar Pokharel overtur...",
+      "sourceName": "OnlineKhabar",
+      "sourceUrl": "https://english.onlinekhabar.com/court-registration-ai-related-writ.html"
     },
     {
-      "id": "act-3",
-      "category": "Media & Civic",
+      "id": "act-live-5",
+      "category": "Official & Diplomatic",
       "time": "Nov 23, 2026",
-      "agency": "Federation of Nepali Journalists (FNJ)",
-      "title": "FNJ Dhulikhel Conference Demands Withdrawal of Press Council Ordinance",
-      "summary": "FNJ passed a 16-point resolution demanding withdrawal of the Press Council (First Amendment) Ordinance and reinstatement of dismissed state-media journalists.",
-      "sourceName": "Ratopati / IFJ",
-      "sourceUrl": "https://www.ratopati.com/story/607119/federation-of-nepali-journalists-dhulikhel-conference-demand-to-withdraw-the-press-council-ordinance-and-stop-interference-in-the-media"
+      "agency": "OnlineKhabar",
+      "title": "CK Raut calls Balen’s India visit a moment of pride",
+      "summary": "Kathmandu, November 23 Janamat Party Chairperson Dr CK Raut has described Prime Minister Balendra Shah’s visit to India as a moment of pride, saying it has created a situation in which even the world’s powerful nations have to stand alongside a Madheshi prime ...",
+      "sourceName": "OnlineKhabar",
+      "sourceUrl": "https://english.onlinekhabar.com/ck-raut-calls-balens-india-visit-a-moment-of-pride.html"
+    },
+    {
+      "id": "act-live-6",
+      "category": "Domestic & Ministries",
+      "time": "Nov 23, 2026",
+      "agency": "OnlineKhabar",
+      "title": "Govt to test cell broadcast alerts, urges mobile users not to panic",
+      "summary": "Kathmandu, November 23 The government is set to test the Cell Broadcast System among mobile phone users in the Kathmandu Valley on Monday. During the test, some mobile phones may receive emergency alert messages. The Ministry of Communication and Information T...",
+      "sourceName": "OnlineKhabar",
+      "sourceUrl": "https://english.onlinekhabar.com/govt-to-test-cell-broadcast-alerts-urges-mobile-users-not-to-panic.html"
+    },
+    {
+      "id": "act-live-7",
+      "category": "Official & Diplomatic",
+      "time": "Nov 23, 2026",
+      "agency": "OnlineKhabar",
+      "title": "Prime Minister Shah returns home after India visit",
+      "summary": "Kathmandu, November 23 Prime Minister Balendra Shah has departed for Nepal after completing his two-day state visit to India. He left for Nepal a short while ago from Indira Gandhi International Airport in New Delhi. According to the Ministry of Foreign Affair...",
+      "sourceName": "OnlineKhabar",
+      "sourceUrl": "https://english.onlinekhabar.com/prime-minister-shah-returns-home-after-india-visit.html"
+    },
+    {
+      "id": "act-live-8",
+      "category": "Official & Diplomatic",
+      "time": "Nov 23, 2026",
+      "agency": "OnlineKhabar",
+      "title": "Modi gifts Balen a Banarasi silk shawl in a traditional Gujarati Sadeli box",
+      "summary": "Kathmandu, November 23 Indian Prime Minister Narendra Modi has presented a gift to Nepal’s Prime Minister Balendra Shah. Modi gifted Shah a Banarasi brocade silk shawl from Varanasi, placed in a traditional Gujarati Sadeli box. The two prime ministers met for ...",
+      "sourceName": "OnlineKhabar",
+      "sourceUrl": "https://english.onlinekhabar.com/modi-gifts-balen-a-banarasi-silk-shawl-in-a-traditional-gujarati-sadeli-box.html"
+    },
+    {
+      "id": "act-live-9",
+      "category": "Official & Diplomatic",
+      "time": "Nov 23, 2026",
+      "agency": "OnlineKhabar",
+      "title": "India to establish IIT campus, startup incubator and vocational training institute in Nepal",
+      "summary": "Kathmandu, November 23 India is set to establish an offshore campus of an Indian Institute of Technology (IIT) in Nepal, along with a startup incubator and an innovation hub. Indian Prime Minister Narendra Modi made the announcement during a joint press confer...",
+      "sourceName": "OnlineKhabar",
+      "sourceUrl": "https://english.onlinekhabar.com/india-to-establish-iit-campus-startup-incubator-and-vocational-training-institute-in-nepal.html"
+    },
+    {
+      "id": "act-live-10",
+      "category": "Official & Diplomatic",
+      "time": "Nov 23, 2026",
+      "agency": "OnlineKhabar",
+      "title": "Nepal, India to activate high-level mechanism to monitor implementation of agreements",
+      "summary": "New Delhi, November 23 Nepal and India have agreed to activate a high-level monitoring mechanism to ensure the timely implementation of key agreements, understandings and projects reached during Prime Minister Balendra Shah’s state visit to India. A clear fram...",
+      "sourceName": "OnlineKhabar",
+      "sourceUrl": "https://english.onlinekhabar.com/implementation-of-agreements-monitoring.html"
+    },
+    {
+      "id": "act-live-11",
+      "category": "Official & Diplomatic",
+      "time": "Nov 23, 2026",
+      "agency": "OnlineKhabar",
+      "title": "India pledges more support for cricket infrastructure and player training",
+      "summary": "Kathmandu, November 23 Indian Prime Minister Narendra Modi has said India will increase support for sports infrastructure development and player training in Nepal. During Prime Minister Balen Shah’s visit to India, Modi pledged to expand cooperation in the spo...",
+      "sourceName": "OnlineKhabar",
+      "sourceUrl": "https://english.onlinekhabar.com/india-pledges-support-for-cricket.html"
+    },
+    {
+      "id": "act-live-12",
+      "category": "Official & Diplomatic",
+      "time": "Nov 23, 2026",
+      "agency": "Nepal News",
+      "title": "Nvidia reinstates Jensen Huang as CEO after board review",
+      "summary": "NEW YORK: Nvidia has reinstated Jensen Huang as its president and chief executive officer with immediate effect, following a unanimous decision by its board of directors. The board said it had held discussions with Huang and received input from senior US gover...",
+      "sourceName": "Nepal News",
+      "sourceUrl": "https://english.nepalnews.com/s/science-technology/nvidia-reinstates-jensen-huang-as-ceo-after-board-review/"
     }
   ],
   "protests": [
     {
-      "id": "prot-1",
+      "id": "prot-live-4",
       "zone": "National / Kathmandu",
-      "location": "Kathmandu / Nationwide",
+      "location": "Kathmandu / Nepal",
       "date": "Nov 23, 2026",
-      "group": "Dental Hygienists Association of Nepal",
-      "demand": "10-point charter of demands regarding scope of practice and professional rights.",
-      "status": "Active Strike / Protest",
-      "sourceName": "Ratopati",
-      "sourceUrl": "https://english.ratopati.com/story/87886/dental-hygienists-on-strike"
-    },
-    {
-      "id": "prot-2",
-      "zone": "Maitighar Mandala",
-      "location": "Maitighar Mandala (Tent Sit-ins)",
-      "date": "Ongoing Daily Dharna",
-      "group": "10 Justice-Seeking Citizen Groups",
-      "demand": "Long-term sit-ins by families and survivors demanding justice.",
-      "status": "Continuous Sit-in",
-      "sourceName": "Setopati",
-      "sourceUrl": "https://www.setopati.com/politics/393017"
+      "group": "Govt prepares ordinance to form commission to probe Gen Z protest cases",
+      "demand": "Kathmandu, November 23 The government is preparing to establish a commission to investigate cases related to the Gen Z protests, provide compensation to those affected and oversee reparations. An ordinance providing the necessary legal arrangements for the com...",
+      "status": "Reported Today",
+      "sourceName": "OnlineKhabar",
+      "sourceUrl": "https://english.onlinekhabar.com/ordinance-commission-probe-gen-z-protest.html"
     }
   ],
   "rumors": [
@@ -84,28 +163,64 @@
   ],
   "forexRates": [
     {
-      "currency": "USD (US Dollar)",
-      "unit": "1",
-      "buy": "147.98",
-      "sell": "148.58"
-    },
-    {
       "currency": "INR (Indian Rupee)",
       "unit": "100",
       "buy": "160.00",
       "sell": "160.15"
     },
     {
-      "currency": "EUR (Euro)",
+      "currency": "USD (U.S. Dollar)",
       "unit": "1",
-      "buy": "162.41",
-      "sell": "163.07"
+      "buy": "147.98",
+      "sell": "148.58"
     },
     {
-      "currency": "GBP (British Pound)",
+      "currency": "EUR (European Euro)",
       "unit": "1",
-      "buy": "193.96",
-      "sell": "194.75"
+      "buy": "162.30",
+      "sell": "162.96"
+    },
+    {
+      "currency": "GBP (UK Pound Sterling)",
+      "unit": "1",
+      "buy": "193.59",
+      "sell": "194.38"
+    },
+    {
+      "currency": "AUD (Australian Dollar)",
+      "unit": "1",
+      "buy": "97.92",
+      "sell": "98.32"
+    },
+    {
+      "currency": "JPY (Japanese Yen)",
+      "unit": "10",
+      "buy": "9.33",
+      "sell": "9.37"
+    },
+    {
+      "currency": "CNY (Chinese Yuan)",
+      "unit": "1",
+      "buy": "22.16",
+      "sell": "22.25"
+    },
+    {
+      "currency": "SAR (Saudi Arabian Riyal)",
+      "unit": "1",
+      "buy": "39.44",
+      "sell": "39.60"
+    },
+    {
+      "currency": "QAR (Qatari Riyal)",
+      "unit": "1",
+      "buy": "40.61",
+      "sell": "40.78"
+    },
+    {
+      "currency": "AED (UAE Dirham)",
+      "unit": "1",
+      "buy": "40.29",
+      "sell": "40.46"
     }
   ]
 }
