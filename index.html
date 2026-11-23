@@ -1,0 +1,1954 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Nepal GovPulse — Broadsheet Government, Media &amp; Rumor Tracker (Nov 23, 2026)</title>
+  <script src="https://cdn.tailwindcss.com/3.4.17"></script>
+  <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.1/dist/chart.umd.min.js"></script>
+  <script src="https://unpkg.com/lucide@0.460.0/dist/umd/lucide.min.js"></script>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Newsreader:ital,opsz,wght@0,6..72,500;0,6..72,600;0,6..72,700;1,6..72,500&family=Noto+Sans+Devanagari:wght@500;600;700&display=swap" rel="stylesheet" />
+  <style>
+    body {
+      font-family: 'Inter', 'Noto Sans Devanagari', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+      background-color: #ffffff;
+      color: #111827;
+    }
+    .font-serif-editorial {
+      font-family: 'Newsreader', Georgia, 'Times New Roman', serif;
+    }
+    .tab-active {
+      color: #b91c1c;
+      border-bottom: 2px solid #b91c1c;
+      font-weight: 700;
+    }
+    .tab-inactive {
+      color: #374151;
+      border-bottom: 2px solid transparent;
+    }
+    .tab-inactive:hover {
+      color: #111827;
+      border-bottom-color: #d1d5db;
+    }
+    .no-scrollbar::-webkit-scrollbar {
+      display: none;
+    }
+    .no-scrollbar {
+      -ms-overflow-style: none;
+      scrollbar-width: none;
+    }
+  </style>
+</head>
+<body class="min-h-screen flex flex-col bg-white text-gray-900 antialiased">
+
+  <!-- Gorkhapatra & Kantipur Inspired Top Crimson/Cobalt Bar -->
+  <div class="h-1 w-full bg-gradient-to-r from-[#dc143c] via-[#003893] to-[#dc143c]"></div>
+
+  <!-- Top Utility Bar -->
+  <div class="border-b border-gray-200 bg-gray-50">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-1.5 flex flex-wrap items-center justify-between gap-2 text-[11px] text-gray-700">
+      <div class="flex items-center gap-2.5 flex-wrap">
+        <span class="font-bold text-[#003893]">७ मंसिर २०८३, सोमबार</span>
+        <span class="text-gray-300">|</span>
+        <span id="nst-date" class="font-medium text-gray-800">Monday, November 23, 2026</span>
+        <span class="hidden sm:inline text-gray-300">|</span>
+        <span class="hidden sm:inline text-gray-500">Kathmandu, Nepal</span>
+      </div>
+      <div class="flex items-center gap-4">
+        <button id="btn-watchlist-toggle" type="button" class="inline-flex items-center gap-1 font-medium text-gray-700 hover:text-[#003893] transition">
+          <i data-lucide="bookmark" class="w-3.5 h-3.5"></i>
+          <span>Saved (<span id="watchlist-count">0</span>)</span>
+        </button>
+        <button id="btn-open-rumor-modal" type="button" class="inline-flex items-center gap-1 font-bold text-[#dc143c] hover:text-red-800 transition">
+          <i data-lucide="flag" class="w-3.5 h-3.5"></i>
+          <span>Log Rumor</span>
+        </button>
+      </div>
+    </div>
+  </div>
+
+  <!-- Non-Sticky Compact Masthead (Scrolls away to maximize reading space) -->
+  <header class="bg-white border-b border-gray-200">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-2.5">
+      <div class="flex flex-col items-center text-center">
+        <div class="flex items-center gap-2 text-[10px] uppercase tracking-[0.18em] font-bold mb-0.5">
+          <span class="text-[#dc143c]">नेपाल सरकार र समाचार निगरानी</span>
+          <span class="text-gray-300">&bull;</span>
+          <span class="text-[#003893]">National Daily Brief</span>
+        </div>
+        <h1 class="font-serif-editorial text-2xl sm:text-3xl lg:text-[32px] font-bold tracking-tight text-gray-950 leading-none">
+          NEPAL GOVPULSE
+        </h1>
+        <p class="text-[11px] text-gray-500 mt-1 tracking-wide">
+          Without Fear or Favour &bull; आधिकारिक सूचना, विश्लेषण, अफवाह जाँच र बजार भाउ
+        </p>
+      </div>
+    </div>
+
+    <!-- Kantipur / Gorkhapatra Breaking Strip (Non-sticky) -->
+    <div class="bg-[#003893] text-white text-[11px] py-1">
+      <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 flex items-center gap-3 overflow-x-auto no-scrollbar whitespace-nowrap">
+        <span class="bg-[#dc143c] text-white font-bold uppercase tracking-wider px-2 py-0.5 text-[10px] shrink-0">ताजा अपडेट</span>
+        <span>PM Balen concludes Delhi visit with NPR 240B package &amp; 8 MoUs</span>
+        <span class="text-blue-300">&bull;</span>
+        <span>Special Court summons 93 incl. Madhav Nepal &amp; Minendra Rijal</span>
+        <span class="text-blue-300">&bull;</span>
+        <span>Gold +NPR 4,800 to NPR 247,400/tola</span>
+        <span class="text-blue-300">&bull;</span>
+        <span>FNJ demands withdrawal of Press Council Ordinance</span>
+      </div>
+    </div>
+  </header>
+
+  <!-- Sticky Compact Taskbar Only (Always visible while scrolling) -->
+  <div class="sticky top-0 z-30 bg-white/95 backdrop-blur-xs border-b-2 border-[#003893]">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+      <nav class="flex flex-wrap items-center justify-center gap-x-4 gap-y-1 sm:gap-x-6 py-1.5" aria-label="Primary Sections">
+        <button type="button" data-tab="overview" class="nav-tab tab-active pb-1 text-xs sm:text-[13px] whitespace-nowrap transition">
+          Today's Edition
+        </button>
+        <button type="button" data-tab="diplomacy" class="nav-tab tab-inactive pb-1 text-xs sm:text-[13px] whitespace-nowrap transition">
+          Diplomacy &amp; Cabinet
+        </button>
+        <button type="button" data-tab="analysis" class="nav-tab tab-inactive pb-1 text-xs sm:text-[13px] whitespace-nowrap transition">
+          News Analysis
+        </button>
+        <button type="button" data-tab="rumors" class="nav-tab tab-inactive pb-1 text-xs sm:text-[13px] whitespace-nowrap transition inline-flex items-center gap-1.5">
+          <span>Rumors &amp; Media Watch</span>
+          <span id="rumor-badge-count" class="text-[10px] font-bold text-[#dc143c]">5</span>
+        </button>
+        <button type="button" data-tab="civic" class="nav-tab tab-inactive pb-1 text-xs sm:text-[13px] whitespace-nowrap transition">
+          Protests &amp; Citizens
+        </button>
+        <button type="button" data-tab="prices" class="nav-tab tab-inactive pb-1 text-xs sm:text-[13px] whitespace-nowrap transition">
+          Prices &amp; Markets
+        </button>
+        <button type="button" data-tab="explainers" class="nav-tab tab-inactive pb-1 text-xs sm:text-[13px] whitespace-nowrap transition">
+          Why It Matters
+        </button>
+        <button type="button" id="btn-nav-poll" class="pb-1 text-xs sm:text-[13px] whitespace-nowrap transition font-semibold text-[#003893] hover:text-[#dc143c] border-b-2 border-transparent">
+          Citizen Poll
+        </button>
+      </nav>
+      <div class="border-t border-gray-200 py-1.5 flex flex-col sm:flex-row sm:items-center gap-2 sm:gap-4">
+        <div class="flex-1 flex items-center gap-2 min-w-0">
+          <i data-lucide="search" class="w-3.5 h-3.5 text-gray-500 shrink-0"></i>
+          <input id="global-news-search" type="text" placeholder="Search all news, ministries, protests, or rumors..." class="w-full text-xs bg-transparent focus:outline-none text-gray-900 placeholder:text-gray-400" />
+          <button id="btn-clear-global-search" type="button" class="hidden text-[11px] font-semibold text-[#dc143c] hover:underline shrink-0">Clear</button>
+        </div>
+        <form id="top-verify-form" class="flex items-center gap-1.5 sm:border-l sm:border-gray-300 sm:pl-4 shrink-0">
+          <input id="top-verify-input" type="text" placeholder="Fact-check a claim (True/False?)..." class="w-48 sm:w-56 text-xs px-2 py-1 border border-gray-300 focus:outline-none focus:border-[#003893] bg-white" />
+          <button type="submit" class="px-2.5 py-1 bg-[#dc143c] hover:bg-red-800 text-white text-[11px] font-bold uppercase tracking-wider shrink-0 transition">Fact-Check</button>
+        </form>
+      </div>
+    </div>
+  </div>
+
+  <!-- Broadsheet Key Figures Ticker Strip -->
+  <div class="border-b border-gray-200 bg-white">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-2.5 grid grid-cols-2 lg:grid-cols-4 divide-y sm:divide-y-0 sm:divide-x divide-gray-200 text-xs">
+      <div class="pr-4 py-1">
+        <span class="uppercase tracking-wider text-[10px] font-bold text-gray-500">India Package</span>
+        <div class="font-serif-editorial text-lg font-bold text-gray-900">NPR 240 Billion <span class="font-sans text-[11px] font-normal text-gray-500">(INR 15,000 Cr)</span></div>
+      </div>
+      <div class="sm:px-4 py-1">
+        <span class="uppercase tracking-wider text-[10px] font-bold text-gray-500">Bilateral Output</span>
+        <div class="font-serif-editorial text-lg font-bold text-gray-900">8 MoUs &bull; 5 Projects <span class="font-sans text-[11px] font-normal text-gray-500">Signed Today</span></div>
+      </div>
+      <div class="lg:px-4 py-1">
+        <span class="uppercase tracking-wider text-[10px] font-bold text-gray-500">Special Court</span>
+        <div class="font-serif-editorial text-lg font-bold text-gray-900">93 Summoned <span class="font-sans text-[11px] font-normal text-gray-500">Rs 734.9M Case</span></div>
+      </div>
+      <div class="sm:pl-4 py-1">
+        <span class="uppercase tracking-wider text-[10px] font-bold text-gray-500">Rumor Watch</span>
+        <div class="font-serif-editorial text-lg font-bold text-red-700" id="kpi-rumor-total">5 Tracked <span class="font-sans text-[11px] font-normal text-gray-500">Fact-Checked</span></div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Main Broadsheet Canvas -->
+  <main class="flex-1 max-w-7xl w-full mx-auto px-4 sm:px-6 lg:px-8 py-6 space-y-8">
+
+    <!-- Top Fact-Check Result Drawer (Triggered from Sticky Taskbar on any tab) -->
+    <section id="top-factcheck-panel" class="hidden border-b-2 border-[#dc143c] pb-5 space-y-2.5">
+      <div class="flex items-center justify-between border-b border-gray-200 pb-1.5">
+        <div class="text-xs font-bold uppercase tracking-wider text-[#dc143c]">तथ्य जाँच &bull; Fact-Check Desk</div>
+        <button id="btn-close-top-factcheck" type="button" class="text-xs font-semibold text-gray-600 hover:text-[#dc143c] underline">Close</button>
+      </div>
+      <div id="verify-claim-result" class="border-l-2 border-gray-300 pl-4 py-1 text-xs text-gray-600"></div>
+    </section>
+
+    <!-- Global Search Results Drawer (Shown when user types in top search bar) -->
+    <section id="global-search-panel" class="hidden border-b-2 border-[#003893] pb-6 space-y-3">
+      <div class="flex items-center justify-between border-b border-gray-200 pb-2">
+        <h2 class="font-serif-editorial text-xl font-bold text-gray-950">Search Results (<span id="global-search-count">0</span>)</h2>
+        <button id="btn-close-global-search" type="button" class="text-xs font-semibold text-[#dc143c] hover:underline">Close Results</button>
+      </div>
+      <div id="global-search-results" class="divide-y divide-gray-200"></div>
+    </section>
+
+    <!-- TAB 1: TODAY'S EDITION (LEAD + ACTION LEDGER + ACTIVITY COLUMNS) -->
+    <section id="view-overview" class="space-y-6">
+      <!-- Front Page 3-Column Broadsheet Split: Lead Story (6 cols) | Works Done Today (3 cols) | Trending & Quick Pulse (3 cols) -->
+      <div class="grid grid-cols-1 lg:grid-cols-12 gap-6 border-b-2 border-[#003893] pb-6">
+        <!-- Lead Story -->
+        <div class="lg:col-span-6 lg:border-r lg:border-gray-200 lg:pr-6 space-y-3">
+          <div class="flex items-center gap-2 text-[11px] font-bold uppercase tracking-wider text-red-700">
+            <span>Lead Dispatch</span>
+            <span class="text-gray-300">&bull;</span>
+            <span class="text-gray-500">New Delhi / Kathmandu</span>
+          </div>
+          <h2 class="font-serif-editorial text-2xl sm:text-3xl lg:text-4xl font-bold text-gray-950 leading-tight">
+            PM Balendra Shah Concludes India State Visit with NPR 240B Package, 8 MoUs &amp; Ayodhya–Janakpur Rail Launch
+          </h2>
+          <p class="text-sm sm:text-base text-gray-700 leading-relaxed">
+            Prime Minister Balendra Shah and Indian Prime Minister Narendra Modi adopted the <em>"Viksit Bharat and Samunnat Nepal"</em> Joint Vision at Hyderabad House today, announcing NPR 56 billion in reconstruction grants, NPR 184 billion in energy lines of credit, bidirectional B345 air-route talks, and access to Kandla and Paradip ports. Back in Kathmandu, Energy Minister Biraj Bhakta Shrestha served as Acting PM while the Special Court summoned 93 defendants in the NPR 734.9 million land-swap case and the Federation of Nepali Journalists demanded withdrawal of the Press Council Ordinance.
+          </p>
+          <div class="pt-1 flex flex-wrap items-center gap-4 text-xs font-semibold">
+            <a href="https://mofa.gov.np/" target="_blank" rel="noopener noreferrer" class="text-red-700 hover:underline inline-flex items-center gap-1">
+              <span>MoFA Official Portal</span>
+              <i data-lucide="arrow-up-right" class="w-3.5 h-3.5"></i>
+            </a>
+            <a href="https://english.ratopati.com/story/87929/nepal-india-joint-statement-bhairahawa-lucknow-air-route-to-be-two-way-joint-vision-of-developed-india-and-prosperous-nepal-made-public" target="_blank" rel="noopener noreferrer" class="text-gray-800 hover:text-red-700 hover:underline inline-flex items-center gap-1">
+              <span>Read Full Joint Statement</span>
+              <i data-lucide="arrow-up-right" class="w-3.5 h-3.5"></i>
+            </a>
+          </div>
+        </div>
+
+        <!-- Middle Rail (Gorkhapatra Official Ledger): Works Done Today -->
+        <aside class="lg:col-span-3 lg:border-r lg:border-gray-200 lg:pr-5 space-y-3">
+          <div class="border-b-2 border-[#003893] pb-1.5 flex items-center justify-between">
+            <h3 class="text-xs font-bold uppercase tracking-wider text-[#003893]">आजका मुख्य काम &bull; Works Done</h3>
+          </div>
+          <div id="works-done-ledger" class="divide-y divide-gray-200"></div>
+        </aside>
+
+        <!-- Right Rail (Kantipur Trending / Quick Pulse): Rumors, Protests & Markets -->
+        <aside class="lg:col-span-3 space-y-4">
+          <div class="border-b-2 border-[#dc143c] pb-1.5 flex items-center justify-between">
+            <h3 class="text-xs font-bold uppercase tracking-wider text-[#dc143c]">ट्रेन्डिङ र बजार &bull; Quick Pulse</h3>
+          </div>
+          <div class="divide-y divide-gray-200 text-xs">
+            <div class="pb-3">
+              <div class="text-[10px] font-bold uppercase tracking-wider text-gray-500">सुन–चाँदी र नेप्से (Nov 23)</div>
+              <div class="mt-1 font-bold text-gray-900">Gold: NPR 247,400/tola <span class="text-[#dc143c]">(+4,800)</span></div>
+              <div class="text-gray-700 mt-0.5">Silver: NPR 3,110 &bull; NEPSE: 2,623.56</div>
+              <button type="button" data-jump-tab="prices" class="jump-tab-btn mt-1 text-[11px] font-semibold text-[#003893] hover:underline">Full Market Rates &rarr;</button>
+            </div>
+            <div class="py-3">
+              <div class="text-[10px] font-bold uppercase tracking-wider text-gray-500">Top Rumor Watch</div>
+              <div class="mt-1 font-semibold text-gray-900 leading-snug">Bagdogra SID airspace swap vs. B345 route &amp; LDC 2029 deferral</div>
+              <button type="button" data-jump-tab="rumors" class="jump-tab-btn mt-1 text-[11px] font-semibold text-[#dc143c] hover:underline">Open Fact-Check Desk &rarr;</button>
+            </div>
+            <div class="pt-3">
+              <div class="text-[10px] font-bold uppercase tracking-wider text-gray-500">Public Protests Today</div>
+              <div class="mt-1 font-semibold text-gray-900 leading-snug">Dental Hygienists strike, FNJ district protests, 10 Maitighar sit-ins</div>
+              <button type="button" data-jump-tab="civic" class="jump-tab-btn mt-1 text-[11px] font-semibold text-[#003893] hover:underline">View Protests &amp; Opportunities &rarr;</button>
+            </div>
+          </div>
+        </aside>
+      </div>
+
+      <!-- Prominent Citizen Poll Section (Right below Front-Page Lead) -->
+      <section id="citizen-poll-section" class="border-b-2 border-[#003893] pb-5 space-y-3">
+        <div class="flex flex-col sm:flex-row sm:items-center justify-between gap-2 border-b border-gray-200 pb-2">
+          <div class="flex items-center gap-2.5">
+            <span class="text-[10px] font-bold uppercase tracking-wider bg-[#dc143c] text-white px-2 py-0.5">नागरिक मत &bull; Live Poll</span>
+            <h3 class="font-serif-editorial text-xl font-bold text-gray-950">Rate Today's Government Actions</h3>
+          </div>
+          <span class="text-[11px] text-gray-500">Vote: Best Decision &bull; Good &bull; Can Improve &bull; Needs Review</span>
+        </div>
+        <div id="polls-container" class="grid grid-cols-1 lg:grid-cols-2 gap-x-8 gap-y-4"></div>
+      </section>
+
+      <!-- Filter & Search Bar (Minimalist Editorial Bar) -->
+      <div class="flex flex-col md:flex-row md:items-center justify-between gap-3 border-b border-gray-200 pb-3">
+        <div class="flex items-center gap-4 overflow-x-auto no-scrollbar" id="activity-filter-group">
+          <button type="button" data-cat="all" class="cat-btn text-xs font-bold text-red-700 border-b-2 border-red-700 pb-1 whitespace-nowrap">All Dispatches</button>
+          <button type="button" data-cat="Official &amp; Diplomatic" class="cat-btn text-xs font-medium text-gray-600 hover:text-gray-900 pb-1 whitespace-nowrap">Official &amp; Diplomatic</button>
+          <button type="button" data-cat="Domestic &amp; Ministries" class="cat-btn text-xs font-medium text-gray-600 hover:text-gray-900 pb-1 whitespace-nowrap">Domestic &amp; Ministries</button>
+          <button type="button" data-cat="Judiciary &amp; Law" class="cat-btn text-xs font-medium text-gray-600 hover:text-gray-900 pb-1 whitespace-nowrap">Judiciary &amp; Law</button>
+          <button type="button" data-cat="Media &amp; Civic" class="cat-btn text-xs font-medium text-gray-600 hover:text-gray-900 pb-1 whitespace-nowrap">Media &amp; Civic</button>
+        </div>
+        <div class="relative w-full md:w-64">
+          <i data-lucide="search" class="w-3.5 h-3.5 text-gray-400 absolute left-2.5 top-1/2 -translate-y-1/2"></i>
+          <input id="activity-search" type="text" placeholder="Search dispatches..." class="w-full pl-8 pr-3 py-1 text-xs border-b border-gray-300 focus:outline-none focus:border-red-700 bg-transparent" />
+        </div>
+      </div>
+
+      <!-- Activity Columns -->
+      <div id="activity-grid" class="grid grid-cols-1 md:grid-cols-2 gap-x-8 gap-y-6"></div>
+
+
+    </section>
+
+    <!-- TAB 2: INDIA STATE VISIT & 8 MOUs -->
+    <section id="view-diplomacy" class="hidden space-y-8">
+      <div class="grid grid-cols-1 lg:grid-cols-12 gap-8 border-b border-gray-200 pb-8">
+        <!-- Package Chart -->
+        <div class="lg:col-span-4 lg:border-r lg:border-gray-200 lg:pr-6 flex flex-col">
+          <div class="text-[11px] font-bold uppercase tracking-wider text-red-700">Bilateral Finance</div>
+          <h3 class="font-serif-editorial text-xl font-bold text-gray-950 mt-0.5">NPR 240B Package Breakdown</h3>
+          <p class="text-xs text-gray-600 mt-1 mb-4">Announced Nov 23, 2026 under "Viksit Bharat &amp; Samunnat Nepal" (<a href="https://english.ratopati.com/story/87929/nepal-india-joint-statement-bhairahawa-lucknow-air-route-to-be-two-way-joint-vision-of-developed-india-and-prosperous-nepal-made-public" target="_blank" rel="noopener noreferrer" class="text-red-700 underline">Joint Statement</a>).</p>
+          <div class="relative h-60 w-full">
+            <canvas id="packageChart"></canvas>
+          </div>
+          <div class="mt-4 pt-3 border-t border-gray-200 grid grid-cols-2 gap-4 text-xs">
+            <div>
+              <div class="text-gray-500 font-semibold">Grant Assistance</div>
+              <div class="font-serif-editorial text-lg font-bold text-gray-900">NPR 5,600 Cr</div>
+              <div class="text-gray-500 text-[11px]">INR 3,500 Cr (Reconstruction)</div>
+            </div>
+            <div>
+              <div class="text-gray-500 font-semibold">Line of Credit</div>
+              <div class="font-serif-editorial text-lg font-bold text-gray-900">NPR 18,400 Cr</div>
+              <div class="text-gray-500 text-[11px]">INR 11,500 Cr (Energy)</div>
+            </div>
+          </div>
+        </div>
+
+        <!-- 5 Flagship Projects -->
+        <div class="lg:col-span-8">
+          <div class="flex items-center justify-between border-b border-gray-900 pb-2 mb-4">
+            <h3 class="font-serif-editorial text-xl font-bold text-gray-950">5 Flagship Infrastructure Milestones</h3>
+            <a href="https://kathmandupost.com/national/2026/11/23/shah-and-modi-inaugurate-bridge-flag-off-janakpur-ayodhya-train" target="_blank" rel="noopener noreferrer" class="text-xs font-semibold text-red-700 hover:underline">Kathmandu Post &rarr;</a>
+          </div>
+          <div class="divide-y divide-gray-200" id="flagship-projects-list"></div>
+        </div>
+      </div>
+
+      <!-- 8 MoUs + Transit/Aviation -->
+      <div class="grid grid-cols-1 lg:grid-cols-12 gap-8">
+        <div class="lg:col-span-8 lg:border-r lg:border-gray-200 lg:pr-6">
+          <div class="flex items-center justify-between border-b border-gray-900 pb-2 mb-4">
+            <h3 class="font-serif-editorial text-xl font-bold text-gray-950">8 Memoranda of Understanding (MoUs)</h3>
+            <a href="https://kathmandupost.com/national/2026/11/23/nepal-and-india-sign-eight-mous-on-cooperation-in-multiple-sectors" target="_blank" rel="noopener noreferrer" class="text-xs font-semibold text-red-700 hover:underline">Source &rarr;</a>
+          </div>
+          <div class="grid grid-cols-1 sm:grid-cols-2 gap-x-6 gap-y-4" id="mous-grid"></div>
+        </div>
+
+        <div class="lg:col-span-4 space-y-4">
+          <div class="border-b border-gray-900 pb-2">
+            <h3 class="font-serif-editorial text-xl font-bold text-gray-950">Transit, Aviation &amp; Tech</h3>
+          </div>
+          <div class="divide-y divide-gray-200 text-xs">
+            <div class="py-2.5">
+              <div class="font-bold text-gray-900">New Seaport Transit Access</div>
+              <p class="text-gray-600 mt-1">Access granted to <strong>Deendayal Port (Kandla, Gujarat)</strong>; <strong>Paradip Port (Odisha)</strong> to follow once infrastructure is ready.</p>
+            </div>
+            <div class="py-2.5">
+              <div class="font-bold text-gray-900">B345 Air Route Bidirectional</div>
+              <p class="text-gray-600 mt-1">Agreement to make the unidirectional <strong>Kathmandu–Bhairahawa–Lucknow (B345)</strong> route two-way, pending technical talks (<a href="https://myrepublica.nagariknetwork.com/news/nepal-india-agree-to-make-kathmandu-bhairahawa-lucknow-air-route-bidirectio-35-49.html" target="_blank" rel="noopener noreferrer" class="text-red-700 underline">MyRepublica</a>).</p>
+            </div>
+            <div class="py-2.5">
+              <div class="font-bold text-gray-900">Offshore IIT Campus &amp; Startup Hub</div>
+              <p class="text-gray-600 mt-1">India to establish an offshore <strong>IIT campus</strong> in Nepal alongside a startup incubator and innovation hub (<a href="https://www.thehindu.com/news/national/nepal-pm-india-visit-balen-shah-begins-bilateral-trip-energy-connectivity-on-agenda-live-updates-november-23-2026/article71733252.ece" target="_blank" rel="noopener noreferrer" class="text-red-700 underline">The Hindu</a>).</p>
+            </div>
+            <div class="py-2.5">
+              <div class="font-bold text-gray-900">Raxaul–Kathmandu Rail Survey</div>
+              <p class="text-gray-600 mt-1">Field Location Survey completed for the electrified broad-gauge Raxaul–Kathmandu railway; East-West Railway cooperation agreed.</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- TAB 3: NEWS CHANNEL DEEP ANALYSIS -->
+    <section id="view-analysis" class="hidden space-y-6">
+      <div class="grid grid-cols-1 lg:grid-cols-12 gap-8">
+        <div class="lg:col-span-4 lg:border-r lg:border-gray-200 lg:pr-6">
+          <div class="text-[11px] font-bold uppercase tracking-wider text-red-700">Scale &amp; Context</div>
+          <h3 class="font-serif-editorial text-xl font-bold text-gray-950 mt-0.5">Aid &amp; Project Scale (NPR Billions)</h3>
+          <p class="text-xs text-gray-500 mt-1 mb-4">Requested vs. Announced &amp; Major Case Figures (Nov 23, 2026)</p>
+          <div class="relative h-72 w-full">
+            <canvas id="analysisChart"></canvas>
+          </div>
+        </div>
+
+        <div class="lg:col-span-8">
+          <div class="border-b border-gray-900 pb-2 mb-4">
+            <h3 class="font-serif-editorial text-xl font-bold text-gray-950">Cross-Outlet Editorial &amp; Political Spectrum</h3>
+            <p class="text-xs text-gray-500">How Nepali, Indian, and opposition voices are framing today's developments</p>
+          </div>
+          <div class="divide-y divide-gray-200" id="analysis-cards-container"></div>
+        </div>
+      </div>
+    </section>
+
+    <!-- TAB 4: TODAY'S RUMORS & MEDIA WATCH -->
+    <section id="view-rumors" class="hidden space-y-8">
+      <div>
+        <div class="flex flex-col sm:flex-row sm:items-end justify-between gap-3 border-b-2 border-gray-900 pb-3 mb-5">
+          <div>
+            <div class="text-[11px] font-bold uppercase tracking-wider text-red-700">Fact-Check Desk</div>
+            <h3 class="font-serif-editorial text-2xl font-bold text-gray-950">Today's Rumors, Speculation &amp; Verification</h3>
+          </div>
+          <div class="flex items-center gap-3 flex-wrap text-xs" id="rumor-filter-group">
+            <button type="button" data-rstatus="all" class="rfilter-btn font-bold text-red-700 border-b-2 border-red-700 pb-0.5">All</button>
+            <button type="button" data-rstatus="Active Controversy" class="rfilter-btn font-medium text-gray-600 hover:text-gray-900 pb-0.5">Active Controversy</button>
+            <button type="button" data-rstatus="Partially Confirmed" class="rfilter-btn font-medium text-gray-600 hover:text-gray-900 pb-0.5">Partially Confirmed</button>
+            <button type="button" data-rstatus="Debunked / Outdated" class="rfilter-btn font-medium text-gray-600 hover:text-gray-900 pb-0.5">Debunked / Outdated</button>
+          </div>
+        </div>
+
+        <div id="rumors-grid" class="grid grid-cols-1 md:grid-cols-2 gap-x-8 gap-y-6"></div>
+      </div>
+
+      <!-- News Channel & Media Outlet Verification Watch -->
+      <div class="border-t-2 border-gray-900 pt-6 space-y-5">
+        <div class="flex flex-col sm:flex-row sm:items-end justify-between gap-2">
+          <div>
+            <div class="text-[11px] font-bold uppercase tracking-wider text-red-700">Media Accountability</div>
+            <h3 class="font-serif-editorial text-2xl font-bold text-gray-950">News Channel &amp; Media Outlet Verification Watch</h3>
+            <p class="text-xs text-gray-600 mt-0.5">Documented official rebuttals, Press Council Nepal actions, and fact-checker corrections—strictly cited records.</p>
+          </div>
+          <span class="text-[11px] text-gray-500">Sources: MoFA, Press Council, TechPana, CMR-Nepal</span>
+        </div>
+
+        <div class="grid grid-cols-1 lg:grid-cols-12 gap-8 items-start">
+          <div class="lg:col-span-4 lg:border-r lg:border-gray-200 lg:pr-6">
+            <div class="text-xs font-bold text-gray-900">Confirmed Misinformation Origins (2026)</div>
+            <p class="text-[11px] text-gray-500 mt-0.5 mb-3">Share of 102 fact-checked items by primary source (<a href="https://research.butmedia.org/research-publication/misinformation_nepal_election_2026/" target="_blank" rel="noopener noreferrer" class="text-red-700 underline">CMR-Nepal / NepalFactCheck</a>)</p>
+            <div class="relative h-56 w-full">
+              <canvas id="mediaOriginChart"></canvas>
+            </div>
+          </div>
+          <div class="lg:col-span-8 divide-y divide-gray-200" id="channel-watch-grid"></div>
+        </div>
+      </div>
+    </section>
+
+    <!-- TAB 5: PUBLIC PROTESTS & CITIZEN OPPORTUNITIES -->
+    <section id="view-civic" class="hidden space-y-8">
+      <div>
+        <div class="flex flex-col sm:flex-row sm:items-end justify-between gap-3 border-b-2 border-gray-900 pb-3 mb-5">
+          <div>
+            <div class="text-[11px] font-bold uppercase tracking-wider text-red-700">Street &amp; Civic Pulse</div>
+            <h3 class="font-serif-editorial text-2xl font-bold text-gray-950">Public Protests (Maitighar Mandala &amp; Nationwide)</h3>
+          </div>
+          <div class="flex items-center gap-3 flex-wrap text-xs" id="protest-filter-group">
+            <button type="button" data-pzone="all" class="pfilter-btn font-bold text-red-700 border-b-2 border-red-700 pb-0.5">All Locations</button>
+            <button type="button" data-pzone="Maitighar Mandala" class="pfilter-btn font-medium text-gray-600 hover:text-gray-900 pb-0.5">Maitighar Mandala</button>
+            <button type="button" data-pzone="National / Kathmandu" class="pfilter-btn font-medium text-gray-600 hover:text-gray-900 pb-0.5">National / Kathmandu</button>
+            <button type="button" data-pzone="Provinces" class="pfilter-btn font-medium text-gray-600 hover:text-gray-900 pb-0.5">Provinces</button>
+          </div>
+        </div>
+        <div id="protests-grid" class="grid grid-cols-1 md:grid-cols-2 gap-x-8 gap-y-5"></div>
+      </div>
+
+      <div class="border-t-2 border-gray-900 pt-6">
+        <div class="flex flex-col sm:flex-row sm:items-end justify-between gap-2 mb-5">
+          <div>
+            <div class="text-[11px] font-bold uppercase tracking-wider text-emerald-700">Citizen Impact</div>
+            <h3 class="font-serif-editorial text-2xl font-bold text-gray-950">What's New for Citizens &amp; Potential Opportunities</h3>
+          </div>
+          <a href="https://english.nepalnews.com/s/long-reads/indias-new-promises-aim-to-create-opportunities-for-nepals-youth-will-they-deliver/" target="_blank" rel="noopener noreferrer" class="text-xs font-semibold text-red-700 hover:underline">Nepal News Youth Analysis &rarr;</a>
+        </div>
+        <div id="opportunities-grid" class="grid grid-cols-1 md:grid-cols-2 gap-x-8 gap-y-5"></div>
+      </div>
+    </section>
+
+    <!-- TAB 6: PRICES & MARKETS -->
+    <section id="view-prices" class="hidden space-y-8">
+      <div class="grid grid-cols-2 lg:grid-cols-4 divide-y sm:divide-y-0 sm:divide-x divide-gray-200 border-b-2 border-gray-900 pb-5">
+        <div class="pr-4 py-2">
+          <div class="text-[11px] font-bold uppercase tracking-wider text-gray-500">24K Gold (Chhapawal)</div>
+          <div class="font-serif-editorial text-2xl font-bold text-gray-950 mt-1">NPR 247,400</div>
+          <div class="text-xs text-red-700 font-semibold mt-0.5">+NPR 4,800 / tola (Nov 23)</div>
+          <a href="https://himalpress.com/2026/11/gold-prices-which-have-been-falling-continuously-since-tihar-have-increased-sharply-today/" target="_blank" rel="noopener noreferrer" class="text-[11px] text-gray-500 underline mt-1 inline-block">FENEGOSIDA / Himal Press</a>
+        </div>
+        <div class="sm:px-4 py-2">
+          <div class="text-[11px] font-bold uppercase tracking-wider text-gray-500">Silver (Chandi)</div>
+          <div class="font-serif-editorial text-2xl font-bold text-gray-950 mt-1">NPR 3,110</div>
+          <div class="text-xs text-red-700 font-semibold mt-0.5">+NPR 45 / tola (Nov 23)</div>
+          <a href="https://himalpress.com/2026/11/gold-prices-which-have-been-falling-continuously-since-tihar-have-increased-sharply-today/" target="_blank" rel="noopener noreferrer" class="text-[11px] text-gray-500 underline mt-1 inline-block">FENEGOSIDA</a>
+        </div>
+        <div class="lg:px-4 py-2">
+          <div class="text-[11px] font-bold uppercase tracking-wider text-gray-500">NEPSE Index (Close)</div>
+          <div class="font-serif-editorial text-2xl font-bold text-gray-950 mt-1">2,623.56</div>
+          <div class="text-xs text-emerald-700 font-semibold mt-0.5">+2.26 pts &bull; NPR 3.82B turnover</div>
+          <a href="https://myrepublica.nagariknetwork.com/news/nepse-inches-up-226-points-as-daily-turnover-down-to-rs-382-billion-60-99.html" target="_blank" rel="noopener noreferrer" class="text-[11px] text-gray-500 underline mt-1 inline-block">MyRepublica</a>
+        </div>
+        <div class="sm:pl-4 py-2">
+          <div class="text-[11px] font-bold uppercase tracking-wider text-gray-500">Diesel (Nepal Retail)</div>
+          <div class="font-serif-editorial text-2xl font-bold text-gray-950 mt-1">NPR 200.00 / L</div>
+          <div class="text-xs text-gray-600 font-medium mt-0.5">Latest (Nov 16) &bull; Pipeline Phase II</div>
+          <a href="https://www.globalpetrolprices.com/Nepal/diesel_prices/" target="_blank" rel="noopener noreferrer" class="text-[11px] text-gray-500 underline mt-1 inline-block">GlobalPetrolPrices / NOC</a>
+        </div>
+      </div>
+
+      <div class="grid grid-cols-1 lg:grid-cols-12 gap-8">
+        <div class="lg:col-span-4 lg:border-r lg:border-gray-200 lg:pr-6">
+          <h3 class="font-serif-editorial text-xl font-bold text-gray-950">NEPSE Session Trajectory</h3>
+          <p class="text-xs text-gray-500 mt-0.5 mb-4">Monday, Nov 23, 2026 (106 gainers, 165 losers, 9 unchanged)</p>
+          <div class="relative h-60 w-full">
+            <canvas id="nepseChart"></canvas>
+          </div>
+          <div class="mt-4 pt-3 border-t border-gray-200 text-xs text-gray-700 space-y-1">
+            <div><strong>Top Turnover:</strong> Global IME Bank (NPR 159.35M)</div>
+            <div><strong class="text-emerald-700">Top Gainer:</strong> Menchhiyam Hydropower (+10.58%)</div>
+            <div><strong class="text-red-700">Top Loser:</strong> Vision Lumbini Urja (-8.33%)</div>
+          </div>
+        </div>
+
+        <div class="lg:col-span-8">
+          <div class="flex items-center justify-between gap-2 border-b border-gray-900 pb-2 mb-3 flex-wrap">
+            <div>
+              <h3 class="font-serif-editorial text-xl font-bold text-gray-950">Nepal Rastra Bank (NRB) Reference Forex Rates</h3>
+              <p class="text-xs text-gray-500">Official central bank rates (<a href="https://www.nrb.org.np/forex/" target="_blank" rel="noopener noreferrer" class="text-red-700 underline">NRB Forex</a> &bull; <a href="https://english.nepalnews.com/s/business/unepal-news-evening-economic-brief-november-22-2026/" target="_blank" rel="noopener noreferrer" class="text-red-700 underline">Nepal News</a>)</p>
+            </div>
+            <span class="text-xs font-semibold text-gray-700">Peg: 100 INR = 160.00 / 160.15 NPR</span>
+          </div>
+          <div class="overflow-x-auto">
+            <table class="w-full text-left border-collapse text-xs">
+              <thead>
+                <tr class="border-b border-gray-300 text-gray-600 uppercase text-[11px]">
+                  <th class="py-2 pr-3 font-bold">Currency</th>
+                  <th class="py-2 px-3 font-bold">Unit</th>
+                  <th class="py-2 px-3 font-bold">Buy (NPR)</th>
+                  <th class="py-2 pl-3 font-bold">Sell (NPR)</th>
+                </tr>
+              </thead>
+              <tbody id="forex-table-body" class="divide-y divide-gray-200"></tbody>
+            </table>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- TAB 7: WHY IT MATTERS (PLAIN-LANGUAGE CITIZEN EXPLAINERS) -->
+    <section id="view-explainers" class="hidden space-y-6">
+      <div class="border-b-2 border-[#003893] pb-4 flex flex-col md:flex-row md:items-end justify-between gap-4">
+        <div>
+          <div class="text-[11px] font-bold uppercase tracking-wider text-[#dc143c]">नागरिक व्याख्या &bull; Plain-Language Guide</div>
+          <h3 class="font-serif-editorial text-2xl font-bold text-gray-950">Why Today's Decisions Matter to Nepal &amp; Everyday Citizens</h3>
+          <p class="text-xs text-gray-600 mt-1">Simple breakdown of what changed, how things worked before, and the real economic impact on people.</p>
+        </div>
+        <div class="relative w-full md:w-72">
+          <i data-lucide="search" class="w-3.5 h-3.5 text-gray-400 absolute left-2.5 top-1/2 -translate-y-1/2"></i>
+          <input id="explainer-search" type="text" placeholder="Ask e.g. Bhairahawa air route, ports, IIT..." class="w-full pl-8 pr-3 py-1.5 text-xs border border-gray-300 focus:outline-none focus:border-[#003893]" />
+        </div>
+      </div>
+      <div id="explainers-list" class="divide-y divide-gray-200"></div>
+    </section>
+
+  </main>
+
+  <!-- Watchlist Modal -->
+  <div id="watchlist-modal" class="hidden fixed inset-0 z-50 bg-black/50 flex items-center justify-center p-4">
+    <div class="bg-white max-w-lg w-full border-t-4 border-red-700 shadow-2xl overflow-hidden">
+      <div class="px-5 py-3.5 border-b border-gray-200 flex items-center justify-between">
+        <div class="font-serif-editorial text-lg font-bold text-gray-950">Saved Dispatches &amp; Rumors</div>
+        <button id="btn-close-watchlist" type="button" class="p-1 text-gray-500 hover:text-gray-900">
+          <i data-lucide="x" class="w-4 h-4"></i>
+        </button>
+      </div>
+      <div id="watchlist-items" class="p-5 max-h-96 overflow-y-auto divide-y divide-gray-200 text-sm"></div>
+    </div>
+  </div>
+
+  <!-- Log Rumor Modal -->
+  <div id="rumor-modal" class="hidden fixed inset-0 z-50 bg-black/50 flex items-center justify-center p-4">
+    <div class="bg-white max-w-lg w-full border-t-4 border-red-700 shadow-2xl overflow-hidden">
+      <div class="px-5 py-3.5 border-b border-gray-200 flex items-center justify-between">
+        <div class="font-serif-editorial text-lg font-bold text-gray-950">Log a Circulating Rumor for Verification</div>
+        <button id="btn-close-rumor-modal" type="button" class="p-1 text-gray-500 hover:text-gray-900">
+          <i data-lucide="x" class="w-4 h-4"></i>
+        </button>
+      </div>
+      <form id="rumor-form" class="p-5 space-y-4">
+        <div>
+          <label for="rumor-title" class="block text-xs font-bold uppercase tracking-wide text-gray-700 mb-1">Claim / Rumor Headline *</label>
+          <input id="rumor-title" type="text" required placeholder="e.g., Viral TikTok claim about Cabinet reshuffle..." class="w-full px-3 py-2 text-sm border border-gray-300 focus:outline-none focus:border-red-700" />
+        </div>
+        <div>
+          <label for="rumor-source" class="block text-xs font-bold uppercase tracking-wide text-gray-700 mb-1">Where It's Circulating *</label>
+          <input id="rumor-source" type="text" required placeholder="e.g., Facebook groups, X, local portal" class="w-full px-3 py-2 text-sm border border-gray-300 focus:outline-none focus:border-red-700" />
+        </div>
+        <div>
+          <label for="rumor-status" class="block text-xs font-bold uppercase tracking-wide text-gray-700 mb-1">Initial Verification Status</label>
+          <select id="rumor-status" class="w-full px-3 py-2 text-sm border border-gray-300 focus:outline-none focus:border-red-700 bg-white">
+            <option value="Active Controversy">Active Controversy / Unverified</option>
+            <option value="Partially Confirmed">Partially Confirmed</option>
+            <option value="Debunked / Outdated">Debunked / Outdated</option>
+          </select>
+        </div>
+        <div>
+          <label for="rumor-notes" class="block text-xs font-bold uppercase tracking-wide text-gray-700 mb-1">Context / Verification Notes</label>
+          <textarea id="rumor-notes" rows="3" placeholder="Add context or official counter-statement..." class="w-full px-3 py-2 text-sm border border-gray-300 focus:outline-none focus:border-red-700"></textarea>
+        </div>
+        <div id="rumor-form-error" class="hidden text-xs text-red-700 font-semibold"></div>
+        <div class="flex justify-end gap-3 pt-2 border-t border-gray-200">
+          <button type="button" id="btn-cancel-rumor" class="px-4 py-2 text-xs font-semibold text-gray-600 hover:text-gray-900">Cancel</button>
+          <button type="submit" class="px-4 py-2 text-xs font-bold bg-red-700 hover:bg-red-800 text-white">Add to Rumor Watch</button>
+        </div>
+      </form>
+    </div>
+  </div>
+
+  <!-- Toast -->
+  <div id="toast" class="hidden fixed bottom-5 right-5 z-50 bg-gray-950 text-white text-xs font-medium px-4 py-2.5 shadow-lg"></div>
+
+  <!-- Broadsheet Footer -->
+  <footer class="border-t-2 border-gray-900 bg-gray-50 mt-12 py-6">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 flex flex-col sm:flex-row items-center justify-between gap-2 text-xs text-gray-600">
+      <div><strong>Nepal GovPulse</strong> &bull; Grounded in MoFA, NRB, Kathmandu Post, Nepal News, Ratopati, The Rising Nepal, The Hindu &amp; CMR-Nepal (Nov 23, 2026)</div>
+      <div>Kathmandu, Nepal (UTC+05:45)</div>
+    </div>
+  </footer>
+
+  <script>
+    // ---- GROUNDED DATA (NOV 23, 2026) ----
+    let ACTIVITIES = [
+      {
+        id: 'act-1',
+        category: 'Official & Diplomatic',
+        time: 'Nov 23, 2026',
+        agency: 'MoFA / OPMCM',
+        title: 'PM Balendra Shah & PM Modi Issue Joint Press Release & NPR 240B Package',
+        summary: 'India announced INR 15,000 crore (NPR 24,000 crore) in development assistance—INR 3,500 crore in grants for post-flood reconstruction and infrastructure, plus INR 11,500 crore in Line of Credit for energy projects—under the "Viksit Bharat and Samunnat Nepal" Joint Vision.',
+        sourceName: 'MoFA / Ratopati',
+        sourceUrl: 'https://english.ratopati.com/story/87929/nepal-india-joint-statement-bhairahawa-lucknow-air-route-to-be-two-way-joint-vision-of-developed-india-and-prosperous-nepal-made-public'
+      },
+      {
+        id: 'act-2',
+        category: 'Official & Diplomatic',
+        time: 'Nov 23, 2026',
+        agency: 'Office of the Prime Minister',
+        title: 'Guard of Honour at Rashtrapati Bhavan, Rajghat Tribute & President Murmu Call',
+        summary: 'PM Shah received a ceremonial welcome at Rashtrapati Bhavan, paid floral tribute to Mahatma Gandhi at Rajghat, held 100-minute bilateral talks with PM Modi at Hyderabad House, and called on President Droupadi Murmu before departing for Kathmandu.',
+        sourceName: 'The Kathmandu Post',
+        sourceUrl: 'https://kathmandupost.com/national/2026/11/23/shah-and-modi-inaugurate-bridge-flag-off-janakpur-ayodhya-train'
+      },
+      {
+        id: 'act-3',
+        category: 'Official & Diplomatic',
+        time: 'Nov 23, 2026',
+        agency: 'Civil Aviation & Transit',
+        title: 'Bidirectional B345 Air Route & Kandla/Paradip Seaport Access Agreed',
+        summary: 'Both countries agreed to convert the unidirectional B345 Kathmandu–Bhairahawa–Lucknow air route into a bidirectional corridor (subject to technical talks) and expand Nepal’s transit trade access to Deendayal Port (Kandla) and Paradip Port.',
+        sourceName: 'MyRepublica',
+        sourceUrl: 'https://myrepublica.nagariknetwork.com/news/nepal-india-agree-to-make-kathmandu-bhairahawa-lucknow-air-route-bidirectio-35-49.html'
+      },
+      {
+        id: 'act-4',
+        category: 'Judiciary & Law',
+        time: 'Nov 23, 2026',
+        agency: 'Special Court (CIAA Case)',
+        title: 'Special Court Summons Former PM Madhav Nepal, Minendra Rijal & 91 Others',
+        summary: 'The Special Court issued summonses for 93 defendants, including former PM Madhav Kumar Nepal and former Minister Minendra Rijal, in the NPR 734.9 million (Rs 735M) land-swap corruption case filed by the CIAA.',
+        sourceName: 'Ratopati',
+        sourceUrl: 'https://english.ratopati.com/story/87927/summons-issued-for-93-people-including-former-prime-minister-nepal-in-corruption-case'
+      },
+      {
+        id: 'act-5',
+        category: 'Judiciary & Law',
+        time: 'Nov 22–23, 2026',
+        agency: 'CIB / Patan High Court',
+        title: 'CIB Secures Arrest Warrant for Former Bagmati CM Indra Bahadur Baniya',
+        summary: 'Nepal Police Central Investigation Bureau (CIB) obtained a Patan High Court warrant against former Bagmati Province Chief Minister Indra Bahadur Baniya in a banking offence and suspected money laundering investigation.',
+        sourceName: 'Nepal News',
+        sourceUrl: 'https://english.nepalnews.com/s/politics/cib-secures-arrest-warrant-for-former-bagmati-chief-minister-indra-baniya/'
+      },
+      {
+        id: 'act-6',
+        category: 'Domestic & Ministries',
+        time: 'Nov 23, 2026',
+        agency: 'Acting PM / Ministry of Energy',
+        title: 'Acting PM Biraj Bhakta Shrestha Urges Local Action on Environmental Crisis',
+        summary: 'Serving as Acting Prime Minister during PM Shah’s India trip, Energy Minister Biraj Bhakta Shrestha called on local governments nationwide to draw lessons from Kathmandu’s environmental and air-quality crisis.',
+        sourceName: 'Ratopati',
+        sourceUrl: 'https://english.ratopati.com/story/87925/prime-minister-balens-visit-to-india-was-not-special-video-report'
+      },
+      {
+        id: 'act-7',
+        category: 'Domestic & Ministries',
+        time: 'Nov 23, 2026',
+        agency: 'Ministries of Industry, Women & Sports',
+        title: 'Cabinet Ministers Advance Mineral Exports, Raute Dialogue & Sports Stadiums',
+        summary: 'Industry Minister Deepak Kumar Shah pushed construction mineral export plans and warned on Koshi sediment utilization; Minister Sita Badi met Raute community members in Kathmandu; Education & Sports Minister Sasmita Pokharel chaired stadium talks.',
+        sourceName: 'Ratopati / Nepal News',
+        sourceUrl: 'https://english.nepalnews.com/s/nation/minister-badi-interacts-with-raute-people-who-are-presently-in-kathmandu/'
+      },
+      {
+        id: 'act-8',
+        category: 'Domestic & Ministries',
+        time: 'Nov 23, 2026',
+        agency: 'Kathmandu Metro & Bagmati Province',
+        title: 'KMC Launches Climate Action Week 2083 & Mobile Emergency Alert Test',
+        summary: 'KMC Acting Mayor Sunita Dangol launched Kathmandu Climate Action Week 2083 and "Recharge Kathmandu" alongside 27 air-quality zones, while authorities scheduled a mobile emergency alert test in Kathmandu Valley on Monday.',
+        sourceName: 'Nepal News',
+        sourceUrl: 'https://english.nepalnews.com/s/capital/kathmandu-plans-27-strategic-areas-to-improve-air-quality/'
+      },
+      {
+        id: 'act-9',
+        category: 'Media & Civic',
+        time: 'Nov 23, 2026',
+        agency: 'Federation of Nepali Journalists (FNJ)',
+        title: 'FNJ Dhulikhel Conference Demands Withdrawal of Press Council Ordinance',
+        summary: 'FNJ passed a 16-point resolution demanding withdrawal of the Press Council (First Amendment) Ordinance, reinstatement of journalists dismissed from state media (Gorkhapatra, NTV, Radio Nepal, RSS), and filling National Information Commission vacancies.',
+        sourceName: 'Ratopati / IFJ',
+        sourceUrl: 'https://www.ratopati.com/story/607119/federation-of-nepali-journalists-dhulikhel-conference-demand-to-withdraw-the-press-council-ordinance-and-stop-interference-in-the-media'
+      },
+      {
+        id: 'act-11',
+        category: 'Official & Diplomatic',
+        time: 'Nov 22, 2026',
+        agency: 'MoFA / Diplomatic Corps',
+        title: 'Chinese Officials Initiate Efforts for PM Balen Shah’s Visit to China',
+        summary: 'Chinese Ambassador Zhang Maoming met Foreign Minister Shisir Khanal (Nov 19) and Finance Minister Swarnim Wagle to propose an early China visit by PM Balendra Shah to advance Belt and Road Initiative (BRI) talks, as 20 RSP lawmakers continue a 10-day China visit.',
+        sourceName: 'Ratopati / Peoples’ Review',
+        sourceUrl: 'https://english.ratopati.com/story/87709/china-takes-initiative-to-invite-prime-minister-balen-to-visit'
+      },
+      {
+        id: 'act-10',
+        category: 'Judiciary & Law',
+        time: 'Nov 23, 2026',
+        agency: 'Supreme Court',
+        title: 'IGP Case Hearing Continues Amid Summons Service Dispute',
+        summary: 'The Supreme Court proceeded with hearings in the Inspector General of Police (IGP) case despite reported refusal to accept court summons, requiring proof of summons delivery.',
+        sourceName: 'Ratopati',
+        sourceUrl: 'https://english.ratopati.com/latest-news'
+      }
+    ];
+
+    const WORKS_DONE_TODAY = [
+      { agency: 'PMO / MoFA', work: 'Signed 8 MoUs, 5 projects & NPR 240B India package; activated 6-month Joint Monitoring Group', url: 'https://english.onlinekhabar.com/implementation-of-agreements-monitoring.html' },
+      { agency: 'Civil Aviation / MoFA', work: 'Agreed to make B345 Kathmandu–Bhairahawa–Lucknow air route bidirectional', url: 'https://myrepublica.nagariknetwork.com/news/nepal-india-agree-to-make-kathmandu-bhairahawa-lucknow-air-route-bidirectio-35-49.html' },
+      { agency: 'Special Court', work: 'Issued summonses for 93 defendants incl. former PM Madhav Nepal & Minendra Rijal (Rs 734.9M case)', url: 'https://english.ratopati.com/story/87927/summons-issued-for-93-people-including-former-prime-minister-nepal-in-corruption-case' },
+      { agency: 'MEC (Health/Edu)', work: 'Published Nov 23 notice for foreign candidates in DM/MCh/NBMS-SS 2026 Common Entrance Exam', url: 'https://www.mec.gov.np/en/detail/notice-for-foreign-candidates-applying-for-common-entrance-examination-of-dmmchnbms-ss-2026' },
+      { agency: 'Election Commission', work: 'Proposed local elections in April and provincial polls in November', url: 'https://english.onlinekhabar.com/implementation-of-agreements-monitoring.html' },
+      { agency: 'KMC & Authorities', work: 'Launched Kathmandu Climate Action Week 2083 & scheduled mobile emergency alert test', url: 'https://english.nepalnews.com/s/capital/kathmandu-plans-27-strategic-areas-to-improve-air-quality/' }
+    ];
+
+    const CHANNEL_WATCH = [
+      {
+        outlet: 'Prime Television (Nepal)',
+        type: 'TV News Channel',
+        recordType: 'Official Government Rebuttal',
+        detail: 'Ministry of Foreign Affairs (MoFA) issued a formal denial ("प्राइम टेलिभिजन मा प्रसारित सामग्रीको खण्डन") refuting material broadcast on Prime Television.',
+        url: 'https://mofa.gov.np/content/1733/denial-of-material-broadcast-on-prime-television/'
+      },
+      {
+        outlet: 'Multiple Nepali Outlets (Supreme Court Case)',
+        type: 'Online & Print Media',
+        recordType: 'Fact-Checker Correction',
+        detail: 'TechPana Fact Check prompted several Nepali media outlets to issue corrections after they published misleading reports regarding a Supreme Court customs order.',
+        url: 'https://www.techpana.com/2026/156757/techpana-fact-check-prompts-corrections-over-misreported-supreme-court-customs-order'
+      },
+      {
+        outlet: 'Unregistered YouTube Channels & FB Pages',
+        type: 'Digital / Video Channels',
+        recordType: 'Press Council Enforcement',
+        detail: 'Press Council Nepal took action against 9 YouTube channels and warned unregistered YouTube/Facebook portals spreading misleading, provocative, or unverified disaster content.',
+        url: 'https://english.nepalnews.com/s/nation/press-council-taking-action-against-misleading-and-provocative-content/'
+      },
+      {
+        outlet: 'Parts of Indian Media Ecosystem',
+        type: 'Regional Broadcast & Digital',
+        recordType: 'Narrative Scrutiny',
+        detail: 'The Rising Nepal scrutinized parts of the Indian media ecosystem for amplifying unverified "Chinese dam collapse" claims during the Bhote Koshi floods despite cryospheric evidence.',
+        url: 'https://risingnepaldaily.com/news/85768'
+      },
+      {
+        outlet: 'OnlineKhabar & Himalaya TV (with NepalFactCheck)',
+        type: 'Fact-Check Partnership',
+        recordType: 'Verified Counter-Misinfo',
+        detail: 'IFCN-signatory NepalFactCheck.org partnered with OnlineKhabar and Himalaya Television to publish and broadcast verified fact-checks countering viral false claims.',
+        url: 'https://research.butmedia.org/nepalfactcheck-org-collaborate-with-onlinekhabar-com-to-counter-election-misinformation-in-nepal/'
+      },
+      {
+        outlet: 'TechPana Fact Check',
+        type: 'Independent Fact-Checker',
+        recordType: 'AI & Deepfake Verification',
+        detail: 'Actively debunks AI-cloned political videos (including fake viral audio clips) and misreported court/government notices using AI detection tools.',
+        url: 'https://techpana.com/2026/155775/fact-check-ai-video-trump-warned-nepal-spp-misleading'
+      }
+    ];
+
+    let PROTESTS = [
+      {
+        id: 'prot-1',
+        zone: 'National / Kathmandu',
+        location: 'Kathmandu / Nationwide',
+        date: 'Nov 23, 2026',
+        group: 'Dental Hygienists Association of Nepal',
+        demand: '10-point charter of demands regarding scope of practice, professional rights, and regulatory recognition.',
+        status: 'Active Strike / Protest',
+        sourceName: 'Ratopati',
+        sourceUrl: 'https://english.ratopati.com/story/87886/dental-hygienists-on-strike'
+      },
+      {
+        id: 'prot-2',
+        zone: 'National / Kathmandu',
+        location: 'All 77 Districts (FNJ Branches)',
+        date: 'Nov 23, 2026',
+        group: 'Federation of Nepali Journalists (FNJ)',
+        demand: 'Withdrawal of the Press Council (First Amendment) Ordinance and reinstatement of dismissed state-media journalists; district-level media meetings today ahead of Nov 25 DAO sit-ins.',
+        status: 'Scheduled Protest Program',
+        sourceName: 'FNJ Nepal',
+        sourceUrl: 'https://fnjnepal.org/en/press/1031'
+      },
+      {
+        id: 'prot-3',
+        zone: 'Maitighar Mandala',
+        location: 'Maitighar Mandala → Jwagal',
+        date: 'Nov 20–23, 2026',
+        group: 'Gen-Z Groups ("Transparency March")',
+        demand: 'The Red Chapter, Gen-Z Movement Nepal & All Gen-Z Groups marched demanding an impartial probe into Chief Advisor Kumar Byanjankar’s alleged unauthorized phone seizure; today (Nov 23) Govt drafted a Gen-Z protest probe commission ordinance.',
+        status: 'Recent March / Govt Response',
+        sourceName: 'Lokaantar / OnlineKhabar',
+        sourceUrl: 'https://lokaantar.com/story/333645/2026/11/20/main-news/inam-sapkotas-mobile-connection-protest'
+      },
+      {
+        id: 'prot-4',
+        zone: 'Maitighar Mandala',
+        location: 'Maitighar Mandala (Tent Sit-ins)',
+        date: 'Ongoing Daily Dharna',
+        group: '10 Justice-Seeking Citizen Groups',
+        demand: 'Long-term sit-ins by families and survivors—including Rekha Hamal (son’s murder pardon), Deepa Nepali (caste discrimination, 80+ days), Sarakumari Shahi (Jajarkot), and Pushpamaya Karki (foreign employment fraud).',
+        status: 'Continuous Sit-in',
+        sourceName: 'Setopati',
+        sourceUrl: 'https://www.setopati.com/politics/393017'
+      },
+      {
+        id: 'prot-5',
+        zone: 'Provinces',
+        location: 'Barhathawa, Sarlahi (Madhesh)',
+        date: 'Nov 23, 2026',
+        group: 'Local Residents & Relatives',
+        demand: 'Vandalism and arson at Barhathawa Government Hospital following the death of a pregnant woman, demanding accountability for medical negligence.',
+        status: 'Flashpoint Protest',
+        sourceName: 'Ratopati',
+        sourceUrl: 'https://www.ratopati.com/story/607119/federation-of-nepali-journalists-dhulikhel-conference-demand-to-withdraw-the-press-council-ordinance-and-stop-interference-in-the-media'
+      },
+      {
+        id: 'prot-6',
+        zone: 'National / Kathmandu',
+        location: 'Kathmandu',
+        date: 'Nov 23, 2026',
+        group: 'Dr. Govinda KC (Medical Reform)',
+        demand: 'Issued formal warning today to resume hunger-strike satyagraha if the government fails to implement past healthcare and medical education agreements.',
+        status: 'Ultimatum Issued',
+        sourceName: 'Ratopati / OnlineKhabar',
+        sourceUrl: 'https://english.ratopati.com/story/87840/dr-govinda-kc-warns-of-resuming-satyagraha-if-agreement-is-not-implemented'
+      }
+    ];
+
+    const OPPORTUNITIES = [
+      {
+        audience: 'Students, Youth & Tech',
+        title: 'Offshore IIT Campus, Vocational Institute & Startup Incubator',
+        detail: 'India announced an offshore IIT campus, a vocational training institute, a startup incubator, an innovation hub, and new scholarships for Nepali students—creating domestic STEM and entrepreneurship pathways.',
+        caveat: 'Note: Location, intake timeline, and scholarship quotas await bilateral technical finalization.',
+        sourceName: 'OnlineKhabar / The Hindu',
+        sourceUrl: 'https://english.onlinekhabar.com/india-to-establish-iit-campus-startup-incubator-and-vocational-training-institute-in-nepal.html'
+      },
+      {
+        audience: 'Exporters, Farmers & Businesses',
+        title: 'Kandla & Paradip Seaports + Chitwan Agro-Industrial Park',
+        detail: 'Nepali traders gain western/eastern seaport options (Deendayal Port Kandla immediately; Paradip later), while Chitwan gets a grant-backed Agro-Industrial Park for agricultural processing.',
+        caveat: 'Note: Customs fees and rail/road transit logistics must be commercialized to cut freight costs.',
+        sourceName: 'Ratopati / Joint Statement',
+        sourceUrl: 'https://english.ratopati.com/story/87929/nepal-india-joint-statement-bhairahawa-lucknow-air-route-to-be-two-way-joint-vision-of-developed-india-and-prosperous-nepal-made-public'
+      },
+      {
+        audience: 'Travelers, Pilgrims & Diaspora',
+        title: 'Saryu-Kamala Rail, B345 Air Route & Easier Banking/Telecom',
+        detail: 'Weekly Janakpurdham–Ayodhya train launched; B345 Kathmandu–Bhairahawa–Lucknow route agreed to become two-way; both sides committed to easier cross-border banking and telecom access for citizens.',
+        caveat: 'Note: Full western air-entry routes (Mahendranagar) for Pokhara/Bhairahawa remain pending.',
+        sourceName: 'Nepal News / MyRepublica',
+        sourceUrl: 'https://english.nepalnews.com/s/diplomacy/prime-ministers-of-nepal-and-india-jointly-flag-off-janakpurdham-ayodhya-railway-service/'
+      },
+      {
+        audience: 'Athletes & Urban Residents',
+        title: 'Home-and-Away Sports System & KMC 27 Air-Quality Zones',
+        detail: 'PM Shah’s "home and away" league announcement aims to boost mofussil sports clubs, while KMC launched "Recharge Kathmandu" and 27 strategic air-quality improvement zones.',
+        caveat: 'Note: Implementation timelines depend on local and ministry budget rollouts.',
+        sourceName: 'Nepal News',
+        sourceUrl: 'https://english.nepalnews.com/s/capital/kathmandu-plans-27-strategic-areas-to-improve-air-quality/'
+      }
+    ];
+
+    let FOREX_RATES = [
+      { currency: 'USD (US Dollar)', unit: '1', buy: '147.98', sell: '148.58' },
+      { currency: 'INR (Indian Rupee)', unit: '100', buy: '160.00', sell: '160.15' },
+      { currency: 'EUR (Euro)', unit: '1', buy: '162.41', sell: '163.07' },
+      { currency: 'GBP (British Pound)', unit: '1', buy: '193.96', sell: '194.75' },
+      { currency: 'AUD (Australian Dollar)', unit: '1', buy: '98.55', sell: '98.95' },
+      { currency: 'AED (UAE Dirham)', unit: '1', buy: '40.29', sell: '40.45' },
+      { currency: 'SAR (Saudi Riyal)', unit: '1', buy: '39.44', sell: '39.60' },
+      { currency: 'QAR (Qatari Riyal)', unit: '1', buy: '40.61', sell: '40.78' },
+      { currency: 'CNY (Chinese Yuan)', unit: '1', buy: '22.16', sell: '22.25' },
+      { currency: 'JPY (Japanese Yen)', unit: '10', buy: '9.32', sell: '9.36' }
+    ];
+
+    const EXPLAINERS = [
+      {
+        id: 'exp-b345',
+        topic: 'Aviation & Tourism',
+        title: 'Kathmandu–Bhairahawa–Lucknow (B345) Bidirectional Air Route',
+        before: 'Before today, Nepal had 7 international exit points, but almost all international flights arriving from the west had to enter through a single point—Simara—and then turn back west. Planes heading to Bhairahawa or Pokhara had to detour up to 185 km, burning extra fuel and time. B345 was exit-only (one-way).',
+        whatChanges: 'Making B345 bidirectional means international flights from Lucknow/west can enter directly toward Bhairahawa (once bilateral technical consultations finalize operational procedures).',
+        economicImpact: 'Cuts airline fuel costs and flight times, helps Gautam Buddha International Airport (Bhairahawa) and Pokhara attract regular international carriers, and boosts Lumbini tourism and cargo.',
+        citizenBenefit: 'More direct flights for migrant workers, pilgrims, and travelers in Western Nepal without flying all the way to Kathmandu or paying detour surcharges. (Note: Mahendranagar L626 entry route is still pending.)',
+        sourceName: 'MyRepublica / OnlineKhabar / Avi-Go',
+        sourceUrl: 'https://myrepublica.nagariknetwork.com/news/nepal-india-agree-to-make-kathmandu-bhairahawa-lucknow-air-route-bidirectio-35-49.html'
+      },
+      {
+        id: 'exp-ports',
+        topic: 'Trade & Consumer Prices',
+        title: 'Access to Kandla (Gujarat) & Paradip (Odisha) Seaports',
+        before: 'As a landlocked country, Nepal relied mainly on Kolkata, Haldia, and Visakhapatnam ports for third-country imports and exports—leaving traders exposed to congestion at a few terminals.',
+        whatChanges: 'Nepal gained immediate transit access to Deendayal Port (Kandla) on India’s west coast, with Paradip Port on the east coast to follow once infrastructure is ready.',
+        economicImpact: 'Diversifies shipping routes, reduces port-congestion delays, and gives Nepali importers/exporters faster western sea access for Europe/Middle East cargo.',
+        citizenBenefit: 'Lower freight delays and steadier supply chains can help stabilize prices of imported raw materials and consumer goods—provided customs and rail-transit fees stay competitive.',
+        sourceName: 'Nepal News / Ratopati',
+        sourceUrl: 'https://english.nepalnews.com/s/long-reads/balens-delhi-visit-puts-economic-ties-on-a-new-track-but-old-disputes-remain/'
+      },
+      {
+        id: 'exp-package',
+        topic: 'Economy & Reconstruction',
+        title: 'NPR 240 Billion (INR 15,000 Cr) Package: Grants vs. Loans',
+        before: 'After the August 26 Bhote Koshi floods damaged roads, bridges, and hydropower plants, Nepal sought ~USD 2 billion in external support for reconstruction and energy projects.',
+        whatChanges: 'India announced NPR 240 billion total: NPR 56 billion (INR 3,500 Cr) in non-repayable grants for flood reconstruction/infrastructure, plus NPR 184 billion (INR 11,500 Cr) in concessional Line of Credit for energy.',
+        economicImpact: 'Grants directly fund rebuilding without adding debt, while energy credit funds power infrastructure—though economists warn concessional loans must go to high-return projects to avoid future debt strain.',
+        citizenBenefit: 'Faster restoration of flood-damaged highways/bridges in Rasuwa–Nuwakot–Dhading and expansion of clean electricity supply.',
+        sourceName: 'Ratopati / Nepal News',
+        sourceUrl: 'https://english.ratopati.com/story/87929/nepal-india-joint-statement-bhairahawa-lucknow-air-route-to-be-two-way-joint-vision-of-developed-india-and-prosperous-nepal-made-public'
+      },
+      {
+        id: 'exp-iit',
+        topic: 'Youth, Education & Jobs',
+        title: 'Offshore IIT Campus, Startup Incubator & Scholarships',
+        before: 'Thousands of Nepali engineering and tech students spend large sums abroad every year for top-tier STEM degrees, contributing to brain drain.',
+        whatChanges: 'India announced plans to establish an offshore Indian Institute of Technology (IIT) campus in Nepal, a vocational training institute, a startup incubator, and an innovation hub.',
+        economicImpact: 'Builds domestic R&D capacity, attracts tech partnerships, and retains skilled talent inside Nepal’s emerging startup ecosystem.',
+        citizenBenefit: 'Nepali students can access IIT-level engineering education and startup mentoring at home at lower cost, creating local tech jobs.',
+        sourceName: 'OnlineKhabar / The Hindu',
+        sourceUrl: 'https://english.onlinekhabar.com/india-to-establish-iit-campus-startup-incubator-and-vocational-training-institute-in-nepal.html'
+      },
+      {
+        id: 'exp-court',
+        topic: 'Governance & Press Rights',
+        title: 'Special Court Summons (93 Defendants) & Press Council Ordinance',
+        before: 'High-profile land-swap corruption allegations often stalled for years, while media regulation relied on the existing Press Council Act.',
+        whatChanges: 'The Special Court summoned 93 individuals (including former PM Madhav Nepal and Minendra Rijal) in the Rs 734.9M case; meanwhile, FNJ is protesting the Press Council (First Amendment) Ordinance.',
+        economicImpact: 'Judicial follow-through strengthens investor confidence in public-asset accountability, while press-freedom disputes affect transparency and independent reporting.',
+        citizenBenefit: 'Signals stronger accountability for public land decisions while reminding citizens to watch how media-regulation ordinances affect free speech.',
+        sourceName: 'Ratopati / IFJ',
+        sourceUrl: 'https://english.ratopati.com/story/87927/summons-issued-for-93-people-including-former-prime-minister-nepal-in-corruption-case'
+      }
+    ];
+
+    const FLAGSHIP_PROJECTS = [
+      {
+        name: 'Saryu-Kamala Express (Janakpurdham–Ayodhya Cantt)',
+        status: 'Inaugurated / Flagged Off',
+        detail: '~604 km weekly passenger rail (~19 hrs). Departs Janakpurdham Sat 1:10 PM; departs Ayodhya Cantt Mon 5:50 PM.',
+        url: 'https://english.nepalnews.com/s/diplomacy/prime-ministers-of-nepal-and-india-jointly-flag-off-janakpurdham-ayodhya-railway-service/'
+      },
+      {
+        name: '669 MW Lower Arun Hydropower Project',
+        status: 'Foundation Stone Laid',
+        detail: 'Est. cost NPR 92.67 billion (SJVN subsidiary); 21% free electricity to Nepal; financial closure still pending.',
+        url: 'https://kathmandupost.com/money/2026/11/23/nepal-and-india-pms-inaugurate-669mw-lower-arun-project'
+      },
+      {
+        name: 'Darchula (Nepal) – Dharchula (India) Motorable Bridge',
+        status: 'Inaugurated',
+        detail: 'Cross-border motorable bridge over the Mahakali River improving direct connectivity for Western Nepal.',
+        url: 'https://kathmandupost.com/national/2026/11/23/shah-and-modi-inaugurate-bridge-flag-off-janakpur-ayodhya-train'
+      },
+      {
+        name: 'Motihari–Amlekhgunj Pipeline (Phase II) & Jhapa Terminal',
+        status: 'Phase II Handed Over / Foundation Laid',
+        detail: 'Phase II handed over to Nepal; foundation stone laid for greenfield petroleum terminal in Jhapa + Siliguri–Jhapa pipeline push.',
+        url: 'https://english.ratopati.com/story/87929/nepal-india-joint-statement-bhairahawa-lucknow-air-route-to-be-two-way-joint-vision-of-developed-india-and-prosperous-nepal-made-public'
+      },
+      {
+        name: 'Banbasa Integrated Check Post (ICP)',
+        status: 'Foundation Stone Laid',
+        detail: 'New ICP at Banbasa (Uttarakhand) to streamline customs/immigration alongside ongoing ICPs at Bhairahawa, Sunauli & Dododhara-Chandani.',
+        url: 'https://english.ratopati.com/story/87929/nepal-india-joint-statement-bhairahawa-lucknow-air-route-to-be-two-way-joint-vision-of-developed-india-and-prosperous-nepal-made-public'
+      }
+    ];
+
+    const MOUS = [
+      { num: '01', title: 'Forensic Science & CIB Cooperation', parties: 'National Forensic Sciences Univ. (India) & CIB Nepal Police' },
+      { num: '02', title: 'Police Academy & Defence Training', parties: 'National Defence Univ. / RRU (India) & National Police Academy (Nepal)' },
+      { num: '03', title: 'Civil Servant Capacity Building', parties: 'NCGG (India) & Nepal Administrative Staff College (NASC / MoFAGA)' },
+      { num: '04', title: 'Ayurveda & Traditional Medicine', parties: 'Government of India & Government of Nepal' },
+      { num: '05', title: 'South Asia Satellite SATCOM Network', parties: 'ISRO (India) & Ministry of Communications & IT (MoCIT Nepal)' },
+      { num: '06', title: 'Sustainable Urban Development', parties: 'Technical Cooperation between India & Nepal' },
+      { num: '07', title: 'Health & Pharmaceuticals', parties: 'Ministry of Health & Family Welfare (India) & Ministry of Health (Nepal)' },
+      { num: '08', title: 'Livestock & Fisheries Development', parties: 'Government of India & Government of Nepal' }
+    ];
+
+    const ANALYSIS_ITEMS = [
+      {
+        outlet: 'Nepal News (Long Read)',
+        stance: 'Economic Pragmatism vs. Unresolved Disputes',
+        summary: 'Highlights that the USD 1.5B (NPR 240B) package falls below Nepal’s ~USD 2B proposal and warns of future debt pressure if concessional loans (INR 11,500 Cr) are not tied to high-return projects. Notes Kandla & Paradip were offered instead of Nepal’s preferred Mundra Port, while western air routes (Mahendranagar) and Kalapani/Lipulekh/Limpiyadhura remain unresolved.',
+        url: 'https://english.nepalnews.com/s/long-reads/balens-delhi-visit-puts-economic-ties-on-a-new-track-but-old-disputes-remain/'
+      },
+      {
+        outlet: 'The Kathmandu Post',
+        stance: 'Project Delivery & Financial Closure Watch',
+        summary: 'Reports that while the 669 MW Lower Arun foundation stone moves the Rs 92.67B project toward construction, financial closure is still pending. Details the 8 institutional MoUs and operational schedule of the Saryu-Kamala Express.',
+        url: 'https://kathmandupost.com/money/2026/11/23/nepal-and-india-pms-inaugurate-669mw-lower-arun-project'
+      },
+      {
+        outlet: 'The Hindu & Indian Express',
+        stance: 'Diplomatic Reset & Youth-Focused Pitch',
+        summary: 'Frames PM Shah’s visit as a structured reset following Nepal’s post-Sept 2025 political transition, emphasizing India’s outreach to Nepali youth via the offshore IIT campus, startup incubator, and Neighbourhood First commitments.',
+        url: 'https://www.thehindu.com/news/national/nepal-pm-india-visit-balen-shah-begins-bilateral-trip-energy-connectivity-on-agenda-live-updates-november-23-2026/article71733252.ece'
+      },
+      {
+        outlet: 'Ratopati / Opposition (CPN-UML)',
+        stance: 'Critique of Continuity & Lack of Consultation',
+        summary: 'CPN-UML Secretary Dr. Rajan Bhattarai called the visit "a continuation of the past" lacking a real policy departure—noting Terai inundation, EPG report, and border issues were sidelined, and criticizing PM Shah for not consulting opposition parties or briefing the President beforehand.',
+        url: 'https://english.ratopati.com/story/87922/expected-departure-not-seen-in-prime-ministers-visit-to-india-uml'
+      },
+      {
+        outlet: 'FNJ & IFJ (Press Freedom)',
+        stance: 'Domestic Media Regulation Pushback',
+        summary: 'While foreign policy dominated headlines, the Federation of Nepali Journalists (Dhulikhel Conference) and IFJ flagged the Press Council (First Amendment) Ordinance issued without consultation and demanded reinstatement of dismissed state-media journalists.',
+        url: 'https://www.ifj.org/media-centre/news/detail/article/nepal-government-issues-amendments-to-press-council-act-without-consultation'
+      }
+    ];
+
+    let RUMORS = [
+      {
+        id: 'rum-1',
+        status: 'Partially Confirmed',
+        title: 'Airspace Swap Rumor: "India Demands Nepali Airspace for Bagdogra in Exchange for Bhairahawa"',
+        circulatingOn: 'Nepali news commentary & social media (Nov 23, 2026)',
+        claim: 'Reports and online commentary allege India is conditioning international air-entry routes for Bhairahawa Airport on Nepal granting airspace access for Siliguri’s Bagdogra Airport.',
+        verification: 'Both Ratopati and Nepal News report that India sent a technical proposal regarding Bagdogra Standard Instrument Departure (SID). Today’s official Joint Statement only agreed to make the B345 Kathmandu–Bhairahawa–Lucknow route bidirectional, leaving full western entry routes (Mahendranagar) unresolved.',
+        sourceName: 'Nepal News / Ratopati',
+        sourceUrl: 'https://english.nepalnews.com/s/long-reads/balens-delhi-visit-puts-economic-ties-on-a-new-track-but-old-disputes-remain/'
+      },
+      {
+        id: 'rum-2',
+        status: 'Debunked / Outdated',
+        title: 'LDC Graduation Rumor: "Nepal Loses LDC Trade Privileges Tomorrow (Nov 24, 2026)"',
+        circulatingOn: 'Business forums & social media threads',
+        claim: 'Posts circulating ahead of November 24 claim Nepal is automatically graduating from Least Developed Country (LDC) status tomorrow, triggering immediate tariff hikes.',
+        verification: 'False / Outdated. Although November 24, 2026 was the original 2021 UNGA target, the United Nations approved Nepal’s deferral request in October 2026, extending the preparatory period by three years to November 24, 2029.',
+        sourceName: 'UN LDC Portal / Kathmandu Post',
+        sourceUrl: 'https://www.un.org/ldcportal/en/content/nepal-graduation-status'
+      },
+      {
+        id: 'rum-3',
+        status: 'Debunked / Outdated',
+        title: 'Bhote Koshi Flood Rumor: "A Collapsed Chinese Hydropower Dam Caused the Rasuwa Floods"',
+        circulatingOn: 'Social media & regional commentary',
+        claim: 'Viral narratives blamed a man-made "Chinese-built dam" collapse for the devastating August 26, 2026 Bhote Koshi floods (whose reconstruction aid was finalized in Delhi today).',
+        verification: 'Disputed / Debunked. Scientific assessments point to a natural cryospheric / debris-barrier event rather than a man-made hydropower dam failure, and the Chinese Embassy in Nepal formally rejected the allegation.',
+        sourceName: 'The Rising Nepal',
+        sourceUrl: 'https://risingnepaldaily.com/news/85768'
+      },
+      {
+        id: 'rum-4',
+        status: 'Active Controversy',
+        title: 'Diplomatic Protocol Rumor: "PM Shah Bypassed the President & Snubbed Diaspora Orgs in Delhi"',
+        circulatingOn: 'Ratopati trending feed & opposition briefings (Nov 22–23, 2026)',
+        claim: 'Four Nepali diaspora organizations in India issued a 7-point memorandum alleging PM Shah declined to meet them, while opposition figures claimed he bypassed the President and Parliament.',
+        verification: 'Active political dispute: CPN-UML’s Dr. Rajan Bhattarai and Niraj Acharya publicly criticized the lack of all-party consultation (noting Shah met mainly with RSP Chair Rabi Lamichhane before departing), while RSP leaders defended the visit as building bilateral trust.',
+        sourceName: 'Ratopati',
+        sourceUrl: 'https://www.ratopati.com/lang-url/606868/en'
+      },
+      {
+        id: 'rum-5',
+        status: 'Active Controversy',
+        title: 'AI & Deepfake Watch: "Edited Clips & Synthetic Audio Circulating Around Delhi Visit"',
+        circulatingOn: 'Facebook & TikTok (2026 Fact-Check Ecosystem)',
+        claim: 'Fact-checkers warn that out-of-context video clips and AI-cloned audio (similar to viral 2026 election deepfakes) are being used to misframe today’s bilateral agreements.',
+        verification: 'CMR-Nepal, NepalFactCheck, and TechPana documented that 87.25% of 2026 election misinformation spread via Facebook—mostly real content stripped of context—urging citizens to verify quotes against official MoFA/PIB texts.',
+        sourceName: 'CMR-Nepal / TechPana',
+        sourceUrl: 'https://research.butmedia.org/research-publication/misinformation_nepal_election_2026/'
+      }
+    ];
+
+    const POLLS = [
+      {
+        id: 'poll-india-package',
+        question: 'India State Visit: NPR 240B Package, 8 MoUs & B345 Bidirectional Air Route',
+        options: ['Best Decision', 'Good', 'Can Improve', 'Needs Review'],
+        counts: [14, 19, 11, 6]
+      },
+      {
+        id: 'poll-press-ordinance',
+        question: 'Press Council (First Amendment) Ordinance & Media Regulation Approach',
+        options: ['Best Decision', 'Good', 'Can Improve', 'Needs Review'],
+        counts: [3, 5, 16, 24]
+      }
+    ];
+
+    // ---- STATE ----
+    let activeTab = 'overview';
+    let activeCategory = 'all';
+    let searchQuery = '';
+    let activeRumorStatus = 'all';
+    let activeProtestZone = 'all';
+    let watchlist = new Set();
+
+    try {
+      const saved = JSON.parse(localStorage.getItem('nepal_govpulse_watchlist') || '[]');
+      if (Array.isArray(saved)) watchlist = new Set(saved);
+    } catch (e) { /* sandbox-safe fallback */ }
+
+    function saveWatchlist() {
+      try {
+        localStorage.setItem('nepal_govpulse_watchlist', JSON.stringify(Array.from(watchlist)));
+      } catch (e) { /* ignore */ }
+      document.getElementById('watchlist-count').textContent = String(watchlist.size);
+    }
+
+    function showToast(msg) {
+      const t = document.getElementById('toast');
+      t.textContent = msg;
+      t.classList.remove('hidden');
+      clearTimeout(window.__toastTimer);
+      window.__toastTimer = setTimeout(() => t.classList.add('hidden'), 2600);
+    }
+
+    // ---- RENDER FUNCTIONS (BROADSHEET EDITORIAL STYLE) ----
+    function renderWorksDone() {
+      const el = document.getElementById('works-done-ledger');
+      if (!el) return;
+      el.innerHTML = WORKS_DONE_TODAY.map(w => `
+        <a href="${w.url}" target="_blank" rel="noopener noreferrer" class="block py-2.5 group">
+          <div class="text-[10px] font-bold uppercase tracking-wider text-red-700">${w.agency}</div>
+          <div class="text-xs text-gray-800 font-medium mt-0.5 leading-snug group-hover:text-red-700 transition">${w.work}</div>
+        </a>
+      `).join('');
+    }
+
+    function renderActivities() {
+      const grid = document.getElementById('activity-grid');
+      const q = searchQuery.trim().toLowerCase();
+      const filtered = ACTIVITIES.filter(item => {
+        const matchCat = activeCategory === 'all' || item.category === activeCategory;
+        const matchQ = !q ||
+          item.title.toLowerCase().includes(q) ||
+          item.summary.toLowerCase().includes(q) ||
+          item.agency.toLowerCase().includes(q);
+        return matchCat && matchQ;
+      });
+
+      if (filtered.length === 0) {
+        grid.innerHTML = `<div class="col-span-full py-8 text-center text-sm text-gray-500 border-b border-gray-200">No dispatches match your current filter.</div>`;
+        return;
+      }
+
+      grid.innerHTML = filtered.map(item => {
+        const isSaved = watchlist.has(item.id);
+        return `
+          <article class="border-b border-gray-200 pb-5 flex flex-col justify-between gap-2.5">
+            <div>
+              <div class="flex items-center justify-between gap-2 text-[11px]">
+                <span class="font-bold uppercase tracking-wider text-red-700">${item.category} &bull; ${item.agency}</span>
+                <span class="text-gray-500">${item.time}</span>
+              </div>
+              <h3 class="font-serif-editorial text-xl font-bold text-gray-950 mt-1.5 leading-snug">${item.title}</h3>
+              <p class="text-xs sm:text-sm text-gray-700 mt-2 leading-relaxed">${item.summary}</p>
+            </div>
+            <div class="flex items-center justify-between gap-2 pt-1 text-xs">
+              <a href="${item.sourceUrl}" target="_blank" rel="noopener noreferrer" class="font-semibold text-gray-900 hover:text-red-700 underline">
+                ${item.sourceName} &rarr;
+              </a>
+              <button type="button" data-save-id="${item.id}" class="save-btn inline-flex items-center gap-1 text-xs font-medium ${isSaved ? 'text-red-700 font-bold' : 'text-gray-500 hover:text-gray-900'}">
+                <i data-lucide="bookmark" class="w-3.5 h-3.5"></i>
+                <span>${isSaved ? 'Saved' : 'Save'}</span>
+              </button>
+            </div>
+          </article>
+        `;
+      }).join('');
+
+      grid.querySelectorAll('.save-btn').forEach(btn => {
+        btn.addEventListener('click', () => {
+          const id = btn.getAttribute('data-save-id');
+          if (watchlist.has(id)) {
+            watchlist.delete(id);
+            showToast('Removed from saved');
+          } else {
+            watchlist.add(id);
+            showToast('Saved to reading list');
+          }
+          saveWatchlist();
+          renderActivities();
+        });
+      });
+
+      lucide.createIcons();
+    }
+
+    function renderDiplomacyLists() {
+      const projList = document.getElementById('flagship-projects-list');
+      projList.innerHTML = FLAGSHIP_PROJECTS.map(p => `
+        <div class="py-3 flex flex-col sm:flex-row sm:items-center justify-between gap-2">
+          <div>
+            <div class="flex items-center gap-2 flex-wrap">
+              <span class="font-serif-editorial text-base font-bold text-gray-950">${p.name}</span>
+              <span class="text-[11px] font-bold uppercase tracking-wide text-red-700">${p.status}</span>
+            </div>
+            <p class="text-xs text-gray-600 mt-1">${p.detail}</p>
+          </div>
+          <a href="${p.url}" target="_blank" rel="noopener noreferrer" class="shrink-0 text-xs font-semibold text-gray-900 hover:text-red-700 underline">Details &rarr;</a>
+        </div>
+      `).join('');
+
+      const mousGrid = document.getElementById('mous-grid');
+      mousGrid.innerHTML = MOUS.map(m => `
+        <div class="border-b border-gray-200 pb-3">
+          <div class="flex items-baseline gap-2">
+            <span class="font-serif-editorial text-base font-bold text-red-700">${m.num}.</span>
+            <span class="text-xs font-bold text-gray-950">${m.title}</span>
+          </div>
+          <p class="text-xs text-gray-600 mt-1 pl-6">${m.parties}</p>
+        </div>
+      `).join('');
+    }
+
+    function renderAnalysis() {
+      const container = document.getElementById('analysis-cards-container');
+      container.innerHTML = ANALYSIS_ITEMS.map(a => `
+        <div class="py-4">
+          <div class="flex items-center justify-between gap-2 flex-wrap">
+            <span class="font-serif-editorial text-lg font-bold text-gray-950">${a.outlet}</span>
+            <span class="text-[11px] font-bold uppercase tracking-wider text-red-700">${a.stance}</span>
+          </div>
+          <p class="text-xs sm:text-sm text-gray-700 mt-1.5 leading-relaxed">${a.summary}</p>
+          <a href="${a.url}" target="_blank" rel="noopener noreferrer" class="mt-1.5 inline-block text-xs font-semibold text-gray-900 hover:text-red-700 underline">
+            Read Full Analysis &rarr;
+          </a>
+        </div>
+      `).join('');
+    }
+
+    function renderExplainers(filterQ = '') {
+      const list = document.getElementById('explainers-list');
+      if (!list) return;
+      const rawQ = filterQ.trim().toLowerCase();
+      const STOP = new Set(['can','anyone','explain','how','will','the','give','advantages','to','nepal','why','is','it','important','economic','wise','general','people','also','yo','vanda','pahila','plane','haru','kata','bata','udthiye','aba','kasari','farak','parxa','what','are','and','for','of','in','a','an']);
+      const norm = (w) => w.replace(/[^a-z0-9]/g, '').replace('bhairawa', 'bhairahawa').replace('ktm', 'kathmandu');
+      const tokens = rawQ.split(/[\s\-]+/).map(norm).filter(w => w.length > 2 && !STOP.has(w));
+      const filtered = !tokens.length ? EXPLAINERS : EXPLAINERS
+        .map(e => {
+          const hay = (e.title + ' ' + e.before + ' ' + e.whatChanges + ' ' + e.economicImpact + ' ' + e.citizenBenefit + ' ' + e.topic).toLowerCase();
+          const score = tokens.reduce((acc, t) => acc + (hay.includes(t) ? 1 : 0), 0);
+          return { e, score };
+        })
+        .filter(x => x.score > 0)
+        .sort((a, b) => b.score - a.score)
+        .map(x => x.e);
+      if (filtered.length === 0) {
+        list.innerHTML = `<div class="py-8 text-center text-xs text-gray-500">No explainers match "${filterQ}". Try "Bhairahawa", "ports", "IIT", or "package".</div>`;
+        return;
+      }
+      list.innerHTML = filtered.map(e => `
+        <article class="py-5 space-y-3">
+          <div class="flex flex-col sm:flex-row sm:items-center justify-between gap-2">
+            <div>
+              <span class="text-[10px] font-bold uppercase tracking-wider text-[#dc143c]">${e.topic}</span>
+              <h4 class="font-serif-editorial text-xl font-bold text-gray-950 mt-0.5">${e.title}</h4>
+            </div>
+            <a href="${e.sourceUrl}" target="_blank" rel="noopener noreferrer" class="shrink-0 text-xs font-semibold text-[#003893] underline">${e.sourceName} &rarr;</a>
+          </div>
+          <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4 text-xs pt-1">
+            <div class="border-l-2 border-gray-300 pl-3">
+              <div class="font-bold text-gray-900 uppercase text-[10px] tracking-wider">Before (पहिले के थियो?)</div>
+              <p class="text-gray-700 mt-1 leading-relaxed">${e.before}</p>
+            </div>
+            <div class="border-l-2 border-[#003893] pl-3">
+              <div class="font-bold text-[#003893] uppercase text-[10px] tracking-wider">What Changes Now (अब के फरक पर्छ?)</div>
+              <p class="text-gray-700 mt-1 leading-relaxed">${e.whatChanges}</p>
+            </div>
+            <div class="border-l-2 border-emerald-700 pl-3">
+              <div class="font-bold text-emerald-700 uppercase text-[10px] tracking-wider">Economic Impact</div>
+              <p class="text-gray-700 mt-1 leading-relaxed">${e.economicImpact}</p>
+            </div>
+            <div class="border-l-2 border-[#dc143c] pl-3">
+              <div class="font-bold text-[#dc143c] uppercase text-[10px] tracking-wider">For Everyday Nepalis</div>
+              <p class="text-gray-700 mt-1 leading-relaxed">${e.citizenBenefit}</p>
+            </div>
+          </div>
+        </article>
+      `).join('');
+    }
+
+    function renderRumors() {
+      const grid = document.getElementById('rumors-grid');
+      const filtered = RUMORS.filter(r => activeRumorStatus === 'all' || r.status === activeRumorStatus);
+      document.getElementById('rumor-badge-count').textContent = String(RUMORS.length);
+      document.getElementById('kpi-rumor-total').innerHTML = `${RUMORS.length} Tracked <span class="font-sans text-[11px] font-normal text-gray-500">Fact-Checked</span>`;
+
+      if (filtered.length === 0) {
+        grid.innerHTML = `<div class="col-span-full py-8 text-center text-sm text-gray-500 border-b border-gray-200">No rumors match this verification filter.</div>`;
+        return;
+      }
+
+      grid.innerHTML = filtered.map(r => {
+        const isSaved = watchlist.has(r.id);
+        const statusColor = r.status === 'Debunked / Outdated' ? 'text-emerald-700' : (r.status === 'Partially Confirmed' ? 'text-amber-700' : 'text-red-700');
+        return `
+          <article class="border-b border-gray-200 pb-5 flex flex-col justify-between gap-2.5">
+            <div>
+              <div class="flex items-center justify-between gap-2 text-[11px]">
+                <span class="font-bold uppercase tracking-wider ${statusColor}">${r.status}</span>
+                <span class="text-gray-500">${r.circulatingOn}</span>
+              </div>
+              <h4 class="font-serif-editorial text-lg font-bold text-gray-950 mt-1.5 leading-snug">${r.title}</h4>
+              <div class="mt-2 border-l-2 border-red-700 pl-3 text-xs text-gray-700">
+                <strong class="text-gray-900">Claim:</strong> ${r.claim}
+              </div>
+              <p class="mt-2 text-xs sm:text-sm text-gray-700 leading-relaxed">
+                <strong class="text-gray-900">Verification:</strong> ${r.verification}
+              </p>
+            </div>
+            <div class="flex items-center justify-between gap-2 pt-1 text-xs">
+              ${r.sourceUrl ? `<a href="${r.sourceUrl}" target="_blank" rel="noopener noreferrer" class="font-semibold text-gray-900 hover:text-red-700 underline">Verify: ${r.sourceName} &rarr;</a>` : `<span class="text-gray-500">User-logged claim</span>`}
+              <button type="button" data-save-id="${r.id}" class="rumor-save-btn inline-flex items-center gap-1 text-xs font-medium ${isSaved ? 'text-red-700 font-bold' : 'text-gray-500 hover:text-gray-900'}">
+                <i data-lucide="bookmark" class="w-3.5 h-3.5"></i>
+                <span>${isSaved ? 'Saved' : 'Save'}</span>
+              </button>
+            </div>
+          </article>
+        `;
+      }).join('');
+
+      grid.querySelectorAll('.rumor-save-btn').forEach(btn => {
+        btn.addEventListener('click', () => {
+          const id = btn.getAttribute('data-save-id');
+          if (watchlist.has(id)) {
+            watchlist.delete(id);
+            showToast('Removed from saved');
+          } else {
+            watchlist.add(id);
+            showToast('Saved to reading list');
+          }
+          saveWatchlist();
+          renderRumors();
+        });
+      });
+
+      lucide.createIcons();
+    }
+
+    function renderChannelWatch() {
+      const el = document.getElementById('channel-watch-grid');
+      if (!el) return;
+      el.innerHTML = CHANNEL_WATCH.map(c => `
+        <div class="py-3.5 flex flex-col sm:flex-row sm:items-start justify-between gap-3">
+          <div>
+            <div class="flex items-center gap-2 flex-wrap">
+              <span class="font-serif-editorial text-base font-bold text-gray-950">${c.outlet}</span>
+              <span class="text-[11px] font-bold uppercase tracking-wider text-red-700">${c.recordType}</span>
+              <span class="text-[11px] text-gray-500">&bull; ${c.type}</span>
+            </div>
+            <p class="text-xs text-gray-700 mt-1 leading-relaxed">${c.detail}</p>
+          </div>
+          <a href="${c.url}" target="_blank" rel="noopener noreferrer" class="shrink-0 text-xs font-semibold text-gray-900 hover:text-red-700 underline">Record &rarr;</a>
+        </div>
+      `).join('');
+    }
+
+    function renderProtests() {
+      const grid = document.getElementById('protests-grid');
+      if (!grid) return;
+      const filtered = PROTESTS.filter(p => activeProtestZone === 'all' || p.zone === activeProtestZone);
+      grid.innerHTML = filtered.map(p => `
+        <div class="border-b border-gray-200 pb-4 flex flex-col justify-between gap-2">
+          <div>
+            <div class="flex items-center justify-between gap-2 text-[11px]">
+              <span class="font-bold uppercase tracking-wider text-red-700">${p.status}</span>
+              <span class="text-gray-500">${p.location} &bull; ${p.date}</span>
+            </div>
+            <div class="font-serif-editorial text-lg font-bold text-gray-950 mt-1">${p.group}</div>
+            <p class="text-xs sm:text-sm text-gray-700 mt-1 leading-relaxed">${p.demand}</p>
+          </div>
+          <a href="${p.sourceUrl}" target="_blank" rel="noopener noreferrer" class="text-xs font-semibold text-gray-900 hover:text-red-700 underline">
+            Source: ${p.sourceName} &rarr;
+          </a>
+        </div>
+      `).join('');
+    }
+
+    function renderOpportunities() {
+      const grid = document.getElementById('opportunities-grid');
+      if (!grid) return;
+      grid.innerHTML = OPPORTUNITIES.map(o => `
+        <div class="border-b border-gray-200 pb-4 flex flex-col justify-between gap-2">
+          <div>
+            <span class="text-[11px] font-bold uppercase tracking-wider text-emerald-700">${o.audience}</span>
+            <div class="font-serif-editorial text-lg font-bold text-gray-950 mt-1">${o.title}</div>
+            <p class="text-xs sm:text-sm text-gray-700 mt-1 leading-relaxed">${o.detail}</p>
+            <p class="text-[11px] text-gray-500 mt-1 italic">${o.caveat}</p>
+          </div>
+          <a href="${o.sourceUrl}" target="_blank" rel="noopener noreferrer" class="text-xs font-semibold text-gray-900 hover:text-red-700 underline">
+            Source: ${o.sourceName} &rarr;
+          </a>
+        </div>
+      `).join('');
+    }
+
+    function renderForexTable() {
+      const tbody = document.getElementById('forex-table-body');
+      if (!tbody) return;
+      tbody.innerHTML = FOREX_RATES.map(r => `
+        <tr class="hover:bg-gray-50">
+          <td class="py-2 pr-3 font-semibold text-gray-900">${r.currency}</td>
+          <td class="py-2 px-3 text-gray-500">${r.unit}</td>
+          <td class="py-2 px-3 font-medium text-emerald-700">${r.buy}</td>
+          <td class="py-2 pl-3 font-medium text-gray-900">${r.sell}</td>
+        </tr>
+      `).join('');
+    }
+
+    function renderWatchlistModal() {
+      const container = document.getElementById('watchlist-items');
+      const allItems = [...ACTIVITIES, ...RUMORS];
+      const savedItems = allItems.filter(i => watchlist.has(i.id));
+      if (savedItems.length === 0) {
+        container.innerHTML = `<p class="text-gray-500 text-center py-6">No saved items yet. Click "Save" on any dispatch or rumor to track it here.</p>`;
+        return;
+      }
+      container.innerHTML = savedItems.map(item => `
+        <div class="py-3 flex items-start justify-between gap-3">
+          <div>
+            <div class="text-xs font-bold text-gray-900">${item.title}</div>
+            <div class="text-[11px] text-gray-500 mt-0.5">${item.category || item.status}</div>
+          </div>
+          <button type="button" data-remove-id="${item.id}" class="remove-wl-btn text-xs text-red-700 font-semibold hover:underline shrink-0">Remove</button>
+        </div>
+      `).join('');
+
+      container.querySelectorAll('.remove-wl-btn').forEach(btn => {
+        btn.addEventListener('click', () => {
+          watchlist.delete(btn.getAttribute('data-remove-id'));
+          saveWatchlist();
+          renderWatchlistModal();
+          renderActivities();
+          renderRumors();
+        });
+      });
+    }
+
+    // ---- CHARTS ----
+    let chartsInitialized = false;
+    function initCharts() {
+      if (chartsInitialized || typeof Chart === 'undefined') return;
+      chartsInitialized = true;
+
+      const pkgCtx = document.getElementById('packageChart').getContext('2d');
+      new Chart(pkgCtx, {
+        type: 'doughnut',
+        data: {
+          labels: ['Grants (Reconstruction)', 'Line of Credit (Energy)'],
+          datasets: [{
+            data: [5600, 18400],
+            backgroundColor: ['#b91c1c', '#111827'],
+            borderWidth: 0
+          }]
+        },
+        options: {
+          responsive: true,
+          maintainAspectRatio: false,
+          plugins: { legend: { position: 'bottom', labels: { boxWidth: 12, font: { size: 11 } } } }
+        }
+      });
+
+      const anCtx = document.getElementById('analysisChart').getContext('2d');
+      new Chart(anCtx, {
+        type: 'bar',
+        data: {
+          labels: ['Nepal Proposal (~$2B)', 'India Package ($1.5B)', 'Lower Arun Cost', 'Special Court Case'],
+          datasets: [{
+            label: 'Scale (NPR Billions)',
+            data: [320, 240, 92.67, 0.735],
+            backgroundColor: ['#9ca3af', '#111827', '#374151', '#b91c1c'],
+            borderRadius: 2
+          }]
+        },
+        options: {
+          indexAxis: 'y',
+          responsive: true,
+          maintainAspectRatio: false,
+          plugins: { legend: { display: false } },
+          scales: { x: { beginAtZero: true, title: { display: true, text: 'NPR Billions (Approx.)', font: { size: 11 } } } }
+        }
+      });
+    }
+
+    let mediaOriginChartInit = false;
+    function initMediaOriginChart() {
+      if (mediaOriginChartInit || typeof Chart === 'undefined') return;
+      const el = document.getElementById('mediaOriginChart');
+      if (!el) return;
+      mediaOriginChartInit = true;
+      new Chart(el.getContext('2d'), {
+        type: 'bar',
+        data: {
+          labels: ['Facebook', 'Online Media', 'Mainstream Media', 'TikTok', 'Other'],
+          datasets: [{
+            label: 'Share (%)',
+            data: [87.25, 5.88, 2.94, 2.94, 0.98],
+            backgroundColor: ['#b91c1c', '#374151', '#6b7280', '#9ca3af', '#d1d5db'],
+            borderRadius: 2
+          }]
+        },
+        options: {
+          indexAxis: 'y',
+          responsive: true,
+          maintainAspectRatio: false,
+          plugins: { legend: { display: false } },
+          scales: {
+            x: { beginAtZero: true, max: 100, ticks: { callback: v => v + '%', font: { size: 10 } } },
+            y: { ticks: { font: { size: 10 } } }
+          }
+        }
+      });
+    }
+
+    let nepseChartInit = false;
+    function initNepseChart() {
+      if (nepseChartInit || typeof Chart === 'undefined') return;
+      const el = document.getElementById('nepseChart');
+      if (!el) return;
+      nepseChartInit = true;
+      new Chart(el.getContext('2d'), {
+        type: 'line',
+        data: {
+          labels: ['Open', 'Early Dip (Low)', 'Close (Nov 23)'],
+          datasets: [{
+            label: 'NEPSE Index',
+            data: [2621.30, 2608.26, 2623.56],
+            borderColor: '#b91c1c',
+            backgroundColor: 'rgba(185, 28, 28, 0.08)',
+            fill: true,
+            tension: 0.3,
+            pointRadius: 5
+          }]
+        },
+        options: {
+          responsive: true,
+          maintainAspectRatio: false,
+          plugins: { legend: { display: false } },
+          scales: { y: { min: 2600, max: 2630 } }
+        }
+      });
+    }
+
+    // ---- NAVIGATION & EVENTS ----
+    function switchTab(tabName) {
+      activeTab = tabName;
+      ['overview', 'diplomacy', 'analysis', 'rumors', 'civic', 'prices', 'explainers'].forEach(t => {
+        document.getElementById(`view-${t}`).classList.toggle('hidden', t !== tabName);
+      });
+      document.querySelectorAll('.jump-tab-btn').forEach(btn => {
+      btn.addEventListener('click', () => switchTab(btn.getAttribute('data-jump-tab')));
+    });
+
+    document.querySelectorAll('.nav-tab').forEach(btn => {
+        const isActive = btn.getAttribute('data-tab') === tabName;
+        btn.classList.toggle('tab-active', isActive);
+        btn.classList.toggle('tab-inactive', !isActive);
+      });
+      if (tabName === 'diplomacy' || tabName === 'analysis') initCharts();
+      if (tabName === 'rumors') initMediaOriginChart();
+      if (tabName === 'prices') initNepseChart();
+      lucide.createIcons();
+    }
+
+    document.querySelectorAll('.nav-tab').forEach(btn => {
+      btn.addEventListener('click', () => switchTab(btn.getAttribute('data-tab')));
+    });
+
+    document.querySelectorAll('.cat-btn').forEach(btn => {
+      btn.addEventListener('click', () => {
+        activeCategory = btn.getAttribute('data-cat');
+        document.querySelectorAll('.cat-btn').forEach(b => {
+          const on = b === btn;
+          b.className = `cat-btn text-xs pb-1 whitespace-nowrap ${on ? 'font-bold text-red-700 border-b-2 border-red-700' : 'font-medium text-gray-600 hover:text-gray-900'}`;
+        });
+        renderActivities();
+      });
+    });
+
+    document.getElementById('activity-search').addEventListener('input', (e) => {
+      searchQuery = e.target.value;
+      renderActivities();
+    });
+
+    document.querySelectorAll('.rfilter-btn').forEach(btn => {
+      btn.addEventListener('click', () => {
+        activeRumorStatus = btn.getAttribute('data-rstatus');
+        document.querySelectorAll('.rfilter-btn').forEach(b => {
+          const on = b === btn;
+          b.className = `rfilter-btn pb-0.5 ${on ? 'font-bold text-red-700 border-b-2 border-red-700' : 'font-medium text-gray-600 hover:text-gray-900'}`;
+        });
+        renderRumors();
+      });
+    });
+
+    document.querySelectorAll('.pfilter-btn').forEach(btn => {
+      btn.addEventListener('click', () => {
+        activeProtestZone = btn.getAttribute('data-pzone');
+        document.querySelectorAll('.pfilter-btn').forEach(b => {
+          const on = b === btn;
+          b.className = `pfilter-btn pb-0.5 ${on ? 'font-bold text-red-700 border-b-2 border-red-700' : 'font-medium text-gray-600 hover:text-gray-900'}`;
+        });
+        renderProtests();
+      });
+    });
+
+    // Modals
+    document.getElementById('btn-watchlist-toggle').addEventListener('click', () => {
+      renderWatchlistModal();
+      document.getElementById('watchlist-modal').classList.remove('hidden');
+    });
+    document.getElementById('btn-close-watchlist').addEventListener('click', () => {
+      document.getElementById('watchlist-modal').classList.add('hidden');
+    });
+
+    document.getElementById('btn-open-rumor-modal').addEventListener('click', () => {
+      document.getElementById('rumor-modal').classList.remove('hidden');
+    });
+    ['btn-close-rumor-modal', 'btn-cancel-rumor'].forEach(id => {
+      document.getElementById(id).addEventListener('click', () => {
+        document.getElementById('rumor-modal').classList.add('hidden');
+      });
+    });
+
+    document.getElementById('rumor-form').addEventListener('submit', (e) => {
+      e.preventDefault();
+      const title = document.getElementById('rumor-title').value.trim();
+      const source = document.getElementById('rumor-source').value.trim();
+      const status = document.getElementById('rumor-status').value;
+      const notes = document.getElementById('rumor-notes').value.trim();
+      const err = document.getElementById('rumor-form-error');
+
+      if (!title || !source) {
+        err.textContent = 'Please provide both a claim headline and where it is circulating.';
+        err.classList.remove('hidden');
+        return;
+      }
+      err.classList.add('hidden');
+
+      RUMORS.unshift({
+        id: 'rum-user-' + Date.now(),
+        status,
+        title,
+        circulatingOn: source,
+        claim: title,
+        verification: notes || 'Logged for verification against official MoFA/OPMCM releases and Nepali fact-checkers.',
+        sourceName: '',
+        sourceUrl: ''
+      });
+
+      document.getElementById('rumor-form').reset();
+      document.getElementById('rumor-modal').classList.add('hidden');
+      switchTab('rumors');
+      renderRumors();
+      showToast('Rumor added to today’s watch list');
+    });
+
+    function updateNepaliDateDisplay() {
+      const el = document.getElementById('nst-date');
+      if (!el) return;
+      try {
+        el.textContent = new Date().toLocaleDateString('en-US', {
+          timeZone: 'Asia/Kathmandu',
+          weekday: 'long',
+          year: 'numeric',
+          month: 'long',
+          day: 'numeric'
+        });
+      } catch (e) { /* fallback to static date */ }
+    }
+
+    let userVotes = {};
+    try {
+      userVotes = JSON.parse(localStorage.getItem('nepal_govpulse_votes') || '{}') || {};
+    } catch (e) { userVotes = {}; }
+
+    function renderPolls() {
+      const container = document.getElementById('polls-container');
+      if (!container) return;
+      container.innerHTML = POLLS.map(poll => {
+        const votedIdx = userVotes[poll.id];
+        const total = poll.counts.reduce((a, b) => a + b, 0) || 1;
+        return `
+          <div class="py-3.5 space-y-2.5">
+            <div class="font-serif-editorial text-base font-bold text-gray-950">${poll.question}</div>
+            <div class="grid grid-cols-2 sm:grid-cols-4 gap-2">
+              ${poll.options.map((opt, idx) => {
+                const isSelected = votedIdx === idx;
+                const pct = Math.round((poll.counts[idx] / total) * 100);
+                return `
+                  <button type="button" data-poll-id="${poll.id}" data-opt-idx="${idx}" class="poll-vote-btn text-left px-2.5 py-1.5 border text-xs transition ${isSelected ? 'border-[#dc143c] bg-red-50/70 font-bold text-[#dc143c]' : 'border-gray-300 hover:border-[#003893] text-gray-800'}">
+                    <div class="flex items-center justify-between gap-1">
+                      <span>${opt}</span>
+                      ${votedIdx !== undefined ? `<span class="text-[11px] font-bold">${pct}%</span>` : ''}
+                    </div>
+                  </button>
+                `;
+              }).join('')}
+            </div>
+            ${votedIdx !== undefined ? `<div class="text-[11px] text-gray-500">Total votes: ${total} &bull; You voted: <strong class="text-gray-800">${poll.options[votedIdx]}</strong></div>` : `<div class="text-[11px] text-gray-500">Click an option to cast your vote (${total} votes so far)</div>`}
+          </div>
+        `;
+      }).join('');
+
+      container.querySelectorAll('.poll-vote-btn').forEach(btn => {
+        btn.addEventListener('click', () => {
+          const pid = btn.getAttribute('data-poll-id');
+          const idx = Number(btn.getAttribute('data-opt-idx'));
+          const poll = POLLS.find(p => p.id === pid);
+          if (!poll) return;
+          if (userVotes[pid] !== undefined) {
+            poll.counts[userVotes[pid]] = Math.max(0, poll.counts[userVotes[pid]] - 1);
+          }
+          userVotes[pid] = idx;
+          poll.counts[idx] += 1;
+          try { localStorage.setItem('nepal_govpulse_votes', JSON.stringify(userVotes)); } catch (e) {}
+          renderPolls();
+          showToast('Vote recorded');
+        });
+      });
+    }
+
+    function runGlobalSearch(rawQuery) {
+      const q = rawQuery.trim().toLowerCase();
+      const panel = document.getElementById('global-search-panel');
+      const clearBtn = document.getElementById('btn-clear-global-search');
+      const resEl = document.getElementById('global-search-results');
+      const countEl = document.getElementById('global-search-count');
+      if (!q) {
+        panel.classList.add('hidden');
+        clearBtn.classList.add('hidden');
+        return;
+      }
+      clearBtn.classList.remove('hidden');
+      const corpus = [
+        ...ACTIVITIES.map(a => ({ type: a.category, title: a.title, text: a.summary, source: a.sourceName, url: a.sourceUrl })),
+        ...RUMORS.map(r => ({ type: 'Rumor Watch • ' + r.status, title: r.title, text: r.verification, source: r.sourceName, url: r.sourceUrl })),
+        ...PROTESTS.map(p => ({ type: 'Protest • ' + p.location, title: p.group, text: p.demand, source: p.sourceName, url: p.sourceUrl })),
+        ...CHANNEL_WATCH.map(c => ({ type: 'Media Watch • ' + c.recordType, title: c.outlet, text: c.detail, source: c.outlet, url: c.url })),
+        ...OPPORTUNITIES.map(o => ({ type: 'Citizen Opportunity', title: o.title, text: o.detail, source: o.sourceName, url: o.sourceUrl }))
+      ];
+      const matches = corpus.filter(item =>
+        (item.title + ' ' + item.text + ' ' + item.type).toLowerCase().includes(q)
+      );
+      countEl.textContent = String(matches.length);
+      panel.classList.remove('hidden');
+      if (matches.length === 0) {
+        resEl.innerHTML = `<div class="py-4 text-xs text-gray-500">No matching dispatches, protests, or fact-checks found for "${rawQuery}".</div>`;
+        return;
+      }
+      resEl.innerHTML = matches.map(m => `
+        <div class="py-3 flex flex-col sm:flex-row sm:items-start justify-between gap-2">
+          <div>
+            <div class="text-[10px] font-bold uppercase tracking-wider text-[#dc143c]">${m.type}</div>
+            <div class="font-serif-editorial text-base font-bold text-gray-950 mt-0.5">${m.title}</div>
+            <p class="text-xs text-gray-700 mt-1">${m.text}</p>
+          </div>
+          ${m.url ? `<a href="${m.url}" target="_blank" rel="noopener noreferrer" class="shrink-0 text-xs font-semibold text-[#003893] hover:underline">${m.source || 'Source'} &rarr;</a>` : ''}
+        </div>
+      `).join('');
+    }
+
+    function checkClaimVeracity(query) {
+      const raw = query.trim();
+      const out = document.getElementById('verify-claim-result');
+      if (!raw) {
+        out.className = 'border-l-2 border-gray-300 pl-4 py-1 text-xs text-gray-600';
+        out.textContent = 'Please enter a news headline or claim to check.';
+        return;
+      }
+
+      const STOPWORDS = new Set([
+        'the', 'a', 'an', 'is', 'are', 'was', 'were', 'be', 'been', 'for', 'of', 'in', 'on', 'at', 'to',
+        'and', 'or', 'but', 'with', 'from', 'by', 'as', 'it', 'this', 'that', 'whether', 'true', 'false',
+        'verified', 'unverified', 'news', 'claim', 'rumor', 'nepal', 'nepali', 'govt', 'government',
+        'official', 'officials', 'push', 'pushes', 'pushed', 'says', 'said', 'today', 'yesterday'
+      ]);
+
+      const normalizeToken = (t) => {
+        let w = t.toLowerCase().replace(/['’]s$/g, '').replace(/[^a-z0-9]/g, '');
+        if (w === 'chinese') return 'china';
+        if (w.length > 4 && w.endsWith('s')) w = w.slice(0, -1);
+        return w;
+      };
+
+      const tokens = Array.from(new Set(
+        raw.split(/\s+/).map(normalizeToken).filter(w => w.length > 2 && !STOPWORDS.has(w))
+      ));
+
+      if (tokens.length === 0) {
+        out.className = 'border-l-2 border-amber-600 pl-4 py-1 text-xs text-gray-700';
+        out.textContent = 'Please include specific names, places, or topics (e.g., "Balen China visit", "LDC graduation", "Bagdogra airspace").';
+        return;
+      }
+
+      const minHitsRequired = tokens.length === 1 ? 1 : Math.max(2, Math.ceil(tokens.length * 0.5));
+
+      const evaluateItem = (title, body) => {
+        const normTitle = title.toLowerCase().replace(/chinese/g, 'china');
+        const normBody = body.toLowerCase().replace(/chinese/g, 'china');
+        let hits = 0;
+        let score = 0;
+        tokens.forEach(tok => {
+          const rx = new RegExp('\\b' + tok + '[a-z0-9]*\\b', 'i');
+          const inTitle = rx.test(normTitle);
+          const inBody = rx.test(normBody);
+          if (inTitle || inBody) {
+            hits += 1;
+            score += inTitle ? 3 : 1;
+          }
+        });
+        return { hits, score };
+      };
+
+      let bestRumor = null, bestR = { hits: 0, score: 0 };
+      RUMORS.forEach(r => {
+        const res = evaluateItem(r.title, r.claim + ' ' + r.verification);
+        if (res.hits >= minHitsRequired && (res.score > bestR.score || (res.score === bestR.score && res.hits > bestR.hits))) {
+          bestR = res;
+          bestRumor = r;
+        }
+      });
+
+      const factRecords = [
+        ...ACTIVITIES.map(a => ({ title: a.title, summary: a.summary + ' ' + a.agency, sourceName: a.sourceName, sourceUrl: a.sourceUrl })),
+        ...WORKS_DONE_TODAY.map(w => ({ title: w.work, summary: w.agency, sourceName: 'Official Ledger', sourceUrl: w.url })),
+        ...PROTESTS.map(p => ({ title: p.group + ' (' + p.location + ')', summary: p.demand, sourceName: p.sourceName, sourceUrl: p.sourceUrl })),
+        ...OPPORTUNITIES.map(o => ({ title: o.title, summary: o.detail, sourceName: o.sourceName, sourceUrl: o.sourceUrl }))
+      ];
+
+      let bestAct = null, bestA = { hits: 0, score: 0 };
+      factRecords.forEach(a => {
+        const res = evaluateItem(a.title, a.summary || '');
+        if (res.hits >= minHitsRequired && (res.score > bestA.score || (res.score === bestA.score && res.hits > bestA.hits))) {
+          bestA = res;
+          bestAct = a;
+        }
+      });
+
+      if (bestAct && bestA.score >= bestR.score) {
+        out.className = 'border-l-2 border-emerald-700 pl-4 py-1 space-y-1.5 text-xs';
+        out.innerHTML = `
+          <div class="font-bold uppercase tracking-wider text-emerald-700">Verdict: VERIFIED / REPORTED IN RECENT NEWS</div>
+          <div class="font-serif-editorial text-sm font-bold text-gray-950">${bestAct.title}</div>
+          <p class="text-gray-700 leading-relaxed">${bestAct.summary || ''}</p>
+          <a href="${bestAct.sourceUrl}" target="_blank" rel="noopener noreferrer" class="inline-block font-semibold text-[#003893] underline">Source: ${bestAct.sourceName} &rarr;</a>
+        `;
+      } else if (bestRumor) {
+        const verdict = bestRumor.status === 'Debunked / Outdated' ? 'FALSE / DEBUNKED' : (bestRumor.status === 'Partially Confirmed' ? 'PARTIALLY CONFIRMED' : 'UNVERIFIED / ACTIVE CONTROVERSY');
+        const borderCol = bestRumor.status === 'Partially Confirmed' ? 'border-amber-600' : 'border-red-700';
+        out.className = `border-l-2 ${borderCol} pl-4 py-1 space-y-1.5 text-xs`;
+        out.innerHTML = `
+          <div class="font-bold uppercase tracking-wider text-[#dc143c]">Verdict: ${verdict}</div>
+          <div class="font-serif-editorial text-sm font-bold text-gray-950">${bestRumor.title}</div>
+          <p class="text-gray-700 leading-relaxed">${bestRumor.verification}</p>
+          ${bestRumor.sourceUrl ? `<a href="${bestRumor.sourceUrl}" target="_blank" rel="noopener noreferrer" class="inline-block font-semibold text-[#003893] underline">Source: ${bestRumor.sourceName} &rarr;</a>` : ''}
+        `;
+      } else {
+        const gNewsUrl = 'https://news.google.com/search?q=' + encodeURIComponent(raw + ' Nepal');
+        out.className = 'border-l-2 border-amber-600 pl-4 py-1 space-y-1.5 text-xs';
+        out.innerHTML = `
+          <div class="font-bold uppercase tracking-wider text-amber-700">Verdict: UNVERIFIED / NO MATCHING RECORD TODAY</div>
+          <p class="text-gray-700">No matching official release or fact-check was found in today's tracker for "<strong>${raw}</strong>". Treat as unverified until confirmed by MoFA, OPMCM, or IFCN fact-checkers.</p>
+          <div class="flex flex-wrap items-center gap-4 pt-0.5">
+            <a href="${gNewsUrl}" target="_blank" rel="noopener noreferrer" class="font-semibold text-[#003893] underline">Search Live News &rarr;</a>
+            <button type="button" id="btn-log-from-checker" class="font-semibold text-[#dc143c] underline">Log to Rumor Watch &rarr;</button>
+          </div>
+        `;
+        const logBtn = document.getElementById('btn-log-from-checker');
+        if (logBtn) {
+          logBtn.addEventListener('click', () => {
+            document.getElementById('rumor-title').value = raw;
+            document.getElementById('rumor-modal').classList.remove('hidden');
+          });
+        }
+      }
+    }
+
+    document.getElementById('global-news-search').addEventListener('input', (e) => runGlobalSearch(e.target.value));
+    document.getElementById('btn-clear-global-search').addEventListener('click', () => {
+      document.getElementById('global-news-search').value = '';
+      runGlobalSearch('');
+    });
+    document.getElementById('btn-close-global-search').addEventListener('click', () => {
+      document.getElementById('global-news-search').value = '';
+      runGlobalSearch('');
+    });
+
+    document.getElementById('top-verify-form').addEventListener('submit', (e) => {
+      e.preventDefault();
+      document.getElementById('top-factcheck-panel').classList.remove('hidden');
+      checkClaimVeracity(document.getElementById('top-verify-input').value);
+      window.scrollTo({ top: 0, behavior: 'smooth' });
+    });
+
+    document.getElementById('btn-close-top-factcheck').addEventListener('click', () => {
+      document.getElementById('top-factcheck-panel').classList.add('hidden');
+    });
+
+    document.getElementById('btn-nav-poll').addEventListener('click', () => {
+      switchTab('overview');
+      const pollEl = document.getElementById('citizen-poll-section');
+      if (pollEl) pollEl.scrollIntoView({ behavior: 'smooth', block: 'start' });
+    });
+
+
+    async function hydrateFromLiveJson() {
+      try {
+        const res = await fetch('./data.json?t=' + Date.now());
+        if (!res.ok) return;
+        const live = await res.json();
+        if (Array.isArray(live.activities) && live.activities.length) {
+          ACTIVITIES.splice(0, ACTIVITIES.length, ...live.activities);
+          renderActivities();
+        }
+        if (Array.isArray(live.protests) && live.protests.length) {
+          PROTESTS.splice(0, PROTESTS.length, ...live.protests);
+          renderProtests();
+        }
+        if (Array.isArray(live.rumors) && live.rumors.length) {
+          RUMORS.splice(0, RUMORS.length, ...live.rumors);
+          renderRumors();
+        }
+        if (Array.isArray(live.forexRates) && live.forexRates.length) {
+          FOREX_RATES.splice(0, FOREX_RATES.length, ...live.forexRates);
+          renderForexTable();
+        }
+      } catch (e) { /* keep embedded fallback data */ }
+    }
+
+    // Init
+    updateNepaliDateDisplay();
+    hydrateFromLiveJson();
+    renderPolls();
+    document.getElementById('explainer-search').addEventListener('input', (e) => renderExplainers(e.target.value));
+    renderExplainers();
+    saveWatchlist();
+    renderWorksDone();
+    renderActivities();
+    renderDiplomacyLists();
+    renderAnalysis();
+    renderRumors();
+    renderChannelWatch();
+    renderProtests();
+    renderOpportunities();
+    renderForexTable();
+    lucide.createIcons();
+  </script>
+</body>
+</html>

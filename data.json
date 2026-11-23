@@ -1,0 +1,111 @@
+{
+  "adDate": "Monday, November 23, 2026",
+  "bsDate": "७ मंसिर २०८३, सोमबार",
+  "leadDispatch": {
+    "kicker": "Lead Dispatch • New Delhi / Kathmandu",
+    "title": "PM Balendra Shah Concludes India State Visit with NPR 240B Package, 8 MoUs & Ayodhya–Janakpur Rail Launch",
+    "summary": "Prime Minister Balendra Shah and Indian Prime Minister Narendra Modi adopted the \"Viksit Bharat and Samunnat Nepal\" Joint Vision at Hyderabad House today, announcing NPR 56 billion in reconstruction grants, NPR 184 billion in energy lines of credit, bidirectional B345 air-route talks, and access to Kandla and Paradip ports.",
+    "primaryLinkText": "MoFA Official Portal",
+    "primaryLinkUrl": "https://mofa.gov.np/"
+  },
+  "breakingTicker": [
+    "PM Balen concludes Delhi visit with NPR 240B package & 8 MoUs",
+    "Special Court summons 93 incl. Madhav Nepal & Minendra Rijal",
+    "Gold +NPR 4,800 to NPR 247,400/tola",
+    "FNJ demands withdrawal of Press Council Ordinance"
+  ],
+  "activities": [
+    {
+      "id": "act-1",
+      "category": "Official & Diplomatic",
+      "time": "Nov 23, 2026",
+      "agency": "MoFA / OPMCM",
+      "title": "PM Balendra Shah & PM Modi Issue Joint Press Release & NPR 240B Package",
+      "summary": "India announced INR 15,000 crore (NPR 24,000 crore) in development assistance—INR 3,500 crore in grants and INR 11,500 crore in Line of Credit for energy projects.",
+      "sourceName": "MoFA / Ratopati",
+      "sourceUrl": "https://english.ratopati.com/story/87929/nepal-india-joint-statement-bhairahawa-lucknow-air-route-to-be-two-way-joint-vision-of-developed-india-and-prosperous-nepal-made-public"
+    },
+    {
+      "id": "act-2",
+      "category": "Judiciary & Law",
+      "time": "Nov 23, 2026",
+      "agency": "Special Court (CIAA Case)",
+      "title": "Special Court Summons Former PM Madhav Nepal, Minendra Rijal & 91 Others",
+      "summary": "Summonses issued for 93 defendants in the NPR 734.9 million land-swap corruption case filed by the CIAA.",
+      "sourceName": "Ratopati",
+      "sourceUrl": "https://english.ratopati.com/story/87927/summons-issued-for-93-people-including-former-prime-minister-nepal-in-corruption-case"
+    },
+    {
+      "id": "act-3",
+      "category": "Media & Civic",
+      "time": "Nov 23, 2026",
+      "agency": "Federation of Nepali Journalists (FNJ)",
+      "title": "FNJ Dhulikhel Conference Demands Withdrawal of Press Council Ordinance",
+      "summary": "FNJ passed a 16-point resolution demanding withdrawal of the Press Council (First Amendment) Ordinance and reinstatement of dismissed state-media journalists.",
+      "sourceName": "Ratopati / IFJ",
+      "sourceUrl": "https://www.ratopati.com/story/607119/federation-of-nepali-journalists-dhulikhel-conference-demand-to-withdraw-the-press-council-ordinance-and-stop-interference-in-the-media"
+    }
+  ],
+  "protests": [
+    {
+      "id": "prot-1",
+      "zone": "National / Kathmandu",
+      "location": "Kathmandu / Nationwide",
+      "date": "Nov 23, 2026",
+      "group": "Dental Hygienists Association of Nepal",
+      "demand": "10-point charter of demands regarding scope of practice and professional rights.",
+      "status": "Active Strike / Protest",
+      "sourceName": "Ratopati",
+      "sourceUrl": "https://english.ratopati.com/story/87886/dental-hygienists-on-strike"
+    },
+    {
+      "id": "prot-2",
+      "zone": "Maitighar Mandala",
+      "location": "Maitighar Mandala (Tent Sit-ins)",
+      "date": "Ongoing Daily Dharna",
+      "group": "10 Justice-Seeking Citizen Groups",
+      "demand": "Long-term sit-ins by families and survivors demanding justice.",
+      "status": "Continuous Sit-in",
+      "sourceName": "Setopati",
+      "sourceUrl": "https://www.setopati.com/politics/393017"
+    }
+  ],
+  "rumors": [
+    {
+      "id": "rum-1",
+      "status": "Partially Confirmed",
+      "title": "Airspace Swap Rumor: India Demands Bagdogra Airspace for Bhairahawa",
+      "circulatingOn": "Nepali news & social media (Nov 23, 2026)",
+      "claim": "India is conditioning Bhairahawa air-entry routes on Bagdogra SID airspace.",
+      "verification": "Technical proposal on Bagdogra SID reported; B345 route made bidirectional while western routes remain pending.",
+      "sourceName": "Nepal News",
+      "sourceUrl": "https://english.nepalnews.com/s/long-reads/balens-delhi-visit-puts-economic-ties-on-a-new-track-but-old-disputes-remain/"
+    }
+  ],
+  "forexRates": [
+    {
+      "currency": "USD (US Dollar)",
+      "unit": "1",
+      "buy": "147.98",
+      "sell": "148.58"
+    },
+    {
+      "currency": "INR (Indian Rupee)",
+      "unit": "100",
+      "buy": "160.00",
+      "sell": "160.15"
+    },
+    {
+      "currency": "EUR (Euro)",
+      "unit": "1",
+      "buy": "162.41",
+      "sell": "163.07"
+    },
+    {
+      "currency": "GBP (British Pound)",
+      "unit": "1",
+      "buy": "193.96",
+      "sell": "194.75"
+    }
+  ]
+}
