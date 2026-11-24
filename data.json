@@ -3,20 +3,30 @@
   "bsDate": "७ मंसिर २०८३, सोमबार",
   "leadDispatch": {
     "kicker": "Lead Dispatch • OnlineKhabar",
-    "title": "Understanding urinary nitrites and their role in detecting UTIs",
-    "summary": "Urinary tract infections (UTIs) are common and can often disrupt normal day-to-day life. Symptoms include a burning sensation during urination, an increased urge to urinate, blood in the urine, lower abdominal pain, fever, itching and redness around the extern...",
+    "title": "Nepalis to be able to make QR payments in India within a month",
+    "summary": "Kathmandu, November 24 Nepalis are expected to be able to make QR payments in India within a month, following positive discussions between payment service providers from the two countries after Prime Minister Balen Shah’s recent visit to India. Officials from ...",
     "primaryLinkText": "Read on OnlineKhabar",
-    "primaryLinkUrl": "https://english.onlinekhabar.com/understanding-urinary-nitrites-and-their-role-in-detecting-utis.html"
+    "primaryLinkUrl": "https://english.onlinekhabar.com/nepali-make-qr-payments-india.html"
   },
   "breakingTicker": [
+    "Nepalis to be able to make QR payments in India within a month",
     "Understanding urinary nitrites and their role in detecting UTIs",
     "Private medical colleges threaten to halt admissions over seat and fee demands",
-    "Nepal to use India’s Rs 184 billion credit line based on project needs and progress, says Wagle",
-    "Sunkoshi-Marin tender cancellation draws scrutiny over legal, financial questions"
+    "Nepal to use India’s Rs 184 billion credit line based on project needs and progress, says Wagle"
   ],
   "activities": [
     {
-      "id": "act-live-1",
+      "id": "act-live-0",
+      "category": "Official & Diplomatic",
+      "time": "Nov 24, 2026",
+      "agency": "OnlineKhabar",
+      "title": "Nepalis to be able to make QR payments in India within a month",
+      "summary": "Kathmandu, November 24 Nepalis are expected to be able to make QR payments in India within a month, following positive discussions between payment service providers from the two countries after Prime Minister Balen Shah’s recent visit to India. Officials from ...",
+      "sourceName": "OnlineKhabar",
+      "sourceUrl": "https://english.onlinekhabar.com/nepali-make-qr-payments-india.html"
+    },
+    {
+      "id": "act-live-2",
       "category": "Domestic & Ministries",
       "time": "Nov 24, 2026",
       "agency": "OnlineKhabar",
@@ -26,7 +36,7 @@
       "sourceUrl": "https://english.onlinekhabar.com/understanding-urinary-nitrites-and-their-role-in-detecting-utis.html"
     },
     {
-      "id": "act-live-2",
+      "id": "act-live-3",
       "category": "Domestic & Ministries",
       "time": "Nov 24, 2026",
       "agency": "OnlineKhabar",
@@ -36,7 +46,7 @@
       "sourceUrl": "https://english.onlinekhabar.com/private-medical-colleges-threaten-to-halt-admissions-over-seat-and-fee-demands.html"
     },
     {
-      "id": "act-live-3",
+      "id": "act-live-4",
       "category": "Official & Diplomatic",
       "time": "Nov 24, 2026",
       "agency": "OnlineKhabar",
@@ -46,7 +56,7 @@
       "sourceUrl": "https://english.onlinekhabar.com/india-credit-line-based-on-need.html"
     },
     {
-      "id": "act-live-4",
+      "id": "act-live-5",
       "category": "Official & Diplomatic",
       "time": "Nov 24, 2026",
       "agency": "OnlineKhabar",
@@ -56,7 +66,7 @@
       "sourceUrl": "https://english.onlinekhabar.com/sunkoshi-marin-tender-cancellation.html"
     },
     {
-      "id": "act-live-6",
+      "id": "act-live-7",
       "category": "Domestic & Ministries",
       "time": "Nov 24, 2026",
       "agency": "OnlineKhabar",
@@ -66,7 +76,7 @@
       "sourceUrl": "https://english.onlinekhabar.com/nepal-and-eu-expanding-nepali-exports.html"
     },
     {
-      "id": "act-live-7",
+      "id": "act-live-8",
       "category": "Domestic & Ministries",
       "time": "Nov 24, 2026",
       "agency": "OnlineKhabar",
@@ -76,7 +86,7 @@
       "sourceUrl": "https://english.onlinekhabar.com/nepse-gains-15-39-points.html"
     },
     {
-      "id": "act-live-8",
+      "id": "act-live-9",
       "category": "Official & Diplomatic",
       "time": "Nov 24, 2026",
       "agency": "OnlineKhabar",
@@ -86,7 +96,7 @@
       "sourceUrl": "https://english.onlinekhabar.com/nepals-iit-must-put-women-at-centre.html"
     },
     {
-      "id": "act-live-9",
+      "id": "act-live-10",
       "category": "Judiciary & Law",
       "time": "Nov 24, 2026",
       "agency": "OnlineKhabar",
@@ -96,7 +106,7 @@
       "sourceUrl": "https://english.onlinekhabar.com/traffic-rule-violations-kathmandu.html"
     },
     {
-      "id": "act-live-10",
+      "id": "act-live-11",
       "category": "Official & Diplomatic",
       "time": "Nov 24, 2026",
       "agency": "OnlineKhabar",
@@ -106,39 +116,29 @@
       "sourceUrl": "https://english.onlinekhabar.com/un-report-five-women-and-girls-killed-every-hour-by-partners-or-family-members.html"
     },
     {
-      "id": "act-live-11",
+      "id": "act-live-12",
       "category": "Domestic & Ministries",
       "time": "Nov 24, 2026",
-      "agency": "OnlineKhabar",
-      "title": "TU to make research centres more dynamic, says Vice-Chancellor Thapa",
-      "summary": "Kathmandu, November 24 Tribhuvan University (TU) Vice-Chancellor Prof Dr Bhola Thapa has said the university will make its research centres more dynamic. In a discussion with the directors of four research centres, Thapa said the centres will be made more dyna...",
-      "sourceName": "OnlineKhabar",
-      "sourceUrl": "https://english.onlinekhabar.com/tu-research-centers-more-dynamic.html"
-    },
-    {
-      "id": "act-live-12",
-      "category": "Official & Diplomatic",
-      "time": "Nov 24, 2026",
       "agency": "Nepal News",
-      "title": "Five women killed each hour by relatives in 2025: UN",
-      "summary": "UNITED NATIONS: More than 47,000 women and girls, or around five per hour, were killed by relatives around the world in 2025, a figure broadly unchanged from previous years, according to a UN report published Tuesday. The number of women and girls killed by an...",
+      "title": "Nepal News Evening Briefing | Tuesday, November 24, 2026",
+      "summary": "KATHMANDU: Stay updated with Nepal News’ evening briefing, bringing you the day’s most important developments from Nepal and across the globe. From politics and economy to sports, entertainment, and culture, we deliver a concise roundup of the top news you nee...",
       "sourceName": "Nepal News",
-      "sourceUrl": "https://english.nepalnews.com/s/international/five-women-killed-each-hour-by-relatives-in-2025-un/"
+      "sourceUrl": "https://english.nepalnews.com/s/main-left/nepal-news-evening-briefing-tuesday-november-24-2026/"
     },
     {
       "id": "act-live-13",
       "category": "Domestic & Ministries",
       "time": "Nov 24, 2026",
       "agency": "Nepal News",
-      "title": "Nepal News Evening Economic Brief – November 24, 2026",
-      "summary": "KATHMANDU: Nepal News presents today’s snapshot of Nepal’s economic activities. Get quick updates on major market movements, policy shifts, and financial developments shaping the economy of Nepal. Here are the key economic highlights for today: Nepal Will Not ...",
+      "title": "New law to address changing dynamics of film sector: Minister Timilsina",
+      "summary": "KATHMANDU: The government is preparing a new law to address the changing dynamics, technological advancements and expanding role of Nepal’s film industry, Minister for Information and Communications Dr Bikram Timilsina said. Speaking during clause-wise deliber...",
       "sourceName": "Nepal News",
-      "sourceUrl": "https://english.nepalnews.com/s/business/nepal-news-evening-economic-brief-november-24-2026/"
+      "sourceUrl": "https://english.nepalnews.com/s/nation/new-law-to-address-changing-dynamics-of-film-sector-minister-timilsina/"
     }
   ],
   "protests": [
     {
-      "id": "prot-live-0",
+      "id": "prot-live-1",
       "zone": "National / Kathmandu",
       "location": "Kathmandu / Nepal",
       "date": "Nov 24, 2026",
@@ -149,7 +149,7 @@
       "sourceUrl": "https://english.onlinekhabar.com/nepali-workers-protest-in-romania.html"
     },
     {
-      "id": "prot-live-5",
+      "id": "prot-live-6",
       "zone": "National / Kathmandu",
       "location": "Kathmandu / Nepal",
       "date": "Nov 24, 2026",
