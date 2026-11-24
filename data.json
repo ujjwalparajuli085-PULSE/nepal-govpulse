@@ -3,20 +3,40 @@
   "bsDate": "७ मंसिर २०८३, सोमबार",
   "leadDispatch": {
     "kicker": "Lead Dispatch • OnlineKhabar",
-    "title": "Finding his rhythm in the shadows of Nepali theatre",
-    "summary": "The actors, their dialogue and the story may command the audience’s attention, but a theatre performance is also shaped by the sounds and music that accompany it. They help set the mood, build atmosphere and bring scenes to life, often without the audience not...",
+    "title": "Gold price rises by Rs 500 per tola, up Rs 5,300 in two days",
+    "summary": "Kathmandu, November 24 The price of gold increased by Rs 500 per tola on Tuesday, following a sharp rise of Rs 4,800 on Monday. With the latest increase, gold has risen by Rs 5,300 per tola over the past two days. Gold is being traded at Rs 247,900 per tola on...",
     "primaryLinkText": "Read on OnlineKhabar",
-    "primaryLinkUrl": "https://english.onlinekhabar.com/anup-timilsinas-rhythm-nepali-theatre.html"
+    "primaryLinkUrl": "https://english.onlinekhabar.com/gold-price-rises-6.html"
   },
   "breakingTicker": [
+    "Gold price rises by Rs 500 per tola, up Rs 5,300 in two days",
+    "Experts urge decentralisation of stone, gravel and sand mining rights",
     "Finding his rhythm in the shadows of Nepali theatre",
-    "5.6-magnitude earthquake hits northern border area of eastern Nepal",
-    "EPG report is a thing of the past, says Indian foreign secretary",
-    "Bhairahawa air route agreement raises hopes, but implementation remains uncertain"
+    "5.6-magnitude earthquake hits northern border area of eastern Nepal"
   ],
   "activities": [
     {
+      "id": "act-live-0",
+      "category": "Domestic & Ministries",
+      "time": "Nov 24, 2026",
+      "agency": "OnlineKhabar",
+      "title": "Gold price rises by Rs 500 per tola, up Rs 5,300 in two days",
+      "summary": "Kathmandu, November 24 The price of gold increased by Rs 500 per tola on Tuesday, following a sharp rise of Rs 4,800 on Monday. With the latest increase, gold has risen by Rs 5,300 per tola over the past two days. Gold is being traded at Rs 247,900 per tola on...",
+      "sourceName": "OnlineKhabar",
+      "sourceUrl": "https://english.onlinekhabar.com/gold-price-rises-6.html"
+    },
+    {
       "id": "act-live-1",
+      "category": "Domestic & Ministries",
+      "time": "Nov 24, 2026",
+      "agency": "OnlineKhabar",
+      "title": "Experts urge decentralisation of stone, gravel and sand mining rights",
+      "summary": "Kathmandu, November 24 Questions over the responsibilities and jurisdictions of federal, provincial and local governments in protecting and extracting stones, gravel, sand and other mineral resources have surfaced during parliamentary discussions on a proposed...",
+      "sourceName": "OnlineKhabar",
+      "sourceUrl": "https://english.onlinekhabar.com/experts-decentralisation-mining-rights.html"
+    },
+    {
+      "id": "act-live-3",
       "category": "Domestic & Ministries",
       "time": "Nov 24, 2026",
       "agency": "OnlineKhabar",
@@ -26,7 +46,7 @@
       "sourceUrl": "https://english.onlinekhabar.com/anup-timilsinas-rhythm-nepali-theatre.html"
     },
     {
-      "id": "act-live-2",
+      "id": "act-live-4",
       "category": "Domestic & Ministries",
       "time": "Nov 24, 2026",
       "agency": "OnlineKhabar",
@@ -36,7 +56,7 @@
       "sourceUrl": "https://english.onlinekhabar.com/5-6-magnitude-earthquake-hits-northern-border-area-of-eastern-nepal.html"
     },
     {
-      "id": "act-live-3",
+      "id": "act-live-5",
       "category": "Official & Diplomatic",
       "time": "Nov 24, 2026",
       "agency": "OnlineKhabar",
@@ -46,7 +66,7 @@
       "sourceUrl": "https://english.onlinekhabar.com/epg-report-thing-of-past.html"
     },
     {
-      "id": "act-live-4",
+      "id": "act-live-6",
       "category": "Official & Diplomatic",
       "time": "Nov 24, 2026",
       "agency": "OnlineKhabar",
@@ -56,7 +76,7 @@
       "sourceUrl": "https://english.onlinekhabar.com/air-route-agreement-raises-hopes.html"
     },
     {
-      "id": "act-live-5",
+      "id": "act-live-7",
       "category": "Domestic & Ministries",
       "time": "Nov 24, 2026",
       "agency": "OnlineKhabar",
@@ -66,7 +86,7 @@
       "sourceUrl": "https://english.onlinekhabar.com/how-cop31-climate-agreement-fall-apart.html"
     },
     {
-      "id": "act-live-6",
+      "id": "act-live-8",
       "category": "Official & Diplomatic",
       "time": "Nov 24, 2026",
       "agency": "OnlineKhabar",
@@ -76,7 +96,7 @@
       "sourceUrl": "https://english.onlinekhabar.com/access-paradip-kandla-port-nepal.html"
     },
     {
-      "id": "act-live-7",
+      "id": "act-live-9",
       "category": "Official & Diplomatic",
       "time": "Nov 24, 2026",
       "agency": "OnlineKhabar",
@@ -86,7 +106,7 @@
       "sourceUrl": "https://english.onlinekhabar.com/balen-shah-returns-from-india.html"
     },
     {
-      "id": "act-live-8",
+      "id": "act-live-10",
       "category": "Domestic & Ministries",
       "time": "Nov 24, 2026",
       "agency": "OnlineKhabar",
@@ -96,7 +116,7 @@
       "sourceUrl": "https://english.onlinekhabar.com/oli-pokharel-rift-deepens-uml.html"
     },
     {
-      "id": "act-live-9",
+      "id": "act-live-11",
       "category": "Judiciary & Law",
       "time": "Nov 24, 2026",
       "agency": "OnlineKhabar",
@@ -106,39 +126,19 @@
       "sourceUrl": "https://english.onlinekhabar.com/court-registration-ai-related-writ.html"
     },
     {
-      "id": "act-live-11",
-      "category": "Official & Diplomatic",
-      "time": "Nov 24, 2026",
-      "agency": "OnlineKhabar",
-      "title": "CK Raut calls Balen’s India visit a moment of pride",
-      "summary": "Kathmandu, November 23 Janamat Party Chairperson Dr CK Raut has described Prime Minister Balendra Shah’s visit to India as a moment of pride, saying it has created a situation in which even the world’s powerful nations have to stand alongside a Madheshi prime ...",
-      "sourceName": "OnlineKhabar",
-      "sourceUrl": "https://english.onlinekhabar.com/ck-raut-calls-balens-india-visit-a-moment-of-pride.html"
-    },
-    {
       "id": "act-live-12",
       "category": "Domestic & Ministries",
       "time": "Nov 24, 2026",
       "agency": "Nepal News",
-      "title": "Parliamentary committees holding meetings today",
-      "summary": "KATHMANDU: Various committees under the House of Representatives are holding meetings today. The Federal Parliament Secretariat shared information that the Finance Committee; Industry, Commerce, Labour and Consumer Rights Committee; Women and Social Committee;...",
+      "title": "Competition under 10th National Games begins todaya",
+      "summary": "KATHMANDU: Although the official inauguration of the 10th National Games is scheduled for December 2, some sports are beginning today. Competition is being held for five games today. These include women’s cricket, men’s football, women’s basketball, tennis and...",
       "sourceName": "Nepal News",
-      "sourceUrl": "https://english.nepalnews.com/s/politics/parliamentary-committees-holding-meetings-today/"
-    },
-    {
-      "id": "act-live-13",
-      "category": "Domestic & Ministries",
-      "time": "Nov 24, 2026",
-      "agency": "Nepal News",
-      "title": "Rs 50 million demanded for reconstruction of Dodhara Chandani suspension bridge",
-      "summary": "MAHENDRANAGAR: A budget of Rs 50 million has been demanded for the Dodhara Chandani suspension bridge. The suspension bridge over the Mahakali River was damaged by the flood occurred on September 30. The people’s movement has been completely disrupted followin...",
-      "sourceName": "Nepal News",
-      "sourceUrl": "https://english.nepalnews.com/s/business/rs-50-million-demanded-for-reconstruction-of-dodhara-chandani-suspension-bridge/"
+      "sourceUrl": "https://english.nepalnews.com/s/sports/competition-under-10th-national-games-begins-todaya/"
     }
   ],
   "protests": [
     {
-      "id": "prot-live-0",
+      "id": "prot-live-2",
       "zone": "National / Kathmandu",
       "location": "Kathmandu / Nepal",
       "date": "Nov 24, 2026",
@@ -147,17 +147,6 @@
       "status": "Reported Today",
       "sourceName": "OnlineKhabar",
       "sourceUrl": "https://english.onlinekhabar.com/three-ordinances-pending-at-presidents-office.html"
-    },
-    {
-      "id": "prot-live-10",
-      "zone": "National / Kathmandu",
-      "location": "Kathmandu / Nepal",
-      "date": "Nov 24, 2026",
-      "group": "Govt prepares ordinance to form commission to probe Gen Z protest cases",
-      "demand": "Kathmandu, November 23 The government is preparing to establish a commission to investigate cases related to the Gen Z protests, provide compensation to those affected and oversee reparations. An ordinance providing the necessary legal arrangements for the com...",
-      "status": "Reported Today",
-      "sourceName": "OnlineKhabar",
-      "sourceUrl": "https://english.onlinekhabar.com/ordinance-commission-probe-gen-z-protest.html"
     }
   ],
   "rumors": [
