@@ -3,20 +3,40 @@
   "bsDate": "७ मंसिर २०८३, सोमबार",
   "leadDispatch": {
     "kicker": "Lead Dispatch • OnlineKhabar",
-    "title": "Nepal’s proposed IIT must put women at the centre",
-    "summary": "Here is what we know. On Monday, in a room in New Delhi called Hyderabad House, two prime ministers stood side by side and agreed that a campus of the Indian Institutes of Technology would be built in Nepal. We know it will be the third such campus abroad, aft...",
+    "title": "Nepal and EU discuss expanding Nepali exports to the European market",
+    "summary": "Kathmandu, November 24 The Ministry of Industry, Commerce and Supplies has held high-level discussions on expanding access to Nepali products to the European market, promoting exports and attracting investment, intending to take Nepali products to the global m...",
     "primaryLinkText": "Read on OnlineKhabar",
-    "primaryLinkUrl": "https://english.onlinekhabar.com/nepals-iit-must-put-women-at-centre.html"
+    "primaryLinkUrl": "https://english.onlinekhabar.com/nepal-and-eu-expanding-nepali-exports.html"
   },
   "breakingTicker": [
+    "Nepal and EU discuss expanding Nepali exports to the European market",
+    "NEPSE gains 15.39 points as turnover surges, led by banking",
     "Nepal’s proposed IIT must put women at the centre",
-    "774 drivers penalised for traffic rule violations in Kathmandu Valley in 24 hours",
-    "UN report: Five women and girls killed every hour by partners or family members",
-    "TU to make research centres more dynamic, says Vice-Chancellor Thapa"
+    "774 drivers penalised for traffic rule violations in Kathmandu Valley in 24 hours"
   ],
   "activities": [
     {
-      "id": "act-live-0",
+      "id": "act-live-1",
+      "category": "Domestic & Ministries",
+      "time": "Nov 24, 2026",
+      "agency": "OnlineKhabar",
+      "title": "Nepal and EU discuss expanding Nepali exports to the European market",
+      "summary": "Kathmandu, November 24 The Ministry of Industry, Commerce and Supplies has held high-level discussions on expanding access to Nepali products to the European market, promoting exports and attracting investment, intending to take Nepali products to the global m...",
+      "sourceName": "OnlineKhabar",
+      "sourceUrl": "https://english.onlinekhabar.com/nepal-and-eu-expanding-nepali-exports.html"
+    },
+    {
+      "id": "act-live-2",
+      "category": "Domestic & Ministries",
+      "time": "Nov 24, 2026",
+      "agency": "OnlineKhabar",
+      "title": "NEPSE gains 15.39 points as turnover surges, led by banking",
+      "summary": "Kathmandu, November 24 The stock market benchmark, the Nepal Stock Exchange (NEPSE) index, gained 15.39 points on Tuesday. With the rise, the index closed at 2,638 points. It had risen 2.26 points the previous day. The index was not the only thing that went up...",
+      "sourceName": "OnlineKhabar",
+      "sourceUrl": "https://english.onlinekhabar.com/nepse-gains-15-39-points.html"
+    },
+    {
+      "id": "act-live-3",
       "category": "Official & Diplomatic",
       "time": "Nov 24, 2026",
       "agency": "OnlineKhabar",
@@ -26,7 +46,7 @@
       "sourceUrl": "https://english.onlinekhabar.com/nepals-iit-must-put-women-at-centre.html"
     },
     {
-      "id": "act-live-1",
+      "id": "act-live-4",
       "category": "Judiciary & Law",
       "time": "Nov 24, 2026",
       "agency": "OnlineKhabar",
@@ -36,7 +56,7 @@
       "sourceUrl": "https://english.onlinekhabar.com/traffic-rule-violations-kathmandu.html"
     },
     {
-      "id": "act-live-2",
+      "id": "act-live-5",
       "category": "Official & Diplomatic",
       "time": "Nov 24, 2026",
       "agency": "OnlineKhabar",
@@ -46,7 +66,7 @@
       "sourceUrl": "https://english.onlinekhabar.com/un-report-five-women-and-girls-killed-every-hour-by-partners-or-family-members.html"
     },
     {
-      "id": "act-live-3",
+      "id": "act-live-6",
       "category": "Domestic & Ministries",
       "time": "Nov 24, 2026",
       "agency": "OnlineKhabar",
@@ -56,7 +76,7 @@
       "sourceUrl": "https://english.onlinekhabar.com/tu-research-centers-more-dynamic.html"
     },
     {
-      "id": "act-live-4",
+      "id": "act-live-7",
       "category": "Official & Diplomatic",
       "time": "Nov 24, 2026",
       "agency": "OnlineKhabar",
@@ -66,7 +86,7 @@
       "sourceUrl": "https://english.onlinekhabar.com/balen-shares-photo-with-swarnim-and-shishir-calls-them-team-to-move-the-country-forward.html"
     },
     {
-      "id": "act-live-5",
+      "id": "act-live-8",
       "category": "Judiciary & Law",
       "time": "Nov 24, 2026",
       "agency": "OnlineKhabar",
@@ -76,7 +96,7 @@
       "sourceUrl": "https://english.onlinekhabar.com/ani-choying-drolmas-appointment-challenged.html"
     },
     {
-      "id": "act-live-6",
+      "id": "act-live-9",
       "category": "Domestic & Ministries",
       "time": "Nov 24, 2026",
       "agency": "OnlineKhabar",
@@ -86,7 +106,7 @@
       "sourceUrl": "https://english.onlinekhabar.com/education-minister-npl-franchise.html"
     },
     {
-      "id": "act-live-7",
+      "id": "act-live-10",
       "category": "Official & Diplomatic",
       "time": "Nov 24, 2026",
       "agency": "OnlineKhabar",
@@ -96,7 +116,7 @@
       "sourceUrl": "https://english.onlinekhabar.com/china-pledges-support-for-nepals-post-disaster-reconstruction-efforts.html"
     },
     {
-      "id": "act-live-8",
+      "id": "act-live-11",
       "category": "Domestic & Ministries",
       "time": "Nov 24, 2026",
       "agency": "OnlineKhabar",
@@ -106,47 +126,27 @@
       "sourceUrl": "https://english.onlinekhabar.com/laws-must-be-reformed-minister-wagle.html"
     },
     {
-      "id": "act-live-9",
-      "category": "Judiciary & Law",
-      "time": "Nov 24, 2026",
-      "agency": "OnlineKhabar",
-      "title": "Writ petition filed at SC challenging Ani Choying Drolma’s appointment",
-      "summary": "Kathmandu, November 24 A writ petition has been filed at the Supreme Court challenging the appointment of Ani Choying Drolma as vice-chairperson of the Lumbini Development Trust, alleging that her appointment was illegal and made in violation of established ru...",
-      "sourceName": "OnlineKhabar",
-      "sourceUrl": "https://english.onlinekhabar.com/writ-petition-filed-at-sc-challenging-ani-choying-drolmas-appointment.html"
-    },
-    {
-      "id": "act-live-10",
-      "category": "Official & Diplomatic",
-      "time": "Nov 24, 2026",
-      "agency": "OnlineKhabar",
-      "title": "Train from Ayodhya receives grand welcome in Janakpur (Photos)",
-      "summary": "Kathmandu, November 24 The Sarayu Kamala Express, which departed from Ayodhya in India’s Uttar Pradesh on Monday afternoon, arrived in Janakpur Dham on Tuesday morning. Government officials and members of the public welcomed the train and the pilgrims aboard i...",
-      "sourceName": "OnlineKhabar",
-      "sourceUrl": "https://english.onlinekhabar.com/train-from-ayodhya-receives-grand-welcome-in-janakpur-photos.html"
-    },
-    {
-      "id": "act-live-11",
+      "id": "act-live-12",
       "category": "Domestic & Ministries",
       "time": "Nov 24, 2026",
-      "agency": "OnlineKhabar",
-      "title": "Motorcyclist killed after being hit by tipper in Galchhi",
-      "summary": "Kathmandu, November 24 A motorcyclist was killed after a tipper truck hit his motorcycle in Galchhi, Dhading, along the Prithvi Highway. The tipper, registered as Ba 4 Kha 6059, was travelling from Kathmandu towards Gajuri when it hit a motorcycle, Ba 98 Pa 31...",
-      "sourceName": "OnlineKhabar",
-      "sourceUrl": "https://english.onlinekhabar.com/motorcyclist-killed-after-being-hit-by-tipper-in-galchhi.html"
+      "agency": "Nepal News",
+      "title": "NEPSE rises by 15 points with Rs 5.55 billion turnover",
+      "summary": "KATHMANDU: The Nepal Stock Exchange (NEPSE) index rose by 15.39 points on Tuesday, closing at 2,638.95 points. Trading activity also saw an increase, with a total turnover of Rs 5.55 billion recorded. During the session, 14.67 million shares were traded in the...",
+      "sourceName": "Nepal News",
+      "sourceUrl": "https://english.nepalnews.com/s/business/nepse-rises-by-15-points-with-rs-5-55-billion-turnover/"
     }
   ],
   "protests": [
     {
-      "id": "prot-live-2",
+      "id": "prot-live-0",
       "zone": "National / Kathmandu",
       "location": "Kathmandu / Nepal",
       "date": "Nov 24, 2026",
-      "group": "Three ordinances pending at President’s Office",
-      "demand": "Kathmandu, November 24 The number of ordinances pending at the President’s Office has reached three. An ordinance to establish a commission to investigate incidents related to the Gen Z protests, provide compensation and reparations, and address related cases ...",
+      "group": "Gagan Thapa says politics focused on power after 2015 triggered Gen Z protests",
+      "demand": "Kathmandu, November 24 Nepali Congress President Gagan Kumar Thapa has said the Gen Z uprising in September last year was the result of the country’s politics becoming increasingly centred on the pursuit of power. Addressing a meeting of the party’s Central Wo...",
       "status": "Reported Today",
       "sourceName": "OnlineKhabar",
-      "sourceUrl": "https://english.onlinekhabar.com/three-ordinances-pending-at-presidents-office.html"
+      "sourceUrl": "https://english.onlinekhabar.com/gagan-thapa-on-genz-uprising.html"
     }
   ],
   "rumors": [
