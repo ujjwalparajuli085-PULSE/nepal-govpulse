@@ -3,20 +3,30 @@
   "bsDate": "७ मंसिर २०८३, सोमबार",
   "leadDispatch": {
     "kicker": "Lead Dispatch • OnlineKhabar",
-    "title": "Nepal gets access to Paradip and Kandla ports for third-country trade",
-    "summary": "New Delhi, November 23 Nepal will gain access to India’s Paradip port in Odisha and Kandla port in Gujarat for imports and exports with third countries, Indian Prime Minister Narendra Modi announced during Prime Minister Balendra Shah’s visit to India. Modi ma...",
+    "title": "How did the COP31 climate agreement fall apart – and what happens now?",
+    "summary": "Two days after the COP31 global climate summit was supposed to finish, the talks in Antalya, Turkey, have come to an end – but not as we might have hoped. Agreement simply could not be reached. The sticking point was the omission of fossil fuels in draft texts...",
     "primaryLinkText": "Read on OnlineKhabar",
-    "primaryLinkUrl": "https://english.onlinekhabar.com/access-paradip-kandla-port-nepal.html"
+    "primaryLinkUrl": "https://english.onlinekhabar.com/how-cop31-climate-agreement-fall-apart.html"
   },
   "breakingTicker": [
+    "How did the COP31 climate agreement fall apart – and what happens now?",
     "Nepal gets access to Paradip and Kandla ports for third-country trade",
     "Prime Minister Balen Shah returns after two-day state visit to India",
-    "UML’s internal struggle spills into Chyasal as Oli-Pokharel tensions grow",
-    "Supreme Court orders registration of AI-related writ against Tribhuvan University"
+    "UML’s internal struggle spills into Chyasal as Oli-Pokharel tensions grow"
   ],
   "activities": [
     {
       "id": "act-live-0",
+      "category": "Domestic & Ministries",
+      "time": "Nov 24, 2026",
+      "agency": "OnlineKhabar",
+      "title": "How did the COP31 climate agreement fall apart – and what happens now?",
+      "summary": "Two days after the COP31 global climate summit was supposed to finish, the talks in Antalya, Turkey, have come to an end – but not as we might have hoped. Agreement simply could not be reached. The sticking point was the omission of fossil fuels in draft texts...",
+      "sourceName": "OnlineKhabar",
+      "sourceUrl": "https://english.onlinekhabar.com/how-cop31-climate-agreement-fall-apart.html"
+    },
+    {
+      "id": "act-live-1",
       "category": "Official & Diplomatic",
       "time": "Nov 24, 2026",
       "agency": "OnlineKhabar",
@@ -26,7 +36,7 @@
       "sourceUrl": "https://english.onlinekhabar.com/access-paradip-kandla-port-nepal.html"
     },
     {
-      "id": "act-live-1",
+      "id": "act-live-2",
       "category": "Official & Diplomatic",
       "time": "Nov 24, 2026",
       "agency": "OnlineKhabar",
@@ -36,7 +46,7 @@
       "sourceUrl": "https://english.onlinekhabar.com/balen-shah-returns-from-india.html"
     },
     {
-      "id": "act-live-2",
+      "id": "act-live-3",
       "category": "Domestic & Ministries",
       "time": "Nov 24, 2026",
       "agency": "OnlineKhabar",
@@ -46,7 +56,7 @@
       "sourceUrl": "https://english.onlinekhabar.com/oli-pokharel-rift-deepens-uml.html"
     },
     {
-      "id": "act-live-3",
+      "id": "act-live-4",
       "category": "Judiciary & Law",
       "time": "Nov 24, 2026",
       "agency": "OnlineKhabar",
@@ -56,7 +66,7 @@
       "sourceUrl": "https://english.onlinekhabar.com/court-registration-ai-related-writ.html"
     },
     {
-      "id": "act-live-5",
+      "id": "act-live-6",
       "category": "Official & Diplomatic",
       "time": "Nov 24, 2026",
       "agency": "OnlineKhabar",
@@ -66,7 +76,7 @@
       "sourceUrl": "https://english.onlinekhabar.com/ck-raut-calls-balens-india-visit-a-moment-of-pride.html"
     },
     {
-      "id": "act-live-6",
+      "id": "act-live-7",
       "category": "Domestic & Ministries",
       "time": "Nov 24, 2026",
       "agency": "OnlineKhabar",
@@ -76,7 +86,7 @@
       "sourceUrl": "https://english.onlinekhabar.com/govt-to-test-cell-broadcast-alerts-urges-mobile-users-not-to-panic.html"
     },
     {
-      "id": "act-live-7",
+      "id": "act-live-8",
       "category": "Official & Diplomatic",
       "time": "Nov 24, 2026",
       "agency": "OnlineKhabar",
@@ -86,7 +96,7 @@
       "sourceUrl": "https://english.onlinekhabar.com/prime-minister-shah-returns-home-after-india-visit.html"
     },
     {
-      "id": "act-live-8",
+      "id": "act-live-9",
       "category": "Official & Diplomatic",
       "time": "Nov 24, 2026",
       "agency": "OnlineKhabar",
@@ -96,7 +106,7 @@
       "sourceUrl": "https://english.onlinekhabar.com/modi-gifts-balen-a-banarasi-silk-shawl-in-a-traditional-gujarati-sadeli-box.html"
     },
     {
-      "id": "act-live-9",
+      "id": "act-live-10",
       "category": "Official & Diplomatic",
       "time": "Nov 24, 2026",
       "agency": "OnlineKhabar",
@@ -106,7 +116,7 @@
       "sourceUrl": "https://english.onlinekhabar.com/india-to-establish-iit-campus-startup-incubator-and-vocational-training-institute-in-nepal.html"
     },
     {
-      "id": "act-live-10",
+      "id": "act-live-11",
       "category": "Official & Diplomatic",
       "time": "Nov 24, 2026",
       "agency": "OnlineKhabar",
@@ -114,16 +124,6 @@
       "summary": "New Delhi, November 23 Nepal and India have agreed to activate a high-level monitoring mechanism to ensure the timely implementation of key agreements, understandings and projects reached during Prime Minister Balendra Shah’s state visit to India. A clear fram...",
       "sourceName": "OnlineKhabar",
       "sourceUrl": "https://english.onlinekhabar.com/implementation-of-agreements-monitoring.html"
-    },
-    {
-      "id": "act-live-11",
-      "category": "Official & Diplomatic",
-      "time": "Nov 24, 2026",
-      "agency": "OnlineKhabar",
-      "title": "India pledges more support for cricket infrastructure and player training",
-      "summary": "Kathmandu, November 23 Indian Prime Minister Narendra Modi has said India will increase support for sports infrastructure development and player training in Nepal. During Prime Minister Balen Shah’s visit to India, Modi pledged to expand cooperation in the spo...",
-      "sourceName": "OnlineKhabar",
-      "sourceUrl": "https://english.onlinekhabar.com/india-pledges-support-for-cricket.html"
     },
     {
       "id": "act-live-12",
@@ -138,7 +138,7 @@
   ],
   "protests": [
     {
-      "id": "prot-live-4",
+      "id": "prot-live-5",
       "zone": "National / Kathmandu",
       "location": "Kathmandu / Nepal",
       "date": "Nov 24, 2026",
