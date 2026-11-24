@@ -3,20 +3,60 @@
   "bsDate": "७ मंसिर २०८३, सोमबार",
   "leadDispatch": {
     "kicker": "Lead Dispatch • OnlineKhabar",
-    "title": "Nepal and EU discuss expanding Nepali exports to the European market",
-    "summary": "Kathmandu, November 24 The Ministry of Industry, Commerce and Supplies has held high-level discussions on expanding access to Nepali products to the European market, promoting exports and attracting investment, intending to take Nepali products to the global m...",
+    "title": "Understanding urinary nitrites and their role in detecting UTIs",
+    "summary": "Urinary tract infections (UTIs) are common and can often disrupt normal day-to-day life. Symptoms include a burning sensation during urination, an increased urge to urinate, blood in the urine, lower abdominal pain, fever, itching and redness around the extern...",
     "primaryLinkText": "Read on OnlineKhabar",
-    "primaryLinkUrl": "https://english.onlinekhabar.com/nepal-and-eu-expanding-nepali-exports.html"
+    "primaryLinkUrl": "https://english.onlinekhabar.com/understanding-urinary-nitrites-and-their-role-in-detecting-utis.html"
   },
   "breakingTicker": [
-    "Nepal and EU discuss expanding Nepali exports to the European market",
-    "NEPSE gains 15.39 points as turnover surges, led by banking",
-    "Nepal’s proposed IIT must put women at the centre",
-    "774 drivers penalised for traffic rule violations in Kathmandu Valley in 24 hours"
+    "Understanding urinary nitrites and their role in detecting UTIs",
+    "Private medical colleges threaten to halt admissions over seat and fee demands",
+    "Nepal to use India’s Rs 184 billion credit line based on project needs and progress, says Wagle",
+    "Sunkoshi-Marin tender cancellation draws scrutiny over legal, financial questions"
   ],
   "activities": [
     {
+      "id": "act-live-0",
+      "category": "Domestic & Ministries",
+      "time": "Nov 24, 2026",
+      "agency": "OnlineKhabar",
+      "title": "Understanding urinary nitrites and their role in detecting UTIs",
+      "summary": "Urinary tract infections (UTIs) are common and can often disrupt normal day-to-day life. Symptoms include a burning sensation during urination, an increased urge to urinate, blood in the urine, lower abdominal pain, fever, itching and redness around the extern...",
+      "sourceName": "OnlineKhabar",
+      "sourceUrl": "https://english.onlinekhabar.com/understanding-urinary-nitrites-and-their-role-in-detecting-utis.html"
+    },
+    {
       "id": "act-live-1",
+      "category": "Domestic & Ministries",
+      "time": "Nov 24, 2026",
+      "agency": "OnlineKhabar",
+      "title": "Private medical colleges threaten to halt admissions over seat and fee demands",
+      "summary": "Kathmandu, November 23 The number of seats and tuition fees for the 2026/27 academic session of undergraduate medical education have already been determined. The Medical Education Commission is now preparing to proceed with the student admission process. Howev...",
+      "sourceName": "OnlineKhabar",
+      "sourceUrl": "https://english.onlinekhabar.com/private-medical-colleges-threaten-to-halt-admissions-over-seat-and-fee-demands.html"
+    },
+    {
+      "id": "act-live-2",
+      "category": "Official & Diplomatic",
+      "time": "Nov 24, 2026",
+      "agency": "OnlineKhabar",
+      "title": "Nepal to use India’s Rs 184 billion credit line based on project needs and progress, says Wagle",
+      "summary": "Kathmandu, November 24 Finance Minister Dr Swarnim Wagle has clarified that the Rs 184 billion concessional credit line secured from India will be utilised according to Nepal’s needs and the progress of individual projects, rather than being disbursed as a lum...",
+      "sourceName": "OnlineKhabar",
+      "sourceUrl": "https://english.onlinekhabar.com/india-credit-line-based-on-need.html"
+    },
+    {
+      "id": "act-live-3",
+      "category": "Official & Diplomatic",
+      "time": "Nov 24, 2026",
+      "agency": "OnlineKhabar",
+      "title": "Sunkoshi-Marin tender cancellation draws scrutiny over legal, financial questions",
+      "summary": "Kathmandu, November 24 The cancellation of a new tender process for the national pride Sunkoshi-Marin Multipurpose Diversion Project has come under scrutiny of the parliamentary Public Accounts Committee, which has begun a preliminary investigation and sought ...",
+      "sourceName": "OnlineKhabar",
+      "sourceUrl": "https://english.onlinekhabar.com/sunkoshi-marin-tender-cancellation.html"
+    },
+    {
+      "id": "act-live-5",
       "category": "Domestic & Ministries",
       "time": "Nov 24, 2026",
       "agency": "OnlineKhabar",
@@ -26,7 +66,7 @@
       "sourceUrl": "https://english.onlinekhabar.com/nepal-and-eu-expanding-nepali-exports.html"
     },
     {
-      "id": "act-live-2",
+      "id": "act-live-6",
       "category": "Domestic & Ministries",
       "time": "Nov 24, 2026",
       "agency": "OnlineKhabar",
@@ -36,7 +76,7 @@
       "sourceUrl": "https://english.onlinekhabar.com/nepse-gains-15-39-points.html"
     },
     {
-      "id": "act-live-3",
+      "id": "act-live-7",
       "category": "Official & Diplomatic",
       "time": "Nov 24, 2026",
       "agency": "OnlineKhabar",
@@ -46,7 +86,7 @@
       "sourceUrl": "https://english.onlinekhabar.com/nepals-iit-must-put-women-at-centre.html"
     },
     {
-      "id": "act-live-4",
+      "id": "act-live-8",
       "category": "Judiciary & Law",
       "time": "Nov 24, 2026",
       "agency": "OnlineKhabar",
@@ -56,7 +96,7 @@
       "sourceUrl": "https://english.onlinekhabar.com/traffic-rule-violations-kathmandu.html"
     },
     {
-      "id": "act-live-5",
+      "id": "act-live-9",
       "category": "Official & Diplomatic",
       "time": "Nov 24, 2026",
       "agency": "OnlineKhabar",
@@ -66,7 +106,7 @@
       "sourceUrl": "https://english.onlinekhabar.com/un-report-five-women-and-girls-killed-every-hour-by-partners-or-family-members.html"
     },
     {
-      "id": "act-live-6",
+      "id": "act-live-10",
       "category": "Domestic & Ministries",
       "time": "Nov 24, 2026",
       "agency": "OnlineKhabar",
@@ -76,7 +116,7 @@
       "sourceUrl": "https://english.onlinekhabar.com/tu-research-centers-more-dynamic.html"
     },
     {
-      "id": "act-live-7",
+      "id": "act-live-11",
       "category": "Official & Diplomatic",
       "time": "Nov 24, 2026",
       "agency": "OnlineKhabar",
@@ -86,59 +126,19 @@
       "sourceUrl": "https://english.onlinekhabar.com/balen-shares-photo-with-swarnim-and-shishir-calls-them-team-to-move-the-country-forward.html"
     },
     {
-      "id": "act-live-8",
+      "id": "act-live-12",
       "category": "Judiciary & Law",
       "time": "Nov 24, 2026",
-      "agency": "OnlineKhabar",
-      "title": "Ani Choying Drolma’s appointment as Lumbini Development Trust vice-chairperson challenged in Supreme Court",
-      "summary": "Kathmandu, November 24 A writ petition has been filed at the Supreme Court challenging the appointment of Ani Choying Drolma as vice-chairperson of the Lumbini Development Trust, alleging that the appointment was unlawful and made in violation of established p...",
-      "sourceName": "OnlineKhabar",
-      "sourceUrl": "https://english.onlinekhabar.com/ani-choying-drolmas-appointment-challenged.html"
-    },
-    {
-      "id": "act-live-9",
-      "category": "Domestic & Ministries",
-      "time": "Nov 24, 2026",
-      "agency": "OnlineKhabar",
-      "title": "Sports Minister Pokharel to hold talks with eight NPL franchise representatives",
-      "summary": "Kathmandu, November 24 Education and Sports Minister Sasmit Pokharel will hold discussions on Tuesday with the owners and representatives of all eight Nepal Premier League (NPL) franchise teams. The franchises have been called in to discuss the infrastructure,...",
-      "sourceName": "OnlineKhabar",
-      "sourceUrl": "https://english.onlinekhabar.com/education-minister-npl-franchise.html"
-    },
-    {
-      "id": "act-live-10",
-      "category": "Official & Diplomatic",
-      "time": "Nov 24, 2026",
-      "agency": "OnlineKhabar",
-      "title": "China pledges support for Nepal’s post-disaster reconstruction efforts",
-      "summary": "Kathmandu, November 24 China has pledged active support for Nepal’s post-disaster reconstruction efforts. Chinese Foreign Ministry spokesperson Guo Jiakun made the statement in response to a question from international news agency Reuters following the ministr...",
-      "sourceName": "OnlineKhabar",
-      "sourceUrl": "https://english.onlinekhabar.com/china-pledges-support-for-nepals-post-disaster-reconstruction-efforts.html"
-    },
-    {
-      "id": "act-live-11",
-      "category": "Domestic & Ministries",
-      "time": "Nov 24, 2026",
-      "agency": "OnlineKhabar",
-      "title": "Laws must be reformed to ease economic activity, says Finance Minister Wagle",
-      "summary": "Kathmandu, November 24 Finance Minister Swarnim Wagle has said outdated laws that no longer suit the times should be repealed, and laws should be reformed to make economic activity easier. He made the remarks on Tuesday during clause-by-clause discussion of th...",
-      "sourceName": "OnlineKhabar",
-      "sourceUrl": "https://english.onlinekhabar.com/laws-must-be-reformed-minister-wagle.html"
-    },
-    {
-      "id": "act-live-12",
-      "category": "Domestic & Ministries",
-      "time": "Nov 24, 2026",
       "agency": "Nepal News",
-      "title": "NEPSE rises by 15 points with Rs 5.55 billion turnover",
-      "summary": "KATHMANDU: The Nepal Stock Exchange (NEPSE) index rose by 15.39 points on Tuesday, closing at 2,638.95 points. Trading activity also saw an increase, with a total turnover of Rs 5.55 billion recorded. During the session, 14.67 million shares were traded in the...",
+      "title": "Bangladesh rejects Hasina’s December 16 return, rules out her comeback",
+      "summary": "DHAKA: Bangladesh has rejected former Prime Minister Sheikh Hasina’s stated plan to return on December 16. Officials say if she tries to come back, she could be arrested. Hasina urged the government in Dhaka to arrange her air transport from Delhi aboard the n...",
       "sourceName": "Nepal News",
-      "sourceUrl": "https://english.nepalnews.com/s/business/nepse-rises-by-15-points-with-rs-5-55-billion-turnover/"
+      "sourceUrl": "https://english.nepalnews.com/s/south-asia/bangladesh-rejects-hasinas-december-16-return-rules-out-her-comeback/"
     }
   ],
   "protests": [
     {
-      "id": "prot-live-0",
+      "id": "prot-live-4",
       "zone": "National / Kathmandu",
       "location": "Kathmandu / Nepal",
       "date": "Nov 24, 2026",
