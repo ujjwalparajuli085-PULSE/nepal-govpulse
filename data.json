@@ -3,20 +3,40 @@
   "bsDate": "७ मंसिर २०८३, सोमबार",
   "leadDispatch": {
     "kicker": "Lead Dispatch • OnlineKhabar",
-    "title": "EPG report is a thing of the past, says Indian foreign secretary",
-    "summary": "Kathmandu, November 24 Indian Foreign Secretary Vikram Misri has said the report of the Eminent Persons Group (EPG) on Nepal-India relations is a thing of the past. Misri made the remarks in response to questions from journalists following Prime Minister Balen...",
+    "title": "Finding his rhythm in the shadows of Nepali theatre",
+    "summary": "The actors, their dialogue and the story may command the audience’s attention, but a theatre performance is also shaped by the sounds and music that accompany it. They help set the mood, build atmosphere and bring scenes to life, often without the audience not...",
     "primaryLinkText": "Read on OnlineKhabar",
-    "primaryLinkUrl": "https://english.onlinekhabar.com/epg-report-thing-of-past.html"
+    "primaryLinkUrl": "https://english.onlinekhabar.com/anup-timilsinas-rhythm-nepali-theatre.html"
   },
   "breakingTicker": [
+    "Finding his rhythm in the shadows of Nepali theatre",
+    "5.6-magnitude earthquake hits northern border area of eastern Nepal",
     "EPG report is a thing of the past, says Indian foreign secretary",
-    "Bhairahawa air route agreement raises hopes, but implementation remains uncertain",
-    "How did the COP31 climate agreement fall apart – and what happens now?",
-    "Nepal gets access to Paradip and Kandla ports for third-country trade"
+    "Bhairahawa air route agreement raises hopes, but implementation remains uncertain"
   ],
   "activities": [
     {
-      "id": "act-live-0",
+      "id": "act-live-1",
+      "category": "Domestic & Ministries",
+      "time": "Nov 24, 2026",
+      "agency": "OnlineKhabar",
+      "title": "Finding his rhythm in the shadows of Nepali theatre",
+      "summary": "The actors, their dialogue and the story may command the audience’s attention, but a theatre performance is also shaped by the sounds and music that accompany it. They help set the mood, build atmosphere and bring scenes to life, often without the audience not...",
+      "sourceName": "OnlineKhabar",
+      "sourceUrl": "https://english.onlinekhabar.com/anup-timilsinas-rhythm-nepali-theatre.html"
+    },
+    {
+      "id": "act-live-2",
+      "category": "Domestic & Ministries",
+      "time": "Nov 24, 2026",
+      "agency": "OnlineKhabar",
+      "title": "5.6-magnitude earthquake hits northern border area of eastern Nepal",
+      "summary": "Kathmandu, November 24 A 5.6-magnitude earthquake struck the eastern Nepal border area on Tuesday morning, according to the National Earthquake Monitoring and Research Centre. The earthquake occurred at 7:17 am, with its epicentre near Olangchung Gola in Taple...",
+      "sourceName": "OnlineKhabar",
+      "sourceUrl": "https://english.onlinekhabar.com/5-6-magnitude-earthquake-hits-northern-border-area-of-eastern-nepal.html"
+    },
+    {
+      "id": "act-live-3",
       "category": "Official & Diplomatic",
       "time": "Nov 24, 2026",
       "agency": "OnlineKhabar",
@@ -26,7 +46,7 @@
       "sourceUrl": "https://english.onlinekhabar.com/epg-report-thing-of-past.html"
     },
     {
-      "id": "act-live-1",
+      "id": "act-live-4",
       "category": "Official & Diplomatic",
       "time": "Nov 24, 2026",
       "agency": "OnlineKhabar",
@@ -36,7 +56,7 @@
       "sourceUrl": "https://english.onlinekhabar.com/air-route-agreement-raises-hopes.html"
     },
     {
-      "id": "act-live-2",
+      "id": "act-live-5",
       "category": "Domestic & Ministries",
       "time": "Nov 24, 2026",
       "agency": "OnlineKhabar",
@@ -46,7 +66,7 @@
       "sourceUrl": "https://english.onlinekhabar.com/how-cop31-climate-agreement-fall-apart.html"
     },
     {
-      "id": "act-live-3",
+      "id": "act-live-6",
       "category": "Official & Diplomatic",
       "time": "Nov 24, 2026",
       "agency": "OnlineKhabar",
@@ -56,7 +76,7 @@
       "sourceUrl": "https://english.onlinekhabar.com/access-paradip-kandla-port-nepal.html"
     },
     {
-      "id": "act-live-4",
+      "id": "act-live-7",
       "category": "Official & Diplomatic",
       "time": "Nov 24, 2026",
       "agency": "OnlineKhabar",
@@ -66,7 +86,7 @@
       "sourceUrl": "https://english.onlinekhabar.com/balen-shah-returns-from-india.html"
     },
     {
-      "id": "act-live-5",
+      "id": "act-live-8",
       "category": "Domestic & Ministries",
       "time": "Nov 24, 2026",
       "agency": "OnlineKhabar",
@@ -76,7 +96,7 @@
       "sourceUrl": "https://english.onlinekhabar.com/oli-pokharel-rift-deepens-uml.html"
     },
     {
-      "id": "act-live-6",
+      "id": "act-live-9",
       "category": "Judiciary & Law",
       "time": "Nov 24, 2026",
       "agency": "OnlineKhabar",
@@ -86,7 +106,7 @@
       "sourceUrl": "https://english.onlinekhabar.com/court-registration-ai-related-writ.html"
     },
     {
-      "id": "act-live-8",
+      "id": "act-live-11",
       "category": "Official & Diplomatic",
       "time": "Nov 24, 2026",
       "agency": "OnlineKhabar",
@@ -96,49 +116,40 @@
       "sourceUrl": "https://english.onlinekhabar.com/ck-raut-calls-balens-india-visit-a-moment-of-pride.html"
     },
     {
-      "id": "act-live-9",
-      "category": "Domestic & Ministries",
-      "time": "Nov 24, 2026",
-      "agency": "OnlineKhabar",
-      "title": "Govt to test cell broadcast alerts, urges mobile users not to panic",
-      "summary": "Kathmandu, November 23 The government is set to test the Cell Broadcast System among mobile phone users in the Kathmandu Valley on Monday. During the test, some mobile phones may receive emergency alert messages. The Ministry of Communication and Information T...",
-      "sourceName": "OnlineKhabar",
-      "sourceUrl": "https://english.onlinekhabar.com/govt-to-test-cell-broadcast-alerts-urges-mobile-users-not-to-panic.html"
-    },
-    {
-      "id": "act-live-10",
-      "category": "Official & Diplomatic",
-      "time": "Nov 24, 2026",
-      "agency": "OnlineKhabar",
-      "title": "Prime Minister Shah returns home after India visit",
-      "summary": "Kathmandu, November 23 Prime Minister Balendra Shah has departed for Nepal after completing his two-day state visit to India. He left for Nepal a short while ago from Indira Gandhi International Airport in New Delhi. According to the Ministry of Foreign Affair...",
-      "sourceName": "OnlineKhabar",
-      "sourceUrl": "https://english.onlinekhabar.com/prime-minister-shah-returns-home-after-india-visit.html"
-    },
-    {
-      "id": "act-live-11",
-      "category": "Official & Diplomatic",
-      "time": "Nov 24, 2026",
-      "agency": "OnlineKhabar",
-      "title": "Modi gifts Balen a Banarasi silk shawl in a traditional Gujarati Sadeli box",
-      "summary": "Kathmandu, November 23 Indian Prime Minister Narendra Modi has presented a gift to Nepal’s Prime Minister Balendra Shah. Modi gifted Shah a Banarasi brocade silk shawl from Varanasi, placed in a traditional Gujarati Sadeli box. The two prime ministers met for ...",
-      "sourceName": "OnlineKhabar",
-      "sourceUrl": "https://english.onlinekhabar.com/modi-gifts-balen-a-banarasi-silk-shawl-in-a-traditional-gujarati-sadeli-box.html"
-    },
-    {
       "id": "act-live-12",
       "category": "Domestic & Ministries",
       "time": "Nov 24, 2026",
       "agency": "Nepal News",
-      "title": "Guru Nanak Jayanti being celebrated today",
-      "summary": "KATHMANDU: The birth anniversary of Guru Nanak, the founder of Sikhism, is being observed by organizing various religious and social programmes in the country today. Every year, Sikhs celebrate the birth anniversary of Guru Nanak on the full moon day of Kartik...",
+      "title": "Parliamentary committees holding meetings today",
+      "summary": "KATHMANDU: Various committees under the House of Representatives are holding meetings today. The Federal Parliament Secretariat shared information that the Finance Committee; Industry, Commerce, Labour and Consumer Rights Committee; Women and Social Committee;...",
       "sourceName": "Nepal News",
-      "sourceUrl": "https://english.nepalnews.com/s/nation/guru-nanak-jayanti-being-celebrated-today/"
+      "sourceUrl": "https://english.nepalnews.com/s/politics/parliamentary-committees-holding-meetings-today/"
+    },
+    {
+      "id": "act-live-13",
+      "category": "Domestic & Ministries",
+      "time": "Nov 24, 2026",
+      "agency": "Nepal News",
+      "title": "Rs 50 million demanded for reconstruction of Dodhara Chandani suspension bridge",
+      "summary": "MAHENDRANAGAR: A budget of Rs 50 million has been demanded for the Dodhara Chandani suspension bridge. The suspension bridge over the Mahakali River was damaged by the flood occurred on September 30. The people’s movement has been completely disrupted followin...",
+      "sourceName": "Nepal News",
+      "sourceUrl": "https://english.nepalnews.com/s/business/rs-50-million-demanded-for-reconstruction-of-dodhara-chandani-suspension-bridge/"
     }
   ],
   "protests": [
     {
-      "id": "prot-live-7",
+      "id": "prot-live-0",
+      "zone": "National / Kathmandu",
+      "location": "Kathmandu / Nepal",
+      "date": "Nov 24, 2026",
+      "group": "Three ordinances pending at President’s Office",
+      "demand": "Kathmandu, November 24 The number of ordinances pending at the President’s Office has reached three. An ordinance to establish a commission to investigate incidents related to the Gen Z protests, provide compensation and reparations, and address related cases ...",
+      "status": "Reported Today",
+      "sourceName": "OnlineKhabar",
+      "sourceUrl": "https://english.onlinekhabar.com/three-ordinances-pending-at-presidents-office.html"
+    },
+    {
+      "id": "prot-live-10",
       "zone": "National / Kathmandu",
       "location": "Kathmandu / Nepal",
       "date": "Nov 24, 2026",
