@@ -3,20 +3,40 @@
   "bsDate": "७ मंसिर २०८३, सोमबार",
   "leadDispatch": {
     "kicker": "Lead Dispatch • OnlineKhabar",
-    "title": "How did the COP31 climate agreement fall apart – and what happens now?",
-    "summary": "Two days after the COP31 global climate summit was supposed to finish, the talks in Antalya, Turkey, have come to an end – but not as we might have hoped. Agreement simply could not be reached. The sticking point was the omission of fossil fuels in draft texts...",
+    "title": "EPG report is a thing of the past, says Indian foreign secretary",
+    "summary": "Kathmandu, November 24 Indian Foreign Secretary Vikram Misri has said the report of the Eminent Persons Group (EPG) on Nepal-India relations is a thing of the past. Misri made the remarks in response to questions from journalists following Prime Minister Balen...",
     "primaryLinkText": "Read on OnlineKhabar",
-    "primaryLinkUrl": "https://english.onlinekhabar.com/how-cop31-climate-agreement-fall-apart.html"
+    "primaryLinkUrl": "https://english.onlinekhabar.com/epg-report-thing-of-past.html"
   },
   "breakingTicker": [
+    "EPG report is a thing of the past, says Indian foreign secretary",
+    "Bhairahawa air route agreement raises hopes, but implementation remains uncertain",
     "How did the COP31 climate agreement fall apart – and what happens now?",
-    "Nepal gets access to Paradip and Kandla ports for third-country trade",
-    "Prime Minister Balen Shah returns after two-day state visit to India",
-    "UML’s internal struggle spills into Chyasal as Oli-Pokharel tensions grow"
+    "Nepal gets access to Paradip and Kandla ports for third-country trade"
   ],
   "activities": [
     {
       "id": "act-live-0",
+      "category": "Official & Diplomatic",
+      "time": "Nov 24, 2026",
+      "agency": "OnlineKhabar",
+      "title": "EPG report is a thing of the past, says Indian foreign secretary",
+      "summary": "Kathmandu, November 24 Indian Foreign Secretary Vikram Misri has said the report of the Eminent Persons Group (EPG) on Nepal-India relations is a thing of the past. Misri made the remarks in response to questions from journalists following Prime Minister Balen...",
+      "sourceName": "OnlineKhabar",
+      "sourceUrl": "https://english.onlinekhabar.com/epg-report-thing-of-past.html"
+    },
+    {
+      "id": "act-live-1",
+      "category": "Official & Diplomatic",
+      "time": "Nov 24, 2026",
+      "agency": "OnlineKhabar",
+      "title": "Bhairahawa air route agreement raises hopes, but implementation remains uncertain",
+      "summary": "Kathmandu, November 23 The tourism and civil aviation sectors have reasons to be optimistic about Prime Minister Balendra (Balen) Shah’s visit to India. In particular, an agreement to make the Bhairahawa air route bidirectional and the launch of the Ayodhya–Ja...",
+      "sourceName": "OnlineKhabar",
+      "sourceUrl": "https://english.onlinekhabar.com/air-route-agreement-raises-hopes.html"
+    },
+    {
+      "id": "act-live-2",
       "category": "Domestic & Ministries",
       "time": "Nov 24, 2026",
       "agency": "OnlineKhabar",
@@ -26,7 +46,7 @@
       "sourceUrl": "https://english.onlinekhabar.com/how-cop31-climate-agreement-fall-apart.html"
     },
     {
-      "id": "act-live-1",
+      "id": "act-live-3",
       "category": "Official & Diplomatic",
       "time": "Nov 24, 2026",
       "agency": "OnlineKhabar",
@@ -36,7 +56,7 @@
       "sourceUrl": "https://english.onlinekhabar.com/access-paradip-kandla-port-nepal.html"
     },
     {
-      "id": "act-live-2",
+      "id": "act-live-4",
       "category": "Official & Diplomatic",
       "time": "Nov 24, 2026",
       "agency": "OnlineKhabar",
@@ -46,7 +66,7 @@
       "sourceUrl": "https://english.onlinekhabar.com/balen-shah-returns-from-india.html"
     },
     {
-      "id": "act-live-3",
+      "id": "act-live-5",
       "category": "Domestic & Ministries",
       "time": "Nov 24, 2026",
       "agency": "OnlineKhabar",
@@ -56,7 +76,7 @@
       "sourceUrl": "https://english.onlinekhabar.com/oli-pokharel-rift-deepens-uml.html"
     },
     {
-      "id": "act-live-4",
+      "id": "act-live-6",
       "category": "Judiciary & Law",
       "time": "Nov 24, 2026",
       "agency": "OnlineKhabar",
@@ -66,7 +86,7 @@
       "sourceUrl": "https://english.onlinekhabar.com/court-registration-ai-related-writ.html"
     },
     {
-      "id": "act-live-6",
+      "id": "act-live-8",
       "category": "Official & Diplomatic",
       "time": "Nov 24, 2026",
       "agency": "OnlineKhabar",
@@ -76,7 +96,7 @@
       "sourceUrl": "https://english.onlinekhabar.com/ck-raut-calls-balens-india-visit-a-moment-of-pride.html"
     },
     {
-      "id": "act-live-7",
+      "id": "act-live-9",
       "category": "Domestic & Ministries",
       "time": "Nov 24, 2026",
       "agency": "OnlineKhabar",
@@ -86,7 +106,7 @@
       "sourceUrl": "https://english.onlinekhabar.com/govt-to-test-cell-broadcast-alerts-urges-mobile-users-not-to-panic.html"
     },
     {
-      "id": "act-live-8",
+      "id": "act-live-10",
       "category": "Official & Diplomatic",
       "time": "Nov 24, 2026",
       "agency": "OnlineKhabar",
@@ -96,7 +116,7 @@
       "sourceUrl": "https://english.onlinekhabar.com/prime-minister-shah-returns-home-after-india-visit.html"
     },
     {
-      "id": "act-live-9",
+      "id": "act-live-11",
       "category": "Official & Diplomatic",
       "time": "Nov 24, 2026",
       "agency": "OnlineKhabar",
@@ -106,39 +126,19 @@
       "sourceUrl": "https://english.onlinekhabar.com/modi-gifts-balen-a-banarasi-silk-shawl-in-a-traditional-gujarati-sadeli-box.html"
     },
     {
-      "id": "act-live-10",
-      "category": "Official & Diplomatic",
-      "time": "Nov 24, 2026",
-      "agency": "OnlineKhabar",
-      "title": "India to establish IIT campus, startup incubator and vocational training institute in Nepal",
-      "summary": "Kathmandu, November 23 India is set to establish an offshore campus of an Indian Institute of Technology (IIT) in Nepal, along with a startup incubator and an innovation hub. Indian Prime Minister Narendra Modi made the announcement during a joint press confer...",
-      "sourceName": "OnlineKhabar",
-      "sourceUrl": "https://english.onlinekhabar.com/india-to-establish-iit-campus-startup-incubator-and-vocational-training-institute-in-nepal.html"
-    },
-    {
-      "id": "act-live-11",
-      "category": "Official & Diplomatic",
-      "time": "Nov 24, 2026",
-      "agency": "OnlineKhabar",
-      "title": "Nepal, India to activate high-level mechanism to monitor implementation of agreements",
-      "summary": "New Delhi, November 23 Nepal and India have agreed to activate a high-level monitoring mechanism to ensure the timely implementation of key agreements, understandings and projects reached during Prime Minister Balendra Shah’s state visit to India. A clear fram...",
-      "sourceName": "OnlineKhabar",
-      "sourceUrl": "https://english.onlinekhabar.com/implementation-of-agreements-monitoring.html"
-    },
-    {
       "id": "act-live-12",
       "category": "Domestic & Ministries",
       "time": "Nov 24, 2026",
       "agency": "Nepal News",
-      "title": "Nepal News Evening Briefing | Monday, November 23, 2026",
-      "summary": "KATHMANDU: Stay updated with Nepal News’ evening briefing, bringing you the day’s most important developments from Nepal and across the globe. From politics and economy to sports, entertainment, and culture, we deliver a concise roundup of the top news you nee...",
+      "title": "Infrastructure Development Office established in Nuwakot",
+      "summary": "TRISHULI: An Infrastructure Development Division Office has been set up in Nuwakot to advance reconstruction of physical infrastructures damaged by the Bhotekoshi flood occurred on August 26. Division chief senior engineer Sachindra Kumar Yadav informed that t...",
       "sourceName": "Nepal News",
-      "sourceUrl": "https://english.nepalnews.com/s/main-left/nepal-news-evening-briefing-monday-november-23-2026/"
+      "sourceUrl": "https://english.nepalnews.com/s/nation/infrastructure-development-office-established-in-nuwakot/"
     }
   ],
   "protests": [
     {
-      "id": "prot-live-5",
+      "id": "prot-live-7",
       "zone": "National / Kathmandu",
       "location": "Kathmandu / Nepal",
       "date": "Nov 24, 2026",
