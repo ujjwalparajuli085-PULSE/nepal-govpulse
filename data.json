@@ -3,20 +3,70 @@
   "bsDate": "७ मंसिर २०८३, सोमबार",
   "leadDispatch": {
     "kicker": "Lead Dispatch • OnlineKhabar",
-    "title": "7 arrested for gambling in Pokhara",
-    "summary": "Kaski, November 25 Police have arrested seven people for allegedly gambling in Pokhara. According to police, the seven, including 44-year-old Shankar Shrestha of Pokhara Metropolitan City-17, were arrested on Tuesday evening while gambling in Gharipatan, Ward ...",
+    "title": "Congress leader calls for action against representatives supporting Deuba faction’s convention",
+    "summary": "Kathmandu, November 25 A call has been made at the Nepali Congress Central Working Committee meeting to remove elected representatives who are actively involved in the convention being organised by the faction led by former party president Sher Bahadur Deuba. ...",
     "primaryLinkText": "Read on OnlineKhabar",
-    "primaryLinkUrl": "https://english.onlinekhabar.com/7-arrested-for-gambling-in-pokhara.html"
+    "primaryLinkUrl": "https://english.onlinekhabar.com/congress-leader-calls-for-action-against-representatives-supporting-deuba-factions-convention.html"
   },
   "breakingTicker": [
-    "7 arrested for gambling in Pokhara",
-    "Energy sector seeks policy support, not financial aid, for post-flood reconstruction",
-    "Hora Esports depart for Türkiye to compete in PMGC 2026",
-    "Govt defends proposal to allow children aged 13 and above to do light work"
+    "Congress leader calls for action against representatives supporting Deuba faction’s convention",
+    "Man arrested with 384 kgs of adulterated honey in Kathmandu",
+    "14-year-old boy dies after being run over by tractor in Dhanusha",
+    "Bagmati Provincial Assembly meeting called after 3 months"
   ],
   "activities": [
     {
       "id": "act-live-0",
+      "category": "Domestic & Ministries",
+      "time": "Nov 25, 2026",
+      "agency": "OnlineKhabar",
+      "title": "Congress leader calls for action against representatives supporting Deuba faction’s convention",
+      "summary": "Kathmandu, November 25 A call has been made at the Nepali Congress Central Working Committee meeting to remove elected representatives who are actively involved in the convention being organised by the faction led by former party president Sher Bahadur Deuba. ...",
+      "sourceName": "OnlineKhabar",
+      "sourceUrl": "https://english.onlinekhabar.com/congress-leader-calls-for-action-against-representatives-supporting-deuba-factions-convention.html"
+    },
+    {
+      "id": "act-live-1",
+      "category": "Judiciary & Law",
+      "time": "Nov 25, 2026",
+      "agency": "OnlineKhabar",
+      "title": "Man arrested with 384 kgs of adulterated honey in Kathmandu",
+      "summary": "Kathmandu, November 25 Police have arrested a man from Tokha, Kathmandu, on charges of producing and selling honey adulterated with inedible substances. A police team deployed from the Kathmandu District Police Range arrested 44-year-old Laxman Gurung of Siddh...",
+      "sourceName": "OnlineKhabar",
+      "sourceUrl": "https://english.onlinekhabar.com/man-arrested-with-384-kgs-of-adulterated-honey-in-kathmandu.html"
+    },
+    {
+      "id": "act-live-2",
+      "category": "Judiciary & Law",
+      "time": "Nov 25, 2026",
+      "agency": "OnlineKhabar",
+      "title": "14-year-old boy dies after being run over by tractor in Dhanusha",
+      "summary": "Kathmandu, November 25 A 14-year-old boy died after being run over by a tractor in Dhanusha district. The deceased has been identified as Jisanta Kumar Mandal, son of Ram Kumar Mandal of Rudauli, Hansapur Municipality-9. According to the Nepal Police Central N...",
+      "sourceName": "OnlineKhabar",
+      "sourceUrl": "https://english.onlinekhabar.com/14-year-old-boy-dies-after-being-run-over-by-tractor-in-dhanusha.html"
+    },
+    {
+      "id": "act-live-3",
+      "category": "Domestic & Ministries",
+      "time": "Nov 25, 2026",
+      "agency": "OnlineKhabar",
+      "title": "Bagmati Provincial Assembly meeting called after 3 months",
+      "summary": "Hetauda, November 25 The 19th meeting of the eighth session of the Bagmati Provincial Assembly has been scheduled. The provincial assembly had not convened since Chief Minister Kiran Thapa took a vote of confidence recently. According to the Provincial Assembl...",
+      "sourceName": "OnlineKhabar",
+      "sourceUrl": "https://english.onlinekhabar.com/bagmati-provincial-assembly-meeting-called-after-3-months.html"
+    },
+    {
+      "id": "act-live-4",
+      "category": "Official & Diplomatic",
+      "time": "Nov 25, 2026",
+      "agency": "OnlineKhabar",
+      "title": "EPG report effectively shelved as Nepal and India seek a fresh start",
+      "summary": "Kathmandu, November 25 Several longstanding issues in Nepal-India relations, including the disputed Lipulekh territory, the pending report of the Eminent Persons Group (EPG) and India’s Agnipath military recruitment scheme, were not discussed during Prime Mini...",
+      "sourceName": "OnlineKhabar",
+      "sourceUrl": "https://english.onlinekhabar.com/epg-report-effectively-shelved.html"
+    },
+    {
+      "id": "act-live-5",
       "category": "Judiciary & Law",
       "time": "Nov 25, 2026",
       "agency": "OnlineKhabar",
@@ -26,7 +76,7 @@
       "sourceUrl": "https://english.onlinekhabar.com/7-arrested-for-gambling-in-pokhara.html"
     },
     {
-      "id": "act-live-1",
+      "id": "act-live-6",
       "category": "Domestic & Ministries",
       "time": "Nov 25, 2026",
       "agency": "OnlineKhabar",
@@ -36,7 +86,7 @@
       "sourceUrl": "https://english.onlinekhabar.com/energy-sector-seeks-policy-support-not-financial-aid-for-post-flood-reconstruction.html"
     },
     {
-      "id": "act-live-2",
+      "id": "act-live-7",
       "category": "Domestic & Ministries",
       "time": "Nov 25, 2026",
       "agency": "OnlineKhabar",
@@ -46,7 +96,7 @@
       "sourceUrl": "https://english.onlinekhabar.com/hora-esports-depart-for-turkiye-to-compete-in-pmgc-2026.html"
     },
     {
-      "id": "act-live-3",
+      "id": "act-live-8",
       "category": "Domestic & Ministries",
       "time": "Nov 25, 2026",
       "agency": "OnlineKhabar",
@@ -56,7 +106,7 @@
       "sourceUrl": "https://english.onlinekhabar.com/govt-defends-proposal-to-allow-children-aged-13-and-above-to-do-light-work.html"
     },
     {
-      "id": "act-live-4",
+      "id": "act-live-9",
       "category": "Domestic & Ministries",
       "time": "Nov 25, 2026",
       "agency": "OnlineKhabar",
@@ -66,7 +116,7 @@
       "sourceUrl": "https://english.onlinekhabar.com/koshi-province-without-chief-for-15-days-key-constitutional-functions-affected.html"
     },
     {
-      "id": "act-live-5",
+      "id": "act-live-10",
       "category": "Official & Diplomatic",
       "time": "Nov 25, 2026",
       "agency": "OnlineKhabar",
@@ -76,7 +126,7 @@
       "sourceUrl": "https://english.onlinekhabar.com/10-nepali-register-for-ipl-auction.html"
     },
     {
-      "id": "act-live-6",
+      "id": "act-live-11",
       "category": "Official & Diplomatic",
       "time": "Nov 25, 2026",
       "agency": "OnlineKhabar",
@@ -84,56 +134,6 @@
       "summary": "Kathmandu, November 25 The Nepal Oil Corporation has directed gas industries to run every stage, from import to market distribution, at full capacity. The aim is to ensure a smooth and regular supply of cooking LPG to consumers. The corporation’s LPG and Aviat...",
       "sourceName": "OnlineKhabar",
       "sourceUrl": "https://english.onlinekhabar.com/noc-asks-to-ease-lpg-supply.html"
-    },
-    {
-      "id": "act-live-7",
-      "category": "Official & Diplomatic",
-      "time": "Nov 25, 2026",
-      "agency": "OnlineKhabar",
-      "title": "Nepal-India joint military exercise ‘Surya Kiran’ begins in Saljhandi",
-      "summary": "Kathmandu, November 25 The Nepali Army and the Indian Army have begun the joint military training exercise “Surya Kiran” in Saljhandi, Rupandehi. The Nepali Army said the 20th edition of the exercise began today at the Nepali Army Battle School. According to t...",
-      "sourceName": "OnlineKhabar",
-      "sourceUrl": "https://english.onlinekhabar.com/surya-kiran-begins-in-saljhandi.html"
-    },
-    {
-      "id": "act-live-8",
-      "category": "Judiciary & Law",
-      "time": "Nov 25, 2026",
-      "agency": "OnlineKhabar",
-      "title": "10th National Games: Sudurpaschim and Police win in women’s basketball",
-      "summary": "Surkhet, November 25 Two matches in women’s basketball were completed on Wednesday at the 10th National Games in Karnali Province. Sudurpaschim Province and Nepal Police Club won the two matches played on Wednesday morning. In the first match of full-court (5×...",
-      "sourceName": "OnlineKhabar",
-      "sourceUrl": "https://english.onlinekhabar.com/sudurpaschim-police-womens-basketball.html"
-    },
-    {
-      "id": "act-live-9",
-      "category": "Domestic & Ministries",
-      "time": "Nov 25, 2026",
-      "agency": "OnlineKhabar",
-      "title": "Kathmandu Metropolitan City lays foundation of autism school in Ward 29",
-      "summary": "Kathmandu, November 25 Kathmandu Metropolitan City has laid the foundation stone of a special school building for children with autism in Ward 29. Acting Mayor Sunita Dangol performed the ground-breaking ritual and laid the stone on Wednesday morning, in the p...",
-      "sourceName": "OnlineKhabar",
-      "sourceUrl": "https://english.onlinekhabar.com/autism-school-in-ward-29.html"
-    },
-    {
-      "id": "act-live-10",
-      "category": "Domestic & Ministries",
-      "time": "Nov 25, 2026",
-      "agency": "OnlineKhabar",
-      "title": "MPs suggest considering both age limit and family economic status to prevent child labour",
-      "summary": "Kathmandu, November 25 Lawmakers at a parliamentary committee have raised the minimum age for children entering the work, constitutional rights, international standards and the socio-economic causes of child labour. The discourse took place during the ongoing ...",
-      "sourceName": "OnlineKhabar",
-      "sourceUrl": "https://english.onlinekhabar.com/age-limit-economic-child-labour.html"
-    },
-    {
-      "id": "act-live-11",
-      "category": "Domestic & Ministries",
-      "time": "Nov 25, 2026",
-      "agency": "OnlineKhabar",
-      "title": "The politics behind Deuba’s easing legal troubles",
-      "summary": "The government’s handling of investigations against former prime minister Sher Bahadur Deuba has raised questions about whether state institutions were initially used to target him or are now being used to protect him through political accommodation. The same ...",
-      "sourceName": "OnlineKhabar",
-      "sourceUrl": "https://english.onlinekhabar.com/politics-deuba-easing-legal-troubles.html"
     }
   ],
   "protests": [
@@ -151,14 +151,14 @@
   ],
   "rumors": [
     {
-      "id": "rum-1",
-      "status": "Partially Confirmed",
-      "title": "Airspace Swap Rumor: India Demands Bagdogra Airspace for Bhairahawa",
-      "circulatingOn": "Nepali news & social media (Nov 23, 2026)",
-      "claim": "India is conditioning Bhairahawa air-entry routes on Bagdogra SID airspace.",
-      "verification": "Technical proposal on Bagdogra SID reported; B345 route made bidirectional while western routes remain pending.",
+      "id": "rum-live-12",
+      "status": "Active Controversy",
+      "title": "One arrested with 384 kg of fake honey in Kathmandu",
+      "circulatingOn": "Nepal News (Nov 25, 2026)",
+      "claim": "One arrested with 384 kg of fake honey in Kathmandu",
+      "verification": "KATHMANDU: Police have arrested one person for allegedly producing and distributing counterfeit honey mixed with inedible substances in Kathmandu. A team from the Kathmandu Metropolitan Police Range apprehended 44-year-old Laxman Gurung from the Bhandare area ...",
       "sourceName": "Nepal News",
-      "sourceUrl": "https://english.nepalnews.com/s/long-reads/balens-delhi-visit-puts-economic-ties-on-a-new-track-but-old-disputes-remain/"
+      "sourceUrl": "https://english.nepalnews.com/s/crime-news/one-arrested-with-384-kg-of-fake-honey-in-kathmandu/"
     }
   ],
   "forexRates": [
