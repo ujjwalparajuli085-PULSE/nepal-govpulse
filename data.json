@@ -3,20 +3,80 @@
   "bsDate": "७ मंसिर २०८३, सोमबार",
   "leadDispatch": {
     "kicker": "Lead Dispatch • OnlineKhabar",
-    "title": "13,474 passengers use Dubai–Pokhara flights in two months",
-    "summary": "Kaski, November 25 Passenger traffic on the Dubai–Pokhara–Dubai route has shown encouraging growth, with 13,474 passengers using the service in its first two months of operation at Pokhara International Airport. According to Pokhara International Airport Gener...",
+    "title": "SC to hear both sides before deciding on interim order against Ani Choying Drolma’s appointment",
+    "summary": "Kathmandu, November 25 The Supreme Court has scheduled a hearing for Monday, November 30, to decide whether to issue an interim order against the government’s decision to appoint singer Ani Choying Drolma as vice-chairperson of the Lumbini Development Trust. T...",
     "primaryLinkText": "Read on OnlineKhabar",
-    "primaryLinkUrl": "https://english.onlinekhabar.com/dubai-pokhara-passenger-increase.html"
+    "primaryLinkUrl": "https://english.onlinekhabar.com/sc-ani-choying-drolma-appointment.html"
   },
   "breakingTicker": [
-    "13,474 passengers use Dubai–Pokhara flights in two months",
-    "Nepal’s public debt reaches Rs 2.975 trillion, equivalent to 45.08 percent of GDP",
-    "Digital cards and photocopies now accepted for health insurance services",
-    "Traffic halted at Ghoptebhir for three more days to clear dangerous slope"
+    "SC to hear both sides before deciding on interim order against Ani Choying Drolma’s appointment",
+    "President Paudel undergoes routine health check-up at Teaching Hospital",
+    "Deuba faction entrusts Shashank Koirala with forming convention preparation committees",
+    "Nepali Congress nominates 11 women to central committee to meet one-third representation requirement"
   ],
   "activities": [
     {
       "id": "act-live-0",
+      "category": "Judiciary & Law",
+      "time": "Nov 25, 2026",
+      "agency": "OnlineKhabar",
+      "title": "SC to hear both sides before deciding on interim order against Ani Choying Drolma’s appointment",
+      "summary": "Kathmandu, November 25 The Supreme Court has scheduled a hearing for Monday, November 30, to decide whether to issue an interim order against the government’s decision to appoint singer Ani Choying Drolma as vice-chairperson of the Lumbini Development Trust. T...",
+      "sourceName": "OnlineKhabar",
+      "sourceUrl": "https://english.onlinekhabar.com/sc-ani-choying-drolma-appointment.html"
+    },
+    {
+      "id": "act-live-1",
+      "category": "Domestic & Ministries",
+      "time": "Nov 25, 2026",
+      "agency": "OnlineKhabar",
+      "title": "President Paudel undergoes routine health check-up at Teaching Hospital",
+      "summary": "Kathmandu, November 25 President Ramchandra Paudel underwent a routine health check-up at Tribhuvan University Teaching Hospital in Maharajgunj on Wednesday. His press adviser, Kiran Pokharel, confirmed that the president visited the hospital for a routine med...",
+      "sourceName": "OnlineKhabar",
+      "sourceUrl": "https://english.onlinekhabar.com/president-paudel-undergoes-routine-health-check-up-at-teaching-hospital.html"
+    },
+    {
+      "id": "act-live-2",
+      "category": "Domestic & Ministries",
+      "time": "Nov 25, 2026",
+      "agency": "OnlineKhabar",
+      "title": "Deuba faction entrusts Shashank Koirala with forming convention preparation committees",
+      "summary": "Kathmandu, November 25 The Sher Bahadur Deuba faction of the Nepali Congress has entrusted its convention coordinator, Dr Shashank Koirala, with the responsibility of forming committees to prepare for the party’s 15th General Convention. Congress leader Jit Ju...",
+      "sourceName": "OnlineKhabar",
+      "sourceUrl": "https://english.onlinekhabar.com/deuba-faction-entrusts-shashank-koirala-with-forming-convention-preparation-committees.html"
+    },
+    {
+      "id": "act-live-3",
+      "category": "Domestic & Ministries",
+      "time": "Nov 25, 2026",
+      "agency": "OnlineKhabar",
+      "title": "Nepali Congress nominates 11 women to central committee to meet one-third representation requirement",
+      "summary": "Kathmandu, November 25 The Nepali Congress has submitted the names of 11 women nominated to its central committee to the Election Commission, aiming to ensure that women make up at least one-third of the party’s central body. The party informed the commission ...",
+      "sourceName": "OnlineKhabar",
+      "sourceUrl": "https://english.onlinekhabar.com/nepali-congress-women-central-committee.html"
+    },
+    {
+      "id": "act-live-4",
+      "category": "Domestic & Ministries",
+      "time": "Nov 25, 2026",
+      "agency": "OnlineKhabar",
+      "title": "MPs call for stricter punishments for sexual violence offences",
+      "summary": "Kathmandu, November 25 Members of the House of Representatives have called for reforms to existing laws on sexual violence, saying the punishments prescribed for perpetrators are inadequate. They also said the bill proposed by the government to amend the Natio...",
+      "sourceName": "OnlineKhabar",
+      "sourceUrl": "https://english.onlinekhabar.com/mps-call-for-stricter-punishments-for-sexual-violence-offences.html"
+    },
+    {
+      "id": "act-live-5",
+      "category": "Official & Diplomatic",
+      "time": "Nov 25, 2026",
+      "agency": "OnlineKhabar",
+      "title": "Arzu Rana appears at political event in Hong Kong after months away from public view",
+      "summary": "Kathmandu, November 25 Former foreign minister Arzu Rana Deuba has reappeared at a political event after remaining largely out of public view for several months. Rana, the wife of former Nepali Congress president Sher Bahadur Deuba, attended a convention of th...",
+      "sourceName": "OnlineKhabar",
+      "sourceUrl": "https://english.onlinekhabar.com/arzu-rana-political-event-hong-kong.html"
+    },
+    {
+      "id": "act-live-6",
       "category": "Domestic & Ministries",
       "time": "Nov 25, 2026",
       "agency": "OnlineKhabar",
@@ -26,7 +86,7 @@
       "sourceUrl": "https://english.onlinekhabar.com/dubai-pokhara-passenger-increase.html"
     },
     {
-      "id": "act-live-1",
+      "id": "act-live-7",
       "category": "Domestic & Ministries",
       "time": "Nov 25, 2026",
       "agency": "OnlineKhabar",
@@ -36,7 +96,7 @@
       "sourceUrl": "https://english.onlinekhabar.com/nepals-public-debt-increase.html"
     },
     {
-      "id": "act-live-2",
+      "id": "act-live-8",
       "category": "Domestic & Ministries",
       "time": "Nov 25, 2026",
       "agency": "OnlineKhabar",
@@ -46,7 +106,7 @@
       "sourceUrl": "https://english.onlinekhabar.com/digital-cards-and-photocopies-now-accepted-for-health-insurance-services.html"
     },
     {
-      "id": "act-live-3",
+      "id": "act-live-9",
       "category": "Domestic & Ministries",
       "time": "Nov 25, 2026",
       "agency": "OnlineKhabar",
@@ -56,7 +116,7 @@
       "sourceUrl": "https://english.onlinekhabar.com/traffic-halted-ghoptebhir-three-more-days.html"
     },
     {
-      "id": "act-live-4",
+      "id": "act-live-10",
       "category": "Domestic & Ministries",
       "time": "Nov 25, 2026",
       "agency": "OnlineKhabar",
@@ -66,7 +126,7 @@
       "sourceUrl": "https://english.onlinekhabar.com/nepal-import-rice-and-paddy.html"
     },
     {
-      "id": "act-live-5",
+      "id": "act-live-11",
       "category": "Domestic & Ministries",
       "time": "Nov 25, 2026",
       "agency": "OnlineKhabar",
@@ -74,66 +134,6 @@
       "summary": "Kathmandu, November 25 The government has proposed increasing the authorised capital of the Citizen Investment Trust (CIT) to Rs 10 billion as part of a broader plan to expand the fund’s investment opportunities, capital structure and operational scope. Financ...",
       "sourceName": "OnlineKhabar",
       "sourceUrl": "https://english.onlinekhabar.com/govt-proposes-raising-citizen-investment-trusts-authorised-capital-to-rs-10-billion.html"
-    },
-    {
-      "id": "act-live-6",
-      "category": "Domestic & Ministries",
-      "time": "Nov 25, 2026",
-      "agency": "OnlineKhabar",
-      "title": "Election Commission updates Nepali Congress statute, office-bearers’ records",
-      "summary": "Kathmandu, November 25 The Election Commission has updated the statute and records of office-bearers of the Nepali Congress following the party’s 15th general convention. The commission’s meeting on Wednesday decided to update the party’s records, Election Com...",
-      "sourceName": "OnlineKhabar",
-      "sourceUrl": "https://english.onlinekhabar.com/election-commission-updates-nepali-congress-statute-office-bearers-records.html"
-    },
-    {
-      "id": "act-live-7",
-      "category": "Domestic & Ministries",
-      "time": "Nov 25, 2026",
-      "agency": "OnlineKhabar",
-      "title": "Congress leader calls for action against representatives supporting Deuba faction’s convention",
-      "summary": "Kathmandu, November 25 A call has been made at the Nepali Congress Central Working Committee meeting to remove elected representatives who are actively involved in the convention being organised by the faction led by former party president Sher Bahadur Deuba. ...",
-      "sourceName": "OnlineKhabar",
-      "sourceUrl": "https://english.onlinekhabar.com/congress-leader-calls-for-action-against-representatives-supporting-deuba-factions-convention.html"
-    },
-    {
-      "id": "act-live-8",
-      "category": "Judiciary & Law",
-      "time": "Nov 25, 2026",
-      "agency": "OnlineKhabar",
-      "title": "Man arrested with 384 kgs of adulterated honey in Kathmandu",
-      "summary": "Kathmandu, November 25 Police have arrested a man from Tokha, Kathmandu, on charges of producing and selling honey adulterated with inedible substances. A police team deployed from the Kathmandu District Police Range arrested 44-year-old Laxman Gurung of Siddh...",
-      "sourceName": "OnlineKhabar",
-      "sourceUrl": "https://english.onlinekhabar.com/man-arrested-with-384-kgs-of-adulterated-honey-in-kathmandu.html"
-    },
-    {
-      "id": "act-live-9",
-      "category": "Judiciary & Law",
-      "time": "Nov 25, 2026",
-      "agency": "OnlineKhabar",
-      "title": "14-year-old boy dies after being run over by tractor in Dhanusha",
-      "summary": "Kathmandu, November 25 A 14-year-old boy died after being run over by a tractor in Dhanusha district. The deceased has been identified as Jisanta Kumar Mandal, son of Ram Kumar Mandal of Rudauli, Hansapur Municipality-9. According to the Nepal Police Central N...",
-      "sourceName": "OnlineKhabar",
-      "sourceUrl": "https://english.onlinekhabar.com/14-year-old-boy-dies-after-being-run-over-by-tractor-in-dhanusha.html"
-    },
-    {
-      "id": "act-live-10",
-      "category": "Domestic & Ministries",
-      "time": "Nov 25, 2026",
-      "agency": "OnlineKhabar",
-      "title": "Bagmati Provincial Assembly meeting called after 3 months",
-      "summary": "Hetauda, November 25 The 19th meeting of the eighth session of the Bagmati Provincial Assembly has been scheduled. The provincial assembly had not convened since Chief Minister Kiran Thapa took a vote of confidence recently. According to the Provincial Assembl...",
-      "sourceName": "OnlineKhabar",
-      "sourceUrl": "https://english.onlinekhabar.com/bagmati-provincial-assembly-meeting-called-after-3-months.html"
-    },
-    {
-      "id": "act-live-11",
-      "category": "Official & Diplomatic",
-      "time": "Nov 25, 2026",
-      "agency": "OnlineKhabar",
-      "title": "EPG report effectively shelved as Nepal and India seek a fresh start",
-      "summary": "Kathmandu, November 25 Several longstanding issues in Nepal-India relations, including the disputed Lipulekh territory, the pending report of the Eminent Persons Group (EPG) and India’s Agnipath military recruitment scheme, were not discussed during Prime Mini...",
-      "sourceName": "OnlineKhabar",
-      "sourceUrl": "https://english.onlinekhabar.com/epg-report-effectively-shelved.html"
     }
   ],
   "protests": [
@@ -151,7 +151,7 @@
   ],
   "rumors": [
     {
-      "id": "rum-live-16",
+      "id": "rum-live-19",
       "status": "Active Controversy",
       "title": "One arrested with 384 kg of fake honey in Kathmandu",
       "circulatingOn": "Nepal News (Nov 25, 2026)",
