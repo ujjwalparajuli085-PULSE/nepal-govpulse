@@ -3,20 +3,40 @@
   "bsDate": "७ मंसिर २०८३, सोमबार",
   "leadDispatch": {
     "kicker": "Lead Dispatch • OnlineKhabar",
-    "title": "Supreme Court refuses interim order against Dan Bahadur Karki’s removal as police chief",
-    "summary": "Kathmandu, November 25 The Supreme Court has refused to issue an interim order against the government’s decision to remove Dan Bahadur Karki from the post of Inspector General of Police (IGP), leaving the decision in place for now. A joint bench of Justices Nr...",
+    "title": "Sudurpaschim Royals announce trophy tour across all nine districts following NPL title win",
+    "summary": "Kathmandu, November 25 Sudurpaschim Royals, champions of the third edition of the Nepal Premier League (NPL), have announced a trophy tour across all nine districts of Sudurpaschim Province from November 29 to December 6. The team will take its championship tr...",
     "primaryLinkText": "Read on OnlineKhabar",
-    "primaryLinkUrl": "https://english.onlinekhabar.com/sc-refuses-interim-order-dan-bahadur-karki.html"
+    "primaryLinkUrl": "https://english.onlinekhabar.com/sudurpaschim-royals-trophy-tour.html"
   },
   "breakingTicker": [
+    "Sudurpaschim Royals announce trophy tour across all nine districts following NPL title win",
+    "Supreme Court rejects interim relief for Dan Bahadur Karki on three grounds",
     "Supreme Court refuses interim order against Dan Bahadur Karki’s removal as police chief",
-    "Nepal to launch $50 million project to reduce risks from four glacial lakes",
-    "The unspoken cost of being an always-available teacher",
-    "SC to hear both sides before deciding on interim order against Ani Choying Drolma’s appointment"
+    "Nepal to launch $50 million project to reduce risks from four glacial lakes"
   ],
   "activities": [
     {
       "id": "act-live-0",
+      "category": "Domestic & Ministries",
+      "time": "Nov 25, 2026",
+      "agency": "OnlineKhabar",
+      "title": "Sudurpaschim Royals announce trophy tour across all nine districts following NPL title win",
+      "summary": "Kathmandu, November 25 Sudurpaschim Royals, champions of the third edition of the Nepal Premier League (NPL), have announced a trophy tour across all nine districts of Sudurpaschim Province from November 29 to December 6. The team will take its championship tr...",
+      "sourceName": "OnlineKhabar",
+      "sourceUrl": "https://english.onlinekhabar.com/sudurpaschim-royals-trophy-tour.html"
+    },
+    {
+      "id": "act-live-1",
+      "category": "Judiciary & Law",
+      "time": "Nov 25, 2026",
+      "agency": "OnlineKhabar",
+      "title": "Supreme Court rejects interim relief for Dan Bahadur Karki on three grounds",
+      "summary": "Kathmandu, November 25 The Supreme Court has refused to issue an interim order reinstating former Nepal Police chief Dan Bahadur Karki, citing three grounds while leaving the government’s decision to remove him in place pending a final verdict. A division benc...",
+      "sourceName": "OnlineKhabar",
+      "sourceUrl": "https://english.onlinekhabar.com/supreme-court-rejects-interim-relief-for-dan-bahadur-karki-on-three-grounds.html"
+    },
+    {
+      "id": "act-live-2",
       "category": "Judiciary & Law",
       "time": "Nov 25, 2026",
       "agency": "OnlineKhabar",
@@ -26,7 +46,7 @@
       "sourceUrl": "https://english.onlinekhabar.com/sc-refuses-interim-order-dan-bahadur-karki.html"
     },
     {
-      "id": "act-live-1",
+      "id": "act-live-3",
       "category": "Domestic & Ministries",
       "time": "Nov 25, 2026",
       "agency": "OnlineKhabar",
@@ -36,7 +56,7 @@
       "sourceUrl": "https://english.onlinekhabar.com/nepal-project-reduce-risks-glacial-lakes.html"
     },
     {
-      "id": "act-live-2",
+      "id": "act-live-4",
       "category": "Domestic & Ministries",
       "time": "Nov 25, 2026",
       "agency": "OnlineKhabar",
@@ -46,7 +66,7 @@
       "sourceUrl": "https://english.onlinekhabar.com/cost-of-being-teacher.html"
     },
     {
-      "id": "act-live-3",
+      "id": "act-live-5",
       "category": "Judiciary & Law",
       "time": "Nov 25, 2026",
       "agency": "OnlineKhabar",
@@ -56,7 +76,7 @@
       "sourceUrl": "https://english.onlinekhabar.com/sc-ani-choying-drolma-appointment.html"
     },
     {
-      "id": "act-live-4",
+      "id": "act-live-6",
       "category": "Domestic & Ministries",
       "time": "Nov 25, 2026",
       "agency": "OnlineKhabar",
@@ -66,7 +86,7 @@
       "sourceUrl": "https://english.onlinekhabar.com/president-paudel-undergoes-routine-health-check-up-at-teaching-hospital.html"
     },
     {
-      "id": "act-live-5",
+      "id": "act-live-7",
       "category": "Domestic & Ministries",
       "time": "Nov 25, 2026",
       "agency": "OnlineKhabar",
@@ -76,7 +96,7 @@
       "sourceUrl": "https://english.onlinekhabar.com/deuba-faction-entrusts-shashank-koirala-with-forming-convention-preparation-committees.html"
     },
     {
-      "id": "act-live-6",
+      "id": "act-live-8",
       "category": "Domestic & Ministries",
       "time": "Nov 25, 2026",
       "agency": "OnlineKhabar",
@@ -86,7 +106,7 @@
       "sourceUrl": "https://english.onlinekhabar.com/nepali-congress-women-central-committee.html"
     },
     {
-      "id": "act-live-7",
+      "id": "act-live-9",
       "category": "Domestic & Ministries",
       "time": "Nov 25, 2026",
       "agency": "OnlineKhabar",
@@ -96,7 +116,7 @@
       "sourceUrl": "https://english.onlinekhabar.com/mps-call-for-stricter-punishments-for-sexual-violence-offences.html"
     },
     {
-      "id": "act-live-8",
+      "id": "act-live-10",
       "category": "Official & Diplomatic",
       "time": "Nov 25, 2026",
       "agency": "OnlineKhabar",
@@ -106,7 +126,7 @@
       "sourceUrl": "https://english.onlinekhabar.com/arzu-rana-political-event-hong-kong.html"
     },
     {
-      "id": "act-live-9",
+      "id": "act-live-11",
       "category": "Domestic & Ministries",
       "time": "Nov 25, 2026",
       "agency": "OnlineKhabar",
@@ -114,26 +134,6 @@
       "summary": "Kaski, November 25 Passenger traffic on the Dubai–Pokhara–Dubai route has shown encouraging growth, with 13,474 passengers using the service in its first two months of operation at Pokhara International Airport. According to Pokhara International Airport Gener...",
       "sourceName": "OnlineKhabar",
       "sourceUrl": "https://english.onlinekhabar.com/dubai-pokhara-passenger-increase.html"
-    },
-    {
-      "id": "act-live-10",
-      "category": "Domestic & Ministries",
-      "time": "Nov 25, 2026",
-      "agency": "OnlineKhabar",
-      "title": "Nepal’s public debt reaches Rs 2.975 trillion, equivalent to 45.08 percent of GDP",
-      "summary": "Kathmandu, November 25 Nepal’s total public debt liability reached Rs 2.975 trillion by the end of Kartik in the first four months of fiscal year 2026/27, equivalent to 45.08 percent of the country’s Gross Domestic Product (GDP). According to a report publishe...",
-      "sourceName": "OnlineKhabar",
-      "sourceUrl": "https://english.onlinekhabar.com/nepals-public-debt-increase.html"
-    },
-    {
-      "id": "act-live-11",
-      "category": "Domestic & Ministries",
-      "time": "Nov 25, 2026",
-      "agency": "OnlineKhabar",
-      "title": "Digital cards and photocopies now accepted for health insurance services",
-      "summary": "Kathmandu, November 25 People enrolled in the national health insurance programme will no longer be required to carry a physical insurance card to access services. The Health Insurance Board has directed all healthcare service providers to provide services upo...",
-      "sourceName": "OnlineKhabar",
-      "sourceUrl": "https://english.onlinekhabar.com/digital-cards-and-photocopies-now-accepted-for-health-insurance-services.html"
     }
   ],
   "protests": [
