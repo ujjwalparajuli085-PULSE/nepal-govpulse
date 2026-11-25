@@ -117,6 +117,16 @@
     },
     {
       "id": "act-live-12",
+      "category": "Domestic & Ministries",
+      "time": "Nov 25, 2026",
+      "agency": "Nepal News",
+      "title": "Mechi Customs exceeds October revenue target",
+      "summary": "JHAPA: The Mechi Customs Office at Kakarbhitta, Jhapa district collected Rs 1.35 billion in revenue in the Nepali month of mid-October to mid-November, exceeding its monthly target by 10 per cent in the current fiscal year 2026/27. The Office collected Rs 1.35...",
+      "sourceName": "Nepal News",
+      "sourceUrl": "https://english.nepalnews.com/s/business/mechi-customs-exceeds-october-revenue-target/"
+    },
+    {
+      "id": "act-live-13",
       "category": "Official & Diplomatic",
       "time": "Nov 25, 2026",
       "agency": "Nepal News",
@@ -124,16 +134,6 @@
       "summary": "NUWAKOT: The distribution of rental assistance has begun for 970 families displaced by the August 26’s Bhotekoshi floods in Bidur municipality of Nuwakot district. The Municipality has started transferring the assistance directly to the bank accounts of eligib...",
       "sourceName": "Nepal News",
       "sourceUrl": "https://english.nepalnews.com/s/nation/rent-aid-distribution-begins-for-970-flood-hit-families-in-nuwakot/"
-    },
-    {
-      "id": "act-live-13",
-      "category": "Official & Diplomatic",
-      "time": "Nov 25, 2026",
-      "agency": "Nepal News",
-      "title": "Mostly clear weather to continue, fog likely in Terai and Valleys",
-      "summary": "KATHMANDU: Weather across the country is expected to remain mostly clear today, with no significant weather system currently influencing Nepal, according to the Nepal Meteorological Department. At present, partly cloudy conditions prevail over the mountainous ...",
-      "sourceName": "Nepal News",
-      "sourceUrl": "https://english.nepalnews.com/s/weather/mostly-clear-weather-to-continue-fog-likely-in-terai-and-valleys/"
     }
   ],
   "protests": [
