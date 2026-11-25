@@ -3,20 +3,70 @@
   "bsDate": "७ मंसिर २०८३, सोमबार",
   "leadDispatch": {
     "kicker": "Lead Dispatch • OnlineKhabar",
-    "title": "Dhankuta tea gardens overgrown as farmers struggle to find markets",
-    "summary": "Dhankuta, November 25 The hillsides of Ramche, located along the border of wards 4 and 7 of Pakhribas Municipality in Dhankuta, were once covered with lush green tea bushes. For farmers, these plants were not merely a means of cultivation but also a dream of t...",
+    "title": "RSP suspends Arjunchaupari unit chair Aryal",
+    "summary": "Kathmandu, November 25 The Rastriya Swatantra Party (RSP) has suspended Kamal Kanta Aryal, the party’s chair in Arjunchaupari Rural Municipality, Syangja. RSP Syangja District Chair Rukmagat Bhandari (Biswas) announced the suspension of Aryal, the party’s rura...",
     "primaryLinkText": "Read on OnlineKhabar",
-    "primaryLinkUrl": "https://english.onlinekhabar.com/dhankuta-tea-gardens-overgrown-as-farmers-struggle-to-find-markets.html"
+    "primaryLinkUrl": "https://english.onlinekhabar.com/rsp-suspends-arjunchaupari-aryal.html"
   },
   "breakingTicker": [
-    "Dhankuta tea gardens overgrown as farmers struggle to find markets",
-    "Pun warns RSP against using state machinery for political retaliation",
-    "Gold price drops by Rs 6,500 per tola",
-    "Distribution of house rent money begins for 970 Bhotekoshi flood-affected families"
+    "RSP suspends Arjunchaupari unit chair Aryal",
+    "10th National Games: Army begin men’s football campaign with a win",
+    "Albanese’s popularity slumps in Australia; Angus Taylor edges ahead as preferred PM",
+    "Police destroy more than 26,000 cannabis plants in Udayapur"
   ],
   "activities": [
     {
       "id": "act-live-0",
+      "category": "Domestic & Ministries",
+      "time": "Nov 25, 2026",
+      "agency": "OnlineKhabar",
+      "title": "RSP suspends Arjunchaupari unit chair Aryal",
+      "summary": "Kathmandu, November 25 The Rastriya Swatantra Party (RSP) has suspended Kamal Kanta Aryal, the party’s chair in Arjunchaupari Rural Municipality, Syangja. RSP Syangja District Chair Rukmagat Bhandari (Biswas) announced the suspension of Aryal, the party’s rura...",
+      "sourceName": "OnlineKhabar",
+      "sourceUrl": "https://english.onlinekhabar.com/rsp-suspends-arjunchaupari-aryal.html"
+    },
+    {
+      "id": "act-live-1",
+      "category": "Domestic & Ministries",
+      "time": "Nov 25, 2026",
+      "agency": "OnlineKhabar",
+      "title": "10th National Games: Army begin men’s football campaign with a win",
+      "summary": "Surkhet, November 25 Tribhuvan Army Club have made a winning start in the men’s football competition of the 10th National Games. In the first match, played on Wednesday, Tribhuvan Army Club defeated Lumbini Province 3-0. Army took the lead in the first half an...",
+      "sourceName": "OnlineKhabar",
+      "sourceUrl": "https://english.onlinekhabar.com/army-begin-with-a-win.html"
+    },
+    {
+      "id": "act-live-2",
+      "category": "Domestic & Ministries",
+      "time": "Nov 25, 2026",
+      "agency": "OnlineKhabar",
+      "title": "Albanese’s popularity slumps in Australia; Angus Taylor edges ahead as preferred PM",
+      "summary": "Public support for Australian Prime Minister Anthony Albanese has fallen sharply. The latest national opinion poll shows voter dissatisfaction with the government’s performance rising quickly. It also shows Liberal Party leader Angus Taylor ahead of Albanese a...",
+      "sourceName": "OnlineKhabar",
+      "sourceUrl": "https://english.onlinekhabar.com/albaneses-slumps-in-australia.html"
+    },
+    {
+      "id": "act-live-4",
+      "category": "Judiciary & Law",
+      "time": "Nov 25, 2026",
+      "agency": "OnlineKhabar",
+      "title": "Police destroy more than 26,000 cannabis plants in Udayapur",
+      "summary": "Udayapur, November 25 Police claim to have destroyed more than 26,500 illegally cultivated cannabis plants in Udayapur during the current fiscal year 2083/84. The District Police Office and its subordinate police units destroyed the plants by conducting campai...",
+      "sourceName": "OnlineKhabar",
+      "sourceUrl": "https://english.onlinekhabar.com/police-destroy-more-than-26000-cannabis-plants-in-udayapur.html"
+    },
+    {
+      "id": "act-live-5",
+      "category": "Judiciary & Law",
+      "time": "Nov 25, 2026",
+      "agency": "OnlineKhabar",
+      "title": "Sydney police penalise driver for installing 7 screens in front of car",
+      "summary": "Sydney, November 25 A male driver in Sydney, Australia, has faced police action after he was found driving a vehicle fitted with seven electronic devices across the front windscreen and dashboard area. According to the New South Wales Police, a patrol team sto...",
+      "sourceName": "OnlineKhabar",
+      "sourceUrl": "https://english.onlinekhabar.com/sydney-police-penalise-driver-for-installing-7-screens-in-front-of-car.html"
+    },
+    {
+      "id": "act-live-6",
       "category": "Domestic & Ministries",
       "time": "Nov 25, 2026",
       "agency": "OnlineKhabar",
@@ -26,7 +76,7 @@
       "sourceUrl": "https://english.onlinekhabar.com/dhankuta-tea-gardens-overgrown-as-farmers-struggle-to-find-markets.html"
     },
     {
-      "id": "act-live-1",
+      "id": "act-live-7",
       "category": "Official & Diplomatic",
       "time": "Nov 25, 2026",
       "agency": "OnlineKhabar",
@@ -36,7 +86,7 @@
       "sourceUrl": "https://english.onlinekhabar.com/pun-warns-rsp-against-using-state-machinery-for-political-retaliation.html"
     },
     {
-      "id": "act-live-2",
+      "id": "act-live-8",
       "category": "Domestic & Ministries",
       "time": "Nov 25, 2026",
       "agency": "OnlineKhabar",
@@ -46,7 +96,7 @@
       "sourceUrl": "https://english.onlinekhabar.com/gold-price-drops-by-rs-6500.html"
     },
     {
-      "id": "act-live-3",
+      "id": "act-live-9",
       "category": "Official & Diplomatic",
       "time": "Nov 25, 2026",
       "agency": "OnlineKhabar",
@@ -56,7 +106,7 @@
       "sourceUrl": "https://english.onlinekhabar.com/house-rent-bhotekoshi-flood-affected.html"
     },
     {
-      "id": "act-live-4",
+      "id": "act-live-10",
       "category": "Domestic & Ministries",
       "time": "Nov 25, 2026",
       "agency": "OnlineKhabar",
@@ -66,7 +116,7 @@
       "sourceUrl": "https://english.onlinekhabar.com/panchmukhi-himal-and-ladedaha-overlooked-despite-tourism-potential.html"
     },
     {
-      "id": "act-live-5",
+      "id": "act-live-11",
       "category": "Judiciary & Law",
       "time": "Nov 25, 2026",
       "agency": "OnlineKhabar",
@@ -76,88 +126,27 @@
       "sourceUrl": "https://english.onlinekhabar.com/goods-worth-rs-2-2-million-seized-in-birgunj.html"
     },
     {
-      "id": "act-live-6",
-      "category": "Judiciary & Law",
-      "time": "Nov 25, 2026",
-      "agency": "OnlineKhabar",
-      "title": "Dan Bahadur Karki’s writ petition to be heard by Justices Niraula and Poudel",
-      "summary": "Kathmandu, November 25 The writ petition filed by outgoing Inspector General of Police (IGP) Dan Bahadur Karki will be heard by a Supreme Court bench of Justices Nripadhwaj Niraula and Shrikant Poudel. Karki filed the petition at the Supreme Court demanding re...",
-      "sourceName": "OnlineKhabar",
-      "sourceUrl": "https://english.onlinekhabar.com/karkis-writ-petition-niraula-poudel.html"
-    },
-    {
-      "id": "act-live-7",
+      "id": "act-live-12",
       "category": "Domestic & Ministries",
       "time": "Nov 25, 2026",
-      "agency": "OnlineKhabar",
-      "title": "PM Shah calls for implementation of zero-tolerance policy against gender-based violence",
-      "summary": "Kathmandu, November 25 Prime Minister Balendra Shah has called on all stakeholders to put the zero-tolerance policy against gender-based violence into practice by protecting victims, ending impunity and ensuring justice. In a message of greetings marking the s...",
-      "sourceName": "OnlineKhabar",
-      "sourceUrl": "https://english.onlinekhabar.com/shah-zero-tolerance-against-gbv.html"
-    },
-    {
-      "id": "act-live-8",
-      "category": "Domestic & Ministries",
-      "time": "Nov 25, 2026",
-      "agency": "OnlineKhabar",
-      "title": "Fourth Karnali International Film Festival to begin on March 7",
-      "summary": "Kathmandu, November 25 The fourth Karnali International Film Festival (KIFF) will begin on March 7. At a press conference in Kathmandu, an organiser said the festival will open alongside the Gurans Tourism Festival in Gurans, Dailekh. On March 8, a Karnali tou...",
-      "sourceName": "OnlineKhabar",
-      "sourceUrl": "https://english.onlinekhabar.com/karnali-international-film-festival.html"
-    },
-    {
-      "id": "act-live-9",
-      "category": "Official & Diplomatic",
-      "time": "Nov 25, 2026",
-      "agency": "OnlineKhabar",
-      "title": "Minister Pokharel keen to run NPL in home-and-away format from fourth edition",
-      "summary": "Kathmandu, November 25 Education and Sports Minister Sasmit Pokharel has held discussions with club owners and representatives on building home grounds for all eight Nepal Premier League (NPL) franchises and running the tournament in a home-and-away format. Th...",
-      "sourceName": "OnlineKhabar",
-      "sourceUrl": "https://english.onlinekhabar.com/run-npl-in-home-and-away.html"
-    },
-    {
-      "id": "act-live-10",
-      "category": "Media & Civic",
-      "time": "Nov 25, 2026",
-      "agency": "OnlineKhabar",
-      "title": "Govinda KC demands revision of probe committee’s terms of reference",
-      "summary": "Kathmandu, November 25 Medical education reform activist Dr Govinda KC has demanded that the government immediately revise the terms of reference of a probe committee formed in violation of an agreement reached with him, arguing that its mandate does not refle...",
-      "sourceName": "OnlineKhabar",
-      "sourceUrl": "https://english.onlinekhabar.com/govinda-kc-demands-revision-of-probe-committees-terms-of-reference.html"
-    },
-    {
-      "id": "act-live-11",
-      "category": "Judiciary & Law",
-      "time": "Nov 25, 2026",
-      "agency": "OnlineKhabar",
-      "title": "Two Chinese nationals arrested with illegal gold at Kathmandu airport",
-      "summary": "Two Chinese nationals have been arrested with illegal gold at Tribhuvan International Airport. Police said 2,348 grams of illegal gold were recovered from them. According to police, both of those arrested are Chinese women. They had arrived in Kathmandu last n...",
-      "sourceName": "OnlineKhabar",
-      "sourceUrl": "https://english.onlinekhabar.com/chinese-arrested-illegal-gold.html"
+      "agency": "Nepal News",
+      "title": "Minister Badi’s call for raising voice against GBV",
+      "summary": "KATHMANDU: Minister for Women, Children, Gender and Sexual Minorities and Social Security, Sita Badi, has emphasized on the need of jointly collectively voice against the Gender-Based Violence (GBV). In a message today on the occasion of the 16-day campaign ag...",
+      "sourceName": "Nepal News",
+      "sourceUrl": "https://english.nepalnews.com/s/nation/minister-badis-call-for-raising-voice-against-gbv/"
     }
   ],
   "protests": [
     {
-      "id": "prot-live-6",
+      "id": "prot-live-3",
       "zone": "National / Kathmandu",
       "location": "Kathmandu / Nepal",
       "date": "Nov 25, 2026",
-      "group": "About 600 Nepali workers protest in Romania over lack of work and pay",
-      "demand": "Nepali workers who spent hundreds of thousands of rupees to reach Romania for work have launched a protest, saying they have not received work or wages. About 600 Nepali workers employed at Bisar Logistic SRL in Romania began the protest on Saturday. They say ...",
+      "group": "Hamas internal security chief killed in Israeli airstrike in Gaza",
+      "demand": "Kathmandu, November 25 Naim Abu Nahal, head of Hamas’s internal security agency in Gaza, has been killed in an Israeli attack. According to the Hamas-run Interior Ministry in Gaza, Naim Abu Nahal was targeted in an airstrike in the western part of Gaza City. T...",
       "status": "Reported Today",
       "sourceName": "OnlineKhabar",
-      "sourceUrl": "https://english.onlinekhabar.com/nepali-workers-protest-in-romania.html"
-    },
-    {
-      "id": "prot-live-11",
-      "zone": "National / Kathmandu",
-      "location": "Kathmandu / Nepal",
-      "date": "Nov 25, 2026",
-      "group": "Gagan Thapa says politics focused on power after 2015 triggered Gen Z protests",
-      "demand": "Kathmandu, November 24 Nepali Congress President Gagan Kumar Thapa has said the Gen Z uprising in September last year was the result of the country’s politics becoming increasingly centred on the pursuit of power. Addressing a meeting of the party’s Central Wo...",
-      "status": "Reported Today",
-      "sourceName": "OnlineKhabar",
-      "sourceUrl": "https://english.onlinekhabar.com/gagan-thapa-on-genz-uprising.html"
+      "sourceUrl": "https://english.onlinekhabar.com/hamas-internal-security-chief-killed-in-israeli-airstrike-in-gaza.html"
     }
   ],
   "rumors": [
