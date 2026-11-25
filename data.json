@@ -3,20 +3,130 @@
   "bsDate": "७ मंसिर २०८३, सोमबार",
   "leadDispatch": {
     "kicker": "Lead Dispatch • OnlineKhabar",
-    "title": "Two Chinese nationals arrested with illegal gold at Kathmandu airport",
-    "summary": "Two Chinese nationals have been arrested with illegal gold at Tribhuvan International Airport. Police said 2,348 grams of illegal gold were recovered from them. According to police, both of those arrested are Chinese women. They had arrived in Kathmandu last n...",
+    "title": "Dhankuta tea gardens overgrown as farmers struggle to find markets",
+    "summary": "Dhankuta, November 25 The hillsides of Ramche, located along the border of wards 4 and 7 of Pakhribas Municipality in Dhankuta, were once covered with lush green tea bushes. For farmers, these plants were not merely a means of cultivation but also a dream of t...",
     "primaryLinkText": "Read on OnlineKhabar",
-    "primaryLinkUrl": "https://english.onlinekhabar.com/chinese-arrested-illegal-gold.html"
+    "primaryLinkUrl": "https://english.onlinekhabar.com/dhankuta-tea-gardens-overgrown-as-farmers-struggle-to-find-markets.html"
   },
   "breakingTicker": [
-    "Two Chinese nationals arrested with illegal gold at Kathmandu airport",
-    "Xi‑Putin‑Trump summit was heavy on symbolism, light on substance – and not exactly a Yalta II",
-    "Photographer Gautam Dhimal sets out to document climate change in Everest region",
-    "Nepal and India vow to expedite Pancheshwar, but the project remains mired in disputes"
+    "Dhankuta tea gardens overgrown as farmers struggle to find markets",
+    "Pun warns RSP against using state machinery for political retaliation",
+    "Gold price drops by Rs 6,500 per tola",
+    "Distribution of house rent money begins for 970 Bhotekoshi flood-affected families"
   ],
   "activities": [
     {
       "id": "act-live-0",
+      "category": "Domestic & Ministries",
+      "time": "Nov 25, 2026",
+      "agency": "OnlineKhabar",
+      "title": "Dhankuta tea gardens overgrown as farmers struggle to find markets",
+      "summary": "Dhankuta, November 25 The hillsides of Ramche, located along the border of wards 4 and 7 of Pakhribas Municipality in Dhankuta, were once covered with lush green tea bushes. For farmers, these plants were not merely a means of cultivation but also a dream of t...",
+      "sourceName": "OnlineKhabar",
+      "sourceUrl": "https://english.onlinekhabar.com/dhankuta-tea-gardens-overgrown-as-farmers-struggle-to-find-markets.html"
+    },
+    {
+      "id": "act-live-1",
+      "category": "Official & Diplomatic",
+      "time": "Nov 25, 2026",
+      "agency": "OnlineKhabar",
+      "title": "Pun warns RSP against using state machinery for political retaliation",
+      "summary": "Kathmandu, November 25 CPN leader Barsha Man Pun has warned the Rastriya Swatantra Party (RSP) against using state machinery as a tool for political retaliation, reminding it that it will not remain in power forever. Speaking at a programme organised in Pachha...",
+      "sourceName": "OnlineKhabar",
+      "sourceUrl": "https://english.onlinekhabar.com/pun-warns-rsp-against-using-state-machinery-for-political-retaliation.html"
+    },
+    {
+      "id": "act-live-2",
+      "category": "Domestic & Ministries",
+      "time": "Nov 25, 2026",
+      "agency": "OnlineKhabar",
+      "title": "Gold price drops by Rs 6,500 per tola",
+      "summary": "Kathmandu, November 25 The price of gold has dropped by Rs 6,500 per tola on Wednesday. The Federation of Nepal Gold and Silver Dealers’ Association has set today’s gold price at Rs 241,400 per tola. The previous day, gold was priced at Rs 247,900 per tola. Si...",
+      "sourceName": "OnlineKhabar",
+      "sourceUrl": "https://english.onlinekhabar.com/gold-price-drops-by-rs-6500.html"
+    },
+    {
+      "id": "act-live-3",
+      "category": "Official & Diplomatic",
+      "time": "Nov 25, 2026",
+      "agency": "OnlineKhabar",
+      "title": "Distribution of house rent money begins for 970 Bhotekoshi flood-affected families",
+      "summary": "Kathmandu, November 25 Distribution of house rent allowance has begun for families in Bidur Municipality affected by the Bhotekoshi flood. Under the federal government’s announcement to provide cash support for house rent to flood-affected families, money has ...",
+      "sourceName": "OnlineKhabar",
+      "sourceUrl": "https://english.onlinekhabar.com/house-rent-bhotekoshi-flood-affected.html"
+    },
+    {
+      "id": "act-live-4",
+      "category": "Domestic & Ministries",
+      "time": "Nov 25, 2026",
+      "agency": "OnlineKhabar",
+      "title": "Panchmukhi Himal and Ladedaha overlooked despite tourism potential",
+      "summary": "Humla, November 25 Panchmukhi Himal and Ladedaha, located a short distance from Simkot, the district headquarters of Humla, have remained largely overlooked due to a lack of publicity. With their natural beauty and historical significance, the two sites have t...",
+      "sourceName": "OnlineKhabar",
+      "sourceUrl": "https://english.onlinekhabar.com/panchmukhi-himal-and-ladedaha-overlooked-despite-tourism-potential.html"
+    },
+    {
+      "id": "act-live-5",
+      "category": "Judiciary & Law",
+      "time": "Nov 25, 2026",
+      "agency": "OnlineKhabar",
+      "title": "Goods worth Rs 2.2 million seized in Birgunj",
+      "summary": "Birgunj (Parsa), November 25 Police have seized three vehicles along with goods worth Rs 2,202,700. According to DSP Chakra Bahadur Malla of the District Police Office, Parsa, goods worth Rs 423,500 that had been smuggled into Nepal from India without paying c...",
+      "sourceName": "OnlineKhabar",
+      "sourceUrl": "https://english.onlinekhabar.com/goods-worth-rs-2-2-million-seized-in-birgunj.html"
+    },
+    {
+      "id": "act-live-6",
+      "category": "Judiciary & Law",
+      "time": "Nov 25, 2026",
+      "agency": "OnlineKhabar",
+      "title": "Dan Bahadur Karki’s writ petition to be heard by Justices Niraula and Poudel",
+      "summary": "Kathmandu, November 25 The writ petition filed by outgoing Inspector General of Police (IGP) Dan Bahadur Karki will be heard by a Supreme Court bench of Justices Nripadhwaj Niraula and Shrikant Poudel. Karki filed the petition at the Supreme Court demanding re...",
+      "sourceName": "OnlineKhabar",
+      "sourceUrl": "https://english.onlinekhabar.com/karkis-writ-petition-niraula-poudel.html"
+    },
+    {
+      "id": "act-live-7",
+      "category": "Domestic & Ministries",
+      "time": "Nov 25, 2026",
+      "agency": "OnlineKhabar",
+      "title": "PM Shah calls for implementation of zero-tolerance policy against gender-based violence",
+      "summary": "Kathmandu, November 25 Prime Minister Balendra Shah has called on all stakeholders to put the zero-tolerance policy against gender-based violence into practice by protecting victims, ending impunity and ensuring justice. In a message of greetings marking the s...",
+      "sourceName": "OnlineKhabar",
+      "sourceUrl": "https://english.onlinekhabar.com/shah-zero-tolerance-against-gbv.html"
+    },
+    {
+      "id": "act-live-8",
+      "category": "Domestic & Ministries",
+      "time": "Nov 25, 2026",
+      "agency": "OnlineKhabar",
+      "title": "Fourth Karnali International Film Festival to begin on March 7",
+      "summary": "Kathmandu, November 25 The fourth Karnali International Film Festival (KIFF) will begin on March 7. At a press conference in Kathmandu, an organiser said the festival will open alongside the Gurans Tourism Festival in Gurans, Dailekh. On March 8, a Karnali tou...",
+      "sourceName": "OnlineKhabar",
+      "sourceUrl": "https://english.onlinekhabar.com/karnali-international-film-festival.html"
+    },
+    {
+      "id": "act-live-9",
+      "category": "Official & Diplomatic",
+      "time": "Nov 25, 2026",
+      "agency": "OnlineKhabar",
+      "title": "Minister Pokharel keen to run NPL in home-and-away format from fourth edition",
+      "summary": "Kathmandu, November 25 Education and Sports Minister Sasmit Pokharel has held discussions with club owners and representatives on building home grounds for all eight Nepal Premier League (NPL) franchises and running the tournament in a home-and-away format. Th...",
+      "sourceName": "OnlineKhabar",
+      "sourceUrl": "https://english.onlinekhabar.com/run-npl-in-home-and-away.html"
+    },
+    {
+      "id": "act-live-10",
+      "category": "Media & Civic",
+      "time": "Nov 25, 2026",
+      "agency": "OnlineKhabar",
+      "title": "Govinda KC demands revision of probe committee’s terms of reference",
+      "summary": "Kathmandu, November 25 Medical education reform activist Dr Govinda KC has demanded that the government immediately revise the terms of reference of a probe committee formed in violation of an agreement reached with him, arguing that its mandate does not refle...",
+      "sourceName": "OnlineKhabar",
+      "sourceUrl": "https://english.onlinekhabar.com/govinda-kc-demands-revision-of-probe-committees-terms-of-reference.html"
+    },
+    {
+      "id": "act-live-11",
       "category": "Judiciary & Law",
       "time": "Nov 25, 2026",
       "agency": "OnlineKhabar",
@@ -24,116 +134,6 @@
       "summary": "Two Chinese nationals have been arrested with illegal gold at Tribhuvan International Airport. Police said 2,348 grams of illegal gold were recovered from them. According to police, both of those arrested are Chinese women. They had arrived in Kathmandu last n...",
       "sourceName": "OnlineKhabar",
       "sourceUrl": "https://english.onlinekhabar.com/chinese-arrested-illegal-gold.html"
-    },
-    {
-      "id": "act-live-1",
-      "category": "Official & Diplomatic",
-      "time": "Nov 25, 2026",
-      "agency": "OnlineKhabar",
-      "title": "Xi‑Putin‑Trump summit was heavy on symbolism, light on substance – and not exactly a Yalta II",
-      "summary": "It was touted as a history-making summit of the year. Presidents Donald Trump, Vladimir Putin and Xi Jinping sat down on Nov. 19, 2026, in Shenzhen, China, on the sideline of the Asia-Pacific Economic Cooperation summit, for the first such trilateral meeting o...",
-      "sourceName": "OnlineKhabar",
-      "sourceUrl": "https://english.onlinekhabar.com/xiputintrump-summit.html"
-    },
-    {
-      "id": "act-live-2",
-      "category": "Domestic & Ministries",
-      "time": "Nov 25, 2026",
-      "agency": "OnlineKhabar",
-      "title": "Photographer Gautam Dhimal sets out to document climate change in Everest region",
-      "summary": "Kathmandu, November 25 As Kathmandu Climate Action Week gets underway, Nepali photographer and climate storyteller Gautam Dhimal has called on young people to take a more active role in climate action, urging them to observe environmental changes, question the...",
-      "sourceName": "OnlineKhabar",
-      "sourceUrl": "https://english.onlinekhabar.com/gautam-dhimal-climate-change-documentation.html"
-    },
-    {
-      "id": "act-live-3",
-      "category": "Official & Diplomatic",
-      "time": "Nov 25, 2026",
-      "agency": "OnlineKhabar",
-      "title": "Nepal and India vow to expedite Pancheshwar, but the project remains mired in disputes",
-      "summary": "Kathmandu, November 25 The era of Chandra Shumsher Rana’s rule in Nepal was approaching its second decade when he wrote a letter to British envoy Colonel Kenyon in Nepal on August 23, 1920. In the letter, the Rana prime minister outlined the conditions Nepal h...",
-      "sourceName": "OnlineKhabar",
-      "sourceUrl": "https://english.onlinekhabar.com/nepal-india-pancheshwar-dispute.html"
-    },
-    {
-      "id": "act-live-4",
-      "category": "Domestic & Ministries",
-      "time": "Nov 25, 2026",
-      "agency": "OnlineKhabar",
-      "title": "Nepal won’t prosper on politics and propaganda alone",
-      "summary": "Nepal is a paradox of abundance and struggle. Blessed with snow-fed rivers, fertile plains, rich biodiversity and a vibrant young population, the country possesses every natural ingredient required to build a prosperous economy. Yet, decades after embracing de...",
-      "sourceName": "OnlineKhabar",
-      "sourceUrl": "https://english.onlinekhabar.com/nepal-wont-prosper-on-politics-and-propaganda-alone.html"
-    },
-    {
-      "id": "act-live-5",
-      "category": "Official & Diplomatic",
-      "time": "Nov 25, 2026",
-      "agency": "OnlineKhabar",
-      "title": "Nepalis to be able to make QR payments in India within a month",
-      "summary": "Kathmandu, November 24 Nepalis are expected to be able to make QR payments in India within a month, following positive discussions between payment service providers from the two countries after Prime Minister Balen Shah’s recent visit to India. Officials from ...",
-      "sourceName": "OnlineKhabar",
-      "sourceUrl": "https://english.onlinekhabar.com/nepali-make-qr-payments-india.html"
-    },
-    {
-      "id": "act-live-7",
-      "category": "Domestic & Ministries",
-      "time": "Nov 25, 2026",
-      "agency": "OnlineKhabar",
-      "title": "Understanding urinary nitrites and their role in detecting UTIs",
-      "summary": "Urinary tract infections (UTIs) are common and can often disrupt normal day-to-day life. Symptoms include a burning sensation during urination, an increased urge to urinate, blood in the urine, lower abdominal pain, fever, itching and redness around the extern...",
-      "sourceName": "OnlineKhabar",
-      "sourceUrl": "https://english.onlinekhabar.com/understanding-urinary-nitrites-and-their-role-in-detecting-utis.html"
-    },
-    {
-      "id": "act-live-8",
-      "category": "Domestic & Ministries",
-      "time": "Nov 25, 2026",
-      "agency": "OnlineKhabar",
-      "title": "Private medical colleges threaten to halt admissions over seat and fee demands",
-      "summary": "Kathmandu, November 23 The number of seats and tuition fees for the 2026/27 academic session of undergraduate medical education have already been determined. The Medical Education Commission is now preparing to proceed with the student admission process. Howev...",
-      "sourceName": "OnlineKhabar",
-      "sourceUrl": "https://english.onlinekhabar.com/private-medical-colleges-threaten-to-halt-admissions-over-seat-and-fee-demands.html"
-    },
-    {
-      "id": "act-live-9",
-      "category": "Official & Diplomatic",
-      "time": "Nov 25, 2026",
-      "agency": "OnlineKhabar",
-      "title": "Nepal to use India’s Rs 184 billion credit line based on project needs and progress, says Wagle",
-      "summary": "Kathmandu, November 24 Finance Minister Dr Swarnim Wagle has clarified that the Rs 184 billion concessional credit line secured from India will be utilised according to Nepal’s needs and the progress of individual projects, rather than being disbursed as a lum...",
-      "sourceName": "OnlineKhabar",
-      "sourceUrl": "https://english.onlinekhabar.com/india-credit-line-based-on-need.html"
-    },
-    {
-      "id": "act-live-10",
-      "category": "Official & Diplomatic",
-      "time": "Nov 25, 2026",
-      "agency": "OnlineKhabar",
-      "title": "Sunkoshi-Marin tender cancellation draws scrutiny over legal, financial questions",
-      "summary": "Kathmandu, November 24 The cancellation of a new tender process for the national pride Sunkoshi-Marin Multipurpose Diversion Project has come under scrutiny of the parliamentary Public Accounts Committee, which has begun a preliminary investigation and sought ...",
-      "sourceName": "OnlineKhabar",
-      "sourceUrl": "https://english.onlinekhabar.com/sunkoshi-marin-tender-cancellation.html"
-    },
-    {
-      "id": "act-live-12",
-      "category": "Official & Diplomatic",
-      "time": "Nov 25, 2026",
-      "agency": "Nepal News",
-      "title": "Investment in research and innovation a govt priority: Minister Pun",
-      "summary": "KATHMANDU: Minister for Science, Technology and Innovation Mahabir Pun has said the incumbent government is making every possible effort to increase investment in research and innovation to strengthen the country’s economy. Addressing a programme titled ‘Israe...",
-      "sourceName": "Nepal News",
-      "sourceUrl": "https://english.nepalnews.com/s/science-technology/investment-in-research-and-innovation-a-govt-priority-minister-pun/"
-    },
-    {
-      "id": "act-live-13",
-      "category": "Domestic & Ministries",
-      "time": "Nov 25, 2026",
-      "agency": "Nepal News",
-      "title": "Elderly man dies in elephant attack in Saptari",
-      "summary": "SAPTARI: An elderly man died after being attacked by a wild elephant at Rupani rural municipality of Saptari district in the early hours of Wednesday. The deceased has been identified as Suba Bahadur Shrestha, 55, of Birendra Bazaar, ward no 6, according to th...",
-      "sourceName": "Nepal News",
-      "sourceUrl": "https://english.nepalnews.com/s/nation/elderly-man-dies-in-elephant-attack-in-saptari/"
     }
   ],
   "protests": [
