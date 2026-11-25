@@ -3,20 +3,30 @@
   "bsDate": "७ मंसिर २०८३, सोमबार",
   "leadDispatch": {
     "kicker": "Lead Dispatch • OnlineKhabar",
-    "title": "Nepalis to be able to make QR payments in India within a month",
-    "summary": "Kathmandu, November 24 Nepalis are expected to be able to make QR payments in India within a month, following positive discussions between payment service providers from the two countries after Prime Minister Balen Shah’s recent visit to India. Officials from ...",
+    "title": "Nepal won’t prosper on politics and propaganda alone",
+    "summary": "Nepal is a paradox of abundance and struggle. Blessed with snow-fed rivers, fertile plains, rich biodiversity and a vibrant young population, the country possesses every natural ingredient required to build a prosperous economy. Yet, decades after embracing de...",
     "primaryLinkText": "Read on OnlineKhabar",
-    "primaryLinkUrl": "https://english.onlinekhabar.com/nepali-make-qr-payments-india.html"
+    "primaryLinkUrl": "https://english.onlinekhabar.com/nepal-wont-prosper-on-politics-and-propaganda-alone.html"
   },
   "breakingTicker": [
+    "Nepal won’t prosper on politics and propaganda alone",
     "Nepalis to be able to make QR payments in India within a month",
     "Understanding urinary nitrites and their role in detecting UTIs",
-    "Private medical colleges threaten to halt admissions over seat and fee demands",
-    "Nepal to use India’s Rs 184 billion credit line based on project needs and progress, says Wagle"
+    "Private medical colleges threaten to halt admissions over seat and fee demands"
   ],
   "activities": [
     {
       "id": "act-live-0",
+      "category": "Domestic & Ministries",
+      "time": "Nov 25, 2026",
+      "agency": "OnlineKhabar",
+      "title": "Nepal won’t prosper on politics and propaganda alone",
+      "summary": "Nepal is a paradox of abundance and struggle. Blessed with snow-fed rivers, fertile plains, rich biodiversity and a vibrant young population, the country possesses every natural ingredient required to build a prosperous economy. Yet, decades after embracing de...",
+      "sourceName": "OnlineKhabar",
+      "sourceUrl": "https://english.onlinekhabar.com/nepal-wont-prosper-on-politics-and-propaganda-alone.html"
+    },
+    {
+      "id": "act-live-1",
       "category": "Official & Diplomatic",
       "time": "Nov 25, 2026",
       "agency": "OnlineKhabar",
@@ -26,7 +36,7 @@
       "sourceUrl": "https://english.onlinekhabar.com/nepali-make-qr-payments-india.html"
     },
     {
-      "id": "act-live-2",
+      "id": "act-live-3",
       "category": "Domestic & Ministries",
       "time": "Nov 25, 2026",
       "agency": "OnlineKhabar",
@@ -36,7 +46,7 @@
       "sourceUrl": "https://english.onlinekhabar.com/understanding-urinary-nitrites-and-their-role-in-detecting-utis.html"
     },
     {
-      "id": "act-live-3",
+      "id": "act-live-4",
       "category": "Domestic & Ministries",
       "time": "Nov 25, 2026",
       "agency": "OnlineKhabar",
@@ -46,7 +56,7 @@
       "sourceUrl": "https://english.onlinekhabar.com/private-medical-colleges-threaten-to-halt-admissions-over-seat-and-fee-demands.html"
     },
     {
-      "id": "act-live-4",
+      "id": "act-live-5",
       "category": "Official & Diplomatic",
       "time": "Nov 25, 2026",
       "agency": "OnlineKhabar",
@@ -56,7 +66,7 @@
       "sourceUrl": "https://english.onlinekhabar.com/india-credit-line-based-on-need.html"
     },
     {
-      "id": "act-live-5",
+      "id": "act-live-6",
       "category": "Official & Diplomatic",
       "time": "Nov 25, 2026",
       "agency": "OnlineKhabar",
@@ -66,7 +76,7 @@
       "sourceUrl": "https://english.onlinekhabar.com/sunkoshi-marin-tender-cancellation.html"
     },
     {
-      "id": "act-live-7",
+      "id": "act-live-8",
       "category": "Domestic & Ministries",
       "time": "Nov 25, 2026",
       "agency": "OnlineKhabar",
@@ -76,7 +86,7 @@
       "sourceUrl": "https://english.onlinekhabar.com/nepal-and-eu-expanding-nepali-exports.html"
     },
     {
-      "id": "act-live-8",
+      "id": "act-live-9",
       "category": "Domestic & Ministries",
       "time": "Nov 25, 2026",
       "agency": "OnlineKhabar",
@@ -86,7 +96,7 @@
       "sourceUrl": "https://english.onlinekhabar.com/nepse-gains-15-39-points.html"
     },
     {
-      "id": "act-live-9",
+      "id": "act-live-10",
       "category": "Official & Diplomatic",
       "time": "Nov 25, 2026",
       "agency": "OnlineKhabar",
@@ -96,7 +106,7 @@
       "sourceUrl": "https://english.onlinekhabar.com/nepals-iit-must-put-women-at-centre.html"
     },
     {
-      "id": "act-live-10",
+      "id": "act-live-11",
       "category": "Judiciary & Law",
       "time": "Nov 25, 2026",
       "agency": "OnlineKhabar",
@@ -104,16 +114,6 @@
       "summary": "Kathmandu, November 24 A total of 774 drivers have been penalised for violating traffic rules in Kathmandu Valley over the past 24 hours. According to Nepal Police Superintendent Naresh Raj Subedi, spokesperson for the Kathmandu Valley Traffic Police Office, t...",
       "sourceName": "OnlineKhabar",
       "sourceUrl": "https://english.onlinekhabar.com/traffic-rule-violations-kathmandu.html"
-    },
-    {
-      "id": "act-live-11",
-      "category": "Official & Diplomatic",
-      "time": "Nov 25, 2026",
-      "agency": "OnlineKhabar",
-      "title": "UN report: Five women and girls killed every hour by partners or family members",
-      "summary": "United Nations, November 24 More than 47,000 women and girls worldwide were killed by their intimate partners or family members in 2025, according to a United Nations report. This means an average of nearly five women and girls were killed every hour by someon...",
-      "sourceName": "OnlineKhabar",
-      "sourceUrl": "https://english.onlinekhabar.com/un-report-five-women-and-girls-killed-every-hour-by-partners-or-family-members.html"
     },
     {
       "id": "act-live-12",
@@ -138,7 +138,7 @@
   ],
   "protests": [
     {
-      "id": "prot-live-1",
+      "id": "prot-live-2",
       "zone": "National / Kathmandu",
       "location": "Kathmandu / Nepal",
       "date": "Nov 25, 2026",
@@ -149,7 +149,7 @@
       "sourceUrl": "https://english.onlinekhabar.com/nepali-workers-protest-in-romania.html"
     },
     {
-      "id": "prot-live-6",
+      "id": "prot-live-7",
       "zone": "National / Kathmandu",
       "location": "Kathmandu / Nepal",
       "date": "Nov 25, 2026",
