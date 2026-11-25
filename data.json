@@ -3,20 +3,90 @@
   "bsDate": "७ मंसिर २०८३, सोमबार",
   "leadDispatch": {
     "kicker": "Lead Dispatch • OnlineKhabar",
-    "title": "Congress leader calls for action against representatives supporting Deuba faction’s convention",
-    "summary": "Kathmandu, November 25 A call has been made at the Nepali Congress Central Working Committee meeting to remove elected representatives who are actively involved in the convention being organised by the faction led by former party president Sher Bahadur Deuba. ...",
+    "title": "13,474 passengers use Dubai–Pokhara flights in two months",
+    "summary": "Kaski, November 25 Passenger traffic on the Dubai–Pokhara–Dubai route has shown encouraging growth, with 13,474 passengers using the service in its first two months of operation at Pokhara International Airport. According to Pokhara International Airport Gener...",
     "primaryLinkText": "Read on OnlineKhabar",
-    "primaryLinkUrl": "https://english.onlinekhabar.com/congress-leader-calls-for-action-against-representatives-supporting-deuba-factions-convention.html"
+    "primaryLinkUrl": "https://english.onlinekhabar.com/dubai-pokhara-passenger-increase.html"
   },
   "breakingTicker": [
-    "Congress leader calls for action against representatives supporting Deuba faction’s convention",
-    "Man arrested with 384 kgs of adulterated honey in Kathmandu",
-    "14-year-old boy dies after being run over by tractor in Dhanusha",
-    "Bagmati Provincial Assembly meeting called after 3 months"
+    "13,474 passengers use Dubai–Pokhara flights in two months",
+    "Nepal’s public debt reaches Rs 2.975 trillion, equivalent to 45.08 percent of GDP",
+    "Digital cards and photocopies now accepted for health insurance services",
+    "Traffic halted at Ghoptebhir for three more days to clear dangerous slope"
   ],
   "activities": [
     {
       "id": "act-live-0",
+      "category": "Domestic & Ministries",
+      "time": "Nov 25, 2026",
+      "agency": "OnlineKhabar",
+      "title": "13,474 passengers use Dubai–Pokhara flights in two months",
+      "summary": "Kaski, November 25 Passenger traffic on the Dubai–Pokhara–Dubai route has shown encouraging growth, with 13,474 passengers using the service in its first two months of operation at Pokhara International Airport. According to Pokhara International Airport Gener...",
+      "sourceName": "OnlineKhabar",
+      "sourceUrl": "https://english.onlinekhabar.com/dubai-pokhara-passenger-increase.html"
+    },
+    {
+      "id": "act-live-1",
+      "category": "Domestic & Ministries",
+      "time": "Nov 25, 2026",
+      "agency": "OnlineKhabar",
+      "title": "Nepal’s public debt reaches Rs 2.975 trillion, equivalent to 45.08 percent of GDP",
+      "summary": "Kathmandu, November 25 Nepal’s total public debt liability reached Rs 2.975 trillion by the end of Kartik in the first four months of fiscal year 2026/27, equivalent to 45.08 percent of the country’s Gross Domestic Product (GDP). According to a report publishe...",
+      "sourceName": "OnlineKhabar",
+      "sourceUrl": "https://english.onlinekhabar.com/nepals-public-debt-increase.html"
+    },
+    {
+      "id": "act-live-2",
+      "category": "Domestic & Ministries",
+      "time": "Nov 25, 2026",
+      "agency": "OnlineKhabar",
+      "title": "Digital cards and photocopies now accepted for health insurance services",
+      "summary": "Kathmandu, November 25 People enrolled in the national health insurance programme will no longer be required to carry a physical insurance card to access services. The Health Insurance Board has directed all healthcare service providers to provide services upo...",
+      "sourceName": "OnlineKhabar",
+      "sourceUrl": "https://english.onlinekhabar.com/digital-cards-and-photocopies-now-accepted-for-health-insurance-services.html"
+    },
+    {
+      "id": "act-live-3",
+      "category": "Domestic & Ministries",
+      "time": "Nov 25, 2026",
+      "agency": "OnlineKhabar",
+      "title": "Traffic halted at Ghoptebhir for three more days to clear dangerous slope",
+      "summary": "Kathmandu, November 25 It will take another three days to remove the unstable section of the slope at Ghoptebhir along the Muglin–Naubise section of the Prithvi Highway, with traffic being halted daily to facilitate the work. Sachendra Mishra, information offi...",
+      "sourceName": "OnlineKhabar",
+      "sourceUrl": "https://english.onlinekhabar.com/traffic-halted-ghoptebhir-three-more-days.html"
+    },
+    {
+      "id": "act-live-4",
+      "category": "Domestic & Ministries",
+      "time": "Nov 25, 2026",
+      "agency": "OnlineKhabar",
+      "title": "Nepal imports Rs 5.4 billion worth of rice and paddy in four months",
+      "summary": "Kathmandu, November 25 Nepal imported rice and paddy worth Rs 5.41 billion in the first four months of the current fiscal year 2026/27, with imports declining sharply compared to the same period last year. According to data released by the Department of Custom...",
+      "sourceName": "OnlineKhabar",
+      "sourceUrl": "https://english.onlinekhabar.com/nepal-import-rice-and-paddy.html"
+    },
+    {
+      "id": "act-live-5",
+      "category": "Domestic & Ministries",
+      "time": "Nov 25, 2026",
+      "agency": "OnlineKhabar",
+      "title": "Govt proposes raising Citizen Investment Trust’s authorised capital to Rs 10 billion",
+      "summary": "Kathmandu, November 25 The government has proposed increasing the authorised capital of the Citizen Investment Trust (CIT) to Rs 10 billion as part of a broader plan to expand the fund’s investment opportunities, capital structure and operational scope. Financ...",
+      "sourceName": "OnlineKhabar",
+      "sourceUrl": "https://english.onlinekhabar.com/govt-proposes-raising-citizen-investment-trusts-authorised-capital-to-rs-10-billion.html"
+    },
+    {
+      "id": "act-live-6",
+      "category": "Domestic & Ministries",
+      "time": "Nov 25, 2026",
+      "agency": "OnlineKhabar",
+      "title": "Election Commission updates Nepali Congress statute, office-bearers’ records",
+      "summary": "Kathmandu, November 25 The Election Commission has updated the statute and records of office-bearers of the Nepali Congress following the party’s 15th general convention. The commission’s meeting on Wednesday decided to update the party’s records, Election Com...",
+      "sourceName": "OnlineKhabar",
+      "sourceUrl": "https://english.onlinekhabar.com/election-commission-updates-nepali-congress-statute-office-bearers-records.html"
+    },
+    {
+      "id": "act-live-7",
       "category": "Domestic & Ministries",
       "time": "Nov 25, 2026",
       "agency": "OnlineKhabar",
@@ -26,7 +96,7 @@
       "sourceUrl": "https://english.onlinekhabar.com/congress-leader-calls-for-action-against-representatives-supporting-deuba-factions-convention.html"
     },
     {
-      "id": "act-live-1",
+      "id": "act-live-8",
       "category": "Judiciary & Law",
       "time": "Nov 25, 2026",
       "agency": "OnlineKhabar",
@@ -36,7 +106,7 @@
       "sourceUrl": "https://english.onlinekhabar.com/man-arrested-with-384-kgs-of-adulterated-honey-in-kathmandu.html"
     },
     {
-      "id": "act-live-2",
+      "id": "act-live-9",
       "category": "Judiciary & Law",
       "time": "Nov 25, 2026",
       "agency": "OnlineKhabar",
@@ -46,7 +116,7 @@
       "sourceUrl": "https://english.onlinekhabar.com/14-year-old-boy-dies-after-being-run-over-by-tractor-in-dhanusha.html"
     },
     {
-      "id": "act-live-3",
+      "id": "act-live-10",
       "category": "Domestic & Ministries",
       "time": "Nov 25, 2026",
       "agency": "OnlineKhabar",
@@ -56,7 +126,7 @@
       "sourceUrl": "https://english.onlinekhabar.com/bagmati-provincial-assembly-meeting-called-after-3-months.html"
     },
     {
-      "id": "act-live-4",
+      "id": "act-live-11",
       "category": "Official & Diplomatic",
       "time": "Nov 25, 2026",
       "agency": "OnlineKhabar",
@@ -64,76 +134,6 @@
       "summary": "Kathmandu, November 25 Several longstanding issues in Nepal-India relations, including the disputed Lipulekh territory, the pending report of the Eminent Persons Group (EPG) and India’s Agnipath military recruitment scheme, were not discussed during Prime Mini...",
       "sourceName": "OnlineKhabar",
       "sourceUrl": "https://english.onlinekhabar.com/epg-report-effectively-shelved.html"
-    },
-    {
-      "id": "act-live-5",
-      "category": "Judiciary & Law",
-      "time": "Nov 25, 2026",
-      "agency": "OnlineKhabar",
-      "title": "7 arrested for gambling in Pokhara",
-      "summary": "Kaski, November 25 Police have arrested seven people for allegedly gambling in Pokhara. According to police, the seven, including 44-year-old Shankar Shrestha of Pokhara Metropolitan City-17, were arrested on Tuesday evening while gambling in Gharipatan, Ward ...",
-      "sourceName": "OnlineKhabar",
-      "sourceUrl": "https://english.onlinekhabar.com/7-arrested-for-gambling-in-pokhara.html"
-    },
-    {
-      "id": "act-live-6",
-      "category": "Domestic & Ministries",
-      "time": "Nov 25, 2026",
-      "agency": "OnlineKhabar",
-      "title": "Energy sector seeks policy support, not financial aid, for post-flood reconstruction",
-      "summary": "Kathmandu, November 25 The private energy sector has urged the government to remove policy and administrative hurdles to facilitate the reconstruction of hydropower projects damaged by the Bhotekoshi floods, saying it does not need financial assistance. Of the...",
-      "sourceName": "OnlineKhabar",
-      "sourceUrl": "https://english.onlinekhabar.com/energy-sector-seeks-policy-support-not-financial-aid-for-post-flood-reconstruction.html"
-    },
-    {
-      "id": "act-live-7",
-      "category": "Domestic & Ministries",
-      "time": "Nov 25, 2026",
-      "agency": "OnlineKhabar",
-      "title": "Hora Esports depart for Türkiye to compete in PMGC 2026",
-      "summary": "Kathmandu, November 25 The Nepali team Hora Esports has departed for Türkiye to compete in the PUBG Mobile Global Championship (PMGC) 2026. The tournament will be held in Istanbul, Türkiye, from November 26 to December 13. The final event of PUBG Mobile’s 2026...",
-      "sourceName": "OnlineKhabar",
-      "sourceUrl": "https://english.onlinekhabar.com/hora-esports-depart-for-turkiye-to-compete-in-pmgc-2026.html"
-    },
-    {
-      "id": "act-live-8",
-      "category": "Domestic & Ministries",
-      "time": "Nov 25, 2026",
-      "agency": "OnlineKhabar",
-      "title": "Govt defends proposal to allow children aged 13 and above to do light work",
-      "summary": "Kathmandu, November 25 The government has defended a proposed provision allowing children aged 13 and above to engage in light work under certain conditions, saying a complete ban on child labour alone would not address the problem. Speaking during a prelimina...",
-      "sourceName": "OnlineKhabar",
-      "sourceUrl": "https://english.onlinekhabar.com/govt-defends-proposal-to-allow-children-aged-13-and-above-to-do-light-work.html"
-    },
-    {
-      "id": "act-live-9",
-      "category": "Domestic & Ministries",
-      "time": "Nov 25, 2026",
-      "agency": "OnlineKhabar",
-      "title": "Koshi Province without Chief for 15 days, key constitutional functions affected",
-      "summary": "Biratnagar, November 25 Koshi Province has been without a provincial chief since Parshuram Khapung completed his five-year term and left office. Khapung, who was appointed provincial chief on November 11, 2021, completed his tenure on November 10 this year. Th...",
-      "sourceName": "OnlineKhabar",
-      "sourceUrl": "https://english.onlinekhabar.com/koshi-province-without-chief-for-15-days-key-constitutional-functions-affected.html"
-    },
-    {
-      "id": "act-live-10",
-      "category": "Official & Diplomatic",
-      "time": "Nov 25, 2026",
-      "agency": "OnlineKhabar",
-      "title": "10 Nepali players register for IPL auction",
-      "summary": "Kathmandu, November 25 Ten players from Nepal have registered for the auction of the Indian Premier League (IPL) 2027. According to the auction register made public by the Board of Control for Cricket in India (BCCI) on Wednesday, 10 players from Nepal have re...",
-      "sourceName": "OnlineKhabar",
-      "sourceUrl": "https://english.onlinekhabar.com/10-nepali-register-for-ipl-auction.html"
-    },
-    {
-      "id": "act-live-11",
-      "category": "Official & Diplomatic",
-      "time": "Nov 25, 2026",
-      "agency": "OnlineKhabar",
-      "title": "NOC asks gas industries to boost imports, clear customs stock to ease LPG supply",
-      "summary": "Kathmandu, November 25 The Nepal Oil Corporation has directed gas industries to run every stage, from import to market distribution, at full capacity. The aim is to ensure a smooth and regular supply of cooking LPG to consumers. The corporation’s LPG and Aviat...",
-      "sourceName": "OnlineKhabar",
-      "sourceUrl": "https://english.onlinekhabar.com/noc-asks-to-ease-lpg-supply.html"
     }
   ],
   "protests": [
@@ -151,7 +151,7 @@
   ],
   "rumors": [
     {
-      "id": "rum-live-12",
+      "id": "rum-live-16",
       "status": "Active Controversy",
       "title": "One arrested with 384 kg of fake honey in Kathmandu",
       "circulatingOn": "Nepal News (Nov 25, 2026)",
