@@ -3,20 +3,50 @@
   "bsDate": "७ मंसिर २०८३, सोमबार",
   "leadDispatch": {
     "kicker": "Lead Dispatch • OnlineKhabar",
-    "title": "Sobita Gautam moved up to third position in Cabinet hierarchy",
-    "summary": "Kathmandu, November 26 President Ramchandra Paudel has revised the order of precedence of the Cabinet on the recommendation of Prime Minister Balendra Shah, moving Law, Justice and Parliamentary Affairs Minister Sobita Gautam from seventh to third position. Ga...",
+    "title": "Nirmala Rai wins bronze at Asia-Pacific Trail Running Championships",
+    "summary": "Kathmandu, November 26 Nepali trail runner Nirmala Rai has won a bronze medal at the Asia-Pacific Trail Running Championships in China. Rai finished third in the 87-kilometre Long Trail race held in Wuxian, China, on Thursday. Nirmala Rai completed the race in...",
     "primaryLinkText": "Read on OnlineKhabar",
-    "primaryLinkUrl": "https://english.onlinekhabar.com/sobita-gautam-cabinet-hierarchy.html"
+    "primaryLinkUrl": "https://english.onlinekhabar.com/nirmala-rai-win-bronze-asia-pacific-trail-running.html"
   },
   "breakingTicker": [
-    "Sobita Gautam moved up to third position in Cabinet hierarchy",
-    "Rastriya Janamorcha accuses PM Shah of compromising Nepal’s national interests during India visit",
-    "Do Nepal’s public holidays come at the expense of economic growth?",
-    "NEPSE falls 10.89 points as trading turnover declines"
+    "Nirmala Rai wins bronze at Asia-Pacific Trail Running Championships",
+    "Oli says PM Shah’s India visit was like a ‘private trip’, criticises failure to raise border disputes",
+    "Bhim Rawal accuses PM Shah of compromising national interests during India visit",
+    "Sobita Gautam moved up to third position in Cabinet hierarchy"
   ],
   "activities": [
     {
       "id": "act-live-0",
+      "category": "Official & Diplomatic",
+      "time": "Nov 26, 2026",
+      "agency": "OnlineKhabar",
+      "title": "Nirmala Rai wins bronze at Asia-Pacific Trail Running Championships",
+      "summary": "Kathmandu, November 26 Nepali trail runner Nirmala Rai has won a bronze medal at the Asia-Pacific Trail Running Championships in China. Rai finished third in the 87-kilometre Long Trail race held in Wuxian, China, on Thursday. Nirmala Rai completed the race in...",
+      "sourceName": "OnlineKhabar",
+      "sourceUrl": "https://english.onlinekhabar.com/nirmala-rai-win-bronze-asia-pacific-trail-running.html"
+    },
+    {
+      "id": "act-live-1",
+      "category": "Official & Diplomatic",
+      "time": "Nov 26, 2026",
+      "agency": "OnlineKhabar",
+      "title": "Oli says PM Shah’s India visit was like a ‘private trip’, criticises failure to raise border disputes",
+      "summary": "Kathmandu, November 26 CPN-UML chair KP Sharma Oli has accused Prime Minister Balen Shah of failing to raise Nepal’s border disputes with India during his recent visit, claiming that Shah had previously displayed the Greater Nepal map in his metropolitan offic...",
+      "sourceName": "OnlineKhabar",
+      "sourceUrl": "https://english.onlinekhabar.com/oli-shah-india-private-trip.html"
+    },
+    {
+      "id": "act-live-2",
+      "category": "Official & Diplomatic",
+      "time": "Nov 26, 2026",
+      "agency": "OnlineKhabar",
+      "title": "Bhim Rawal accuses PM Shah of compromising national interests during India visit",
+      "summary": "Kathmandu, November 26 Nepali Communist Party (NCP) leader Bhim Rawal has accused the government of compromising Nepal’s national interests during Prime Minister Balendra Shah’s recent visit to India, saying the tendency of bowing to foreign powers for politic...",
+      "sourceName": "OnlineKhabar",
+      "sourceUrl": "https://english.onlinekhabar.com/bhim-rawal-accuses-pm-shah-of-compromising-national-interests-during-india-visit.html"
+    },
+    {
+      "id": "act-live-3",
       "category": "Domestic & Ministries",
       "time": "Nov 26, 2026",
       "agency": "OnlineKhabar",
@@ -26,7 +56,7 @@
       "sourceUrl": "https://english.onlinekhabar.com/sobita-gautam-cabinet-hierarchy.html"
     },
     {
-      "id": "act-live-1",
+      "id": "act-live-4",
       "category": "Official & Diplomatic",
       "time": "Nov 26, 2026",
       "agency": "OnlineKhabar",
@@ -36,7 +66,7 @@
       "sourceUrl": "https://english.onlinekhabar.com/janamorcha-shah-compromise-national-interests-india-visit.html"
     },
     {
-      "id": "act-live-2",
+      "id": "act-live-5",
       "category": "Domestic & Ministries",
       "time": "Nov 26, 2026",
       "agency": "OnlineKhabar",
@@ -46,7 +76,7 @@
       "sourceUrl": "https://english.onlinekhabar.com/nepals-public-holidays-economic-growth.html"
     },
     {
-      "id": "act-live-3",
+      "id": "act-live-6",
       "category": "Domestic & Ministries",
       "time": "Nov 26, 2026",
       "agency": "OnlineKhabar",
@@ -56,7 +86,7 @@
       "sourceUrl": "https://english.onlinekhabar.com/nepse-falls-10-89-points-as-trading-turnover-declines.html"
     },
     {
-      "id": "act-live-4",
+      "id": "act-live-7",
       "category": "Domestic & Ministries",
       "time": "Nov 26, 2026",
       "agency": "OnlineKhabar",
@@ -66,7 +96,7 @@
       "sourceUrl": "https://english.onlinekhabar.com/students-turn-to-municipality-office-to-demand-teachers-at-school-in-achham.html"
     },
     {
-      "id": "act-live-5",
+      "id": "act-live-8",
       "category": "Domestic & Ministries",
       "time": "Nov 26, 2026",
       "agency": "OnlineKhabar",
@@ -76,7 +106,7 @@
       "sourceUrl": "https://english.onlinekhabar.com/plan-to-remove-3000-kg-of-waste-daily-from-sisdol-and-banchare-danda-minister-shrestha.html"
     },
     {
-      "id": "act-live-6",
+      "id": "act-live-9",
       "category": "Domestic & Ministries",
       "time": "Nov 26, 2026",
       "agency": "OnlineKhabar",
@@ -86,7 +116,7 @@
       "sourceUrl": "https://english.onlinekhabar.com/social-security-fund-a-major-hurdle-to-cits-fund-mobilisation-says-executive-director-karki.html"
     },
     {
-      "id": "act-live-7",
+      "id": "act-live-10",
       "category": "Domestic & Ministries",
       "time": "Nov 26, 2026",
       "agency": "OnlineKhabar",
@@ -96,7 +126,7 @@
       "sourceUrl": "https://english.onlinekhabar.com/cricketer-rohit-paudel-marries-simran-khadka.html"
     },
     {
-      "id": "act-live-8",
+      "id": "act-live-11",
       "category": "Domestic & Ministries",
       "time": "Nov 26, 2026",
       "agency": "OnlineKhabar",
@@ -104,36 +134,6 @@
       "summary": "Gorkha, October 27 The intensive care unit (ICU) at Gorkha Provincial Hospital has come into operation. The unit began providing services on Thursday. The hospital had previously been providing surgical ICU services. It has now started operating a medical inte...",
       "sourceName": "OnlineKhabar",
       "sourceUrl": "https://english.onlinekhabar.com/icu-service-begins-at-gorkha-hospital.html"
-    },
-    {
-      "id": "act-live-9",
-      "category": "Domestic & Ministries",
-      "time": "Nov 26, 2026",
-      "agency": "OnlineKhabar",
-      "title": "Deuba faction to use electronic voting machines at General Convention",
-      "summary": "Kathmandu, November 26 The Deuba faction of the Nepali Congress has decided to use electronic voting machines to elect its leadership at the party’s 15th General Convention. The faction has decided to use electronic machines to elect the central leadership at ...",
-      "sourceName": "OnlineKhabar",
-      "sourceUrl": "https://english.onlinekhabar.com/deuba-faction-to-use-electronic-voting-machines-at-general-convention.html"
-    },
-    {
-      "id": "act-live-10",
-      "category": "Official & Diplomatic",
-      "time": "Nov 26, 2026",
-      "agency": "OnlineKhabar",
-      "title": "Trump announces new tariffs on 14 countries, including China and India",
-      "summary": "Kathmandu, November 26 US President Donald Trump has announced plans to impose new tariffs on imports from 14 countries and territories, including China and the European Union, as he pushes ahead with his key trade policy. Under the proposed measures, China wi...",
-      "sourceName": "OnlineKhabar",
-      "sourceUrl": "https://english.onlinekhabar.com/trump-announces-new-tariffs-on-14-countries-including-china-and-india.html"
-    },
-    {
-      "id": "act-live-11",
-      "category": "Domestic & Ministries",
-      "time": "Nov 26, 2026",
-      "agency": "OnlineKhabar",
-      "title": "31 killed, 21 injured in fuel tanker fire in Egypt",
-      "summary": "Kathmandu, November 26 At least 31 people have been killed and 21 others injured in a massive fire that broke out following a fuel tanker accident in Cairo, the capital of Egypt. According to Egypt’s Health Ministry, the fire erupted on Wednesday evening after...",
-      "sourceName": "OnlineKhabar",
-      "sourceUrl": "https://english.onlinekhabar.com/31-killed-21-injured-in-fuel-tanker-fire-in-egypt.html"
     }
   ],
   "protests": [
