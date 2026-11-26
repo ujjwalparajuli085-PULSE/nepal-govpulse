@@ -3,20 +3,90 @@
   "bsDate": "७ मंसिर २०८३, सोमबार",
   "leadDispatch": {
     "kicker": "Lead Dispatch • OnlineKhabar",
-    "title": "31 killed, 21 injured in fuel tanker fire in Egypt",
-    "summary": "Kathmandu, November 26 At least 31 people have been killed and 21 others injured in a massive fire that broke out following a fuel tanker accident in Cairo, the capital of Egypt. According to Egypt’s Health Ministry, the fire erupted on Wednesday evening after...",
+    "title": "Students turn to Municipality Office to demand teachers at school in Achham",
+    "summary": "Kathmandu, November 26 Students of Shakti Secondary School in Kamalbazar Municipality-2, Achham, went to the municipal office on Thursday morning to demand teachers after finding no teachers to teach their classes. Instead of attending lessons in their classro...",
     "primaryLinkText": "Read on OnlineKhabar",
-    "primaryLinkUrl": "https://english.onlinekhabar.com/31-killed-21-injured-in-fuel-tanker-fire-in-egypt.html"
+    "primaryLinkUrl": "https://english.onlinekhabar.com/students-turn-to-municipality-office-to-demand-teachers-at-school-in-achham.html"
   },
   "breakingTicker": [
-    "31 killed, 21 injured in fuel tanker fire in Egypt",
-    "Nepal Medical Council makes PAN and Tax clearance certificates mandatory for services",
-    "Sagar Lamsal ‘Bale’ to return in ‘Sakkigoni-4’, hints Arjun Ghimire",
-    "Seven ministers meet at Law Ministry to remove legal hurdles to tourism infrastructure, use of natural resources"
+    "Students turn to Municipality Office to demand teachers at school in Achham",
+    "Plan to remove 3,000 Kg of waste daily from Sisdol and Banchare Danda: Minister Shrestha",
+    "Social Security Fund a major hurdle to CIT’s fund mobilisation, says Executive Director Karki",
+    "Cricketer Rohit Paudel marries Simran Khadka"
   ],
   "activities": [
     {
       "id": "act-live-0",
+      "category": "Domestic & Ministries",
+      "time": "Nov 26, 2026",
+      "agency": "OnlineKhabar",
+      "title": "Students turn to Municipality Office to demand teachers at school in Achham",
+      "summary": "Kathmandu, November 26 Students of Shakti Secondary School in Kamalbazar Municipality-2, Achham, went to the municipal office on Thursday morning to demand teachers after finding no teachers to teach their classes. Instead of attending lessons in their classro...",
+      "sourceName": "OnlineKhabar",
+      "sourceUrl": "https://english.onlinekhabar.com/students-turn-to-municipality-office-to-demand-teachers-at-school-in-achham.html"
+    },
+    {
+      "id": "act-live-1",
+      "category": "Domestic & Ministries",
+      "time": "Nov 26, 2026",
+      "agency": "OnlineKhabar",
+      "title": "Plan to remove 3,000 Kg of waste daily from Sisdol and Banchare Danda: Minister Shrestha",
+      "summary": "Kathmandu, November 26 Energy, Water Resources and Irrigation Minister Biraj Bhakta Shrestha has said plans are underway to begin removing 3,000 kilograms of waste from Sisdol and Banchare Danda daily. Speaking at a testing programme for the biomethanation pla...",
+      "sourceName": "OnlineKhabar",
+      "sourceUrl": "https://english.onlinekhabar.com/plan-to-remove-3000-kg-of-waste-daily-from-sisdol-and-banchare-danda-minister-shrestha.html"
+    },
+    {
+      "id": "act-live-2",
+      "category": "Domestic & Ministries",
+      "time": "Nov 26, 2026",
+      "agency": "OnlineKhabar",
+      "title": "Social Security Fund a major hurdle to CIT’s fund mobilisation, says Executive Director Karki",
+      "summary": "Kathmandu, November 26 The Citizen Investment Trust (CIT) has identified the Social Security Fund as a major obstacle to mobilising its funds. Speaking at a meeting of the Finance Committee under the House of Representatives at Singha Durbar on Thursday, CIT E...",
+      "sourceName": "OnlineKhabar",
+      "sourceUrl": "https://english.onlinekhabar.com/social-security-fund-a-major-hurdle-to-cits-fund-mobilisation-says-executive-director-karki.html"
+    },
+    {
+      "id": "act-live-3",
+      "category": "Domestic & Ministries",
+      "time": "Nov 26, 2026",
+      "agency": "OnlineKhabar",
+      "title": "Cricketer Rohit Paudel marries Simran Khadka",
+      "summary": "Kathmandu, November 26 Nepali national cricket team player Rohit Paudel has tied the knot. Paudel married his girlfriend, Simran Khadka, at a ceremony in Thailand. National team players, including captain Sandeep Lamichhane, Kushal Bhurtel, Sompal Kami, Dipend...",
+      "sourceName": "OnlineKhabar",
+      "sourceUrl": "https://english.onlinekhabar.com/cricketer-rohit-paudel-marries-simran-khadka.html"
+    },
+    {
+      "id": "act-live-4",
+      "category": "Domestic & Ministries",
+      "time": "Nov 26, 2026",
+      "agency": "OnlineKhabar",
+      "title": "ICU service begins at Gorkha Hospital",
+      "summary": "Gorkha, October 27 The intensive care unit (ICU) at Gorkha Provincial Hospital has come into operation. The unit began providing services on Thursday. The hospital had previously been providing surgical ICU services. It has now started operating a medical inte...",
+      "sourceName": "OnlineKhabar",
+      "sourceUrl": "https://english.onlinekhabar.com/icu-service-begins-at-gorkha-hospital.html"
+    },
+    {
+      "id": "act-live-5",
+      "category": "Domestic & Ministries",
+      "time": "Nov 26, 2026",
+      "agency": "OnlineKhabar",
+      "title": "Deuba faction to use electronic voting machines at General Convention",
+      "summary": "Kathmandu, November 26 The Deuba faction of the Nepali Congress has decided to use electronic voting machines to elect its leadership at the party’s 15th General Convention. The faction has decided to use electronic machines to elect the central leadership at ...",
+      "sourceName": "OnlineKhabar",
+      "sourceUrl": "https://english.onlinekhabar.com/deuba-faction-to-use-electronic-voting-machines-at-general-convention.html"
+    },
+    {
+      "id": "act-live-6",
+      "category": "Official & Diplomatic",
+      "time": "Nov 26, 2026",
+      "agency": "OnlineKhabar",
+      "title": "Trump announces new tariffs on 14 countries, including China and India",
+      "summary": "Kathmandu, November 26 US President Donald Trump has announced plans to impose new tariffs on imports from 14 countries and territories, including China and the European Union, as he pushes ahead with his key trade policy. Under the proposed measures, China wi...",
+      "sourceName": "OnlineKhabar",
+      "sourceUrl": "https://english.onlinekhabar.com/trump-announces-new-tariffs-on-14-countries-including-china-and-india.html"
+    },
+    {
+      "id": "act-live-7",
       "category": "Domestic & Ministries",
       "time": "Nov 26, 2026",
       "agency": "OnlineKhabar",
@@ -26,7 +96,7 @@
       "sourceUrl": "https://english.onlinekhabar.com/31-killed-21-injured-in-fuel-tanker-fire-in-egypt.html"
     },
     {
-      "id": "act-live-1",
+      "id": "act-live-8",
       "category": "Domestic & Ministries",
       "time": "Nov 26, 2026",
       "agency": "OnlineKhabar",
@@ -36,7 +106,7 @@
       "sourceUrl": "https://english.onlinekhabar.com/nepal-medical-council-makes-pan-and-tax-clearance-certificates-mandatory-for-services.html"
     },
     {
-      "id": "act-live-2",
+      "id": "act-live-9",
       "category": "Official & Diplomatic",
       "time": "Nov 26, 2026",
       "agency": "OnlineKhabar",
@@ -46,7 +116,7 @@
       "sourceUrl": "https://english.onlinekhabar.com/sagar-lamsal-bale-to-return-in-sakkigoni-4-hints-arjun-ghimire.html"
     },
     {
-      "id": "act-live-3",
+      "id": "act-live-10",
       "category": "Domestic & Ministries",
       "time": "Nov 26, 2026",
       "agency": "OnlineKhabar",
@@ -56,7 +126,7 @@
       "sourceUrl": "https://english.onlinekhabar.com/ministers-remove-hurdles-tourism.html"
     },
     {
-      "id": "act-live-4",
+      "id": "act-live-11",
       "category": "Media & Civic",
       "time": "Nov 26, 2026",
       "agency": "OnlineKhabar",
@@ -64,76 +134,6 @@
       "summary": "You may have heard the song ‘Dilruba Dilnasheen’ at least once, whether on TikTok or Instagram Reels. With its romantic lyrics and catchy melody, the song has taken social media by storm. But what has made it so popular? And who is the singer behind the viral ...",
       "sourceName": "OnlineKhabar",
       "sourceUrl": "https://english.onlinekhabar.com/why-has-dilruba-dilnasheen-become-so-popular-meet-singer-rito-riba.html"
-    },
-    {
-      "id": "act-live-5",
-      "category": "Domestic & Ministries",
-      "time": "Nov 26, 2026",
-      "agency": "OnlineKhabar",
-      "title": "A million-dollar dream, driven by ambition and built through adversity",
-      "summary": "When Sunrise Gyawali landed in Australia on May 20, 2018, he was 18 years old. He had little money, no established support system and a debt of around Rs 7 million hanging over his head. His father had died just three months earlier after battling a brain tumo...",
-      "sourceName": "OnlineKhabar",
-      "sourceUrl": "https://english.onlinekhabar.com/sunrise-gyawali-energy-business-australia.html"
-    },
-    {
-      "id": "act-live-6",
-      "category": "Official & Diplomatic",
-      "time": "Nov 26, 2026",
-      "agency": "OnlineKhabar",
-      "title": "Production test begins at Teku biogas plant (Photos)",
-      "summary": "Kathmandu, November 26 A production test has begun at the biogas plant in Teku, Kathmandu. The plant was test-run on Thursday on the occasion of ‘Kathmandu Climate Action Week 2026’. Energy, Water Resources and Irrigation Minister Biraj Bhakta Shrestha and Kat...",
-      "sourceName": "OnlineKhabar",
-      "sourceUrl": "https://english.onlinekhabar.com/teku-biogas-plant-photos.html"
-    },
-    {
-      "id": "act-live-7",
-      "category": "Domestic & Ministries",
-      "time": "Nov 26, 2026",
-      "agency": "OnlineKhabar",
-      "title": "Peacock dance brings festive spirit to Rolpa fair",
-      "summary": "Rolpa, November 26 The historic Bhabang Fair was held on Wednesday in Ward 5 of Madi Rural Municipality, Rolpa, featuring performances of the traditional Peacock Dance. Two groups danced, attracting a large crowd of spectators. The performers were from the Kor...",
-      "sourceName": "OnlineKhabar",
-      "sourceUrl": "https://english.onlinekhabar.com/peacock-dance-brings-festive-spirit-to-rolpa-fair.html"
-    },
-    {
-      "id": "act-live-8",
-      "category": "Domestic & Ministries",
-      "time": "Nov 26, 2026",
-      "agency": "OnlineKhabar",
-      "title": "Karnali out of men’s football at league stage after 5–0 loss to Gandaki",
-      "summary": "Surkhet, November 26 Co-host Karnali Province has been eliminated from the league stage in men’s football at the 10th National Games. Karnali crashed out after losing 5–0 to Gandaki Province in a match on Thursday. Playing the first match of the third day unde...",
-      "sourceName": "OnlineKhabar",
-      "sourceUrl": "https://english.onlinekhabar.com/karnali-out-of-mens-football.html"
-    },
-    {
-      "id": "act-live-9",
-      "category": "Domestic & Ministries",
-      "time": "Nov 26, 2026",
-      "agency": "OnlineKhabar",
-      "title": "Study underway to assess grazing grounds for snow leopard and blue sheep conservation",
-      "summary": "Mustang, November 26 The Annapurna Conservation Area Project (ACAP) has started studying high-altitude grazing grounds and collecting grass samples in Mustang to protect snow leopards and their primary prey, blue sheep, amid declining grass availability and qu...",
-      "sourceName": "OnlineKhabar",
-      "sourceUrl": "https://english.onlinekhabar.com/study-underway-to-assess-grazing-grounds-for-snow-leopard-and-blue-sheep-conservation.html"
-    },
-    {
-      "id": "act-live-10",
-      "category": "Judiciary & Law",
-      "time": "Nov 26, 2026",
-      "agency": "OnlineKhabar",
-      "title": "One injured in bear attack in Humla",
-      "summary": "Humla, November 26 A man was injured in a bear attack in Humla district. The injured man has been identified as Chakrabahadur Shahi, around 45, of Karang in Ward 3 of Kharpunath Rural Municipality, according to the District Police Office, Humla. DSP Shankar Kh...",
-      "sourceName": "OnlineKhabar",
-      "sourceUrl": "https://english.onlinekhabar.com/one-injured-in-bear-attack-in-humla.html"
-    },
-    {
-      "id": "act-live-11",
-      "category": "Official & Diplomatic",
-      "time": "Nov 26, 2026",
-      "agency": "OnlineKhabar",
-      "title": "NPL shines, but grassroots cricket’s foundation remains weak",
-      "summary": "Nepali cricket has recently made a major leap commercially. The Nepal Premier League (NPL) has added a new attraction to domestic cricket. The participation of foreign players, the enthusiasm of spectators, sponsorship and franchise investment have also shown ...",
-      "sourceName": "OnlineKhabar",
-      "sourceUrl": "https://english.onlinekhabar.com/npl-shines-grassroots-cricket-weak.html"
     }
   ],
   "protests": [
