@@ -3,20 +3,40 @@
   "bsDate": "७ मंसिर २०८३, सोमबार",
   "leadDispatch": {
     "kicker": "Lead Dispatch • OnlineKhabar",
-    "title": "Nirmala Rai wins bronze at Asia-Pacific Trail Running Championships",
-    "summary": "Kathmandu, November 26 Nepali trail runner Nirmala Rai has won a bronze medal at the Asia-Pacific Trail Running Championships in China. Rai finished third in the 87-kilometre Long Trail race held in Wuxian, China, on Thursday. Nirmala Rai completed the race in...",
+    "title": "Ek Narayan Aryal fled to Kolkata a day before arrests in Rs 1.69 billion worker-fee scam",
+    "summary": "Kathmandu, November 26 Former Nepal government chief secretary Ek Narayan Aryal, who is accused of involvement in illegally collecting money from Nepali workers heading to Malaysia under the pretext of medical examinations and transferring the funds abroad, ha...",
     "primaryLinkText": "Read on OnlineKhabar",
-    "primaryLinkUrl": "https://english.onlinekhabar.com/nirmala-rai-win-bronze-asia-pacific-trail-running.html"
+    "primaryLinkUrl": "https://english.onlinekhabar.com/ek-narayan-aryal-fled-to-kolkata.html"
   },
   "breakingTicker": [
+    "Ek Narayan Aryal fled to Kolkata a day before arrests in Rs 1.69 billion worker-fee scam",
+    "PM Balendra Shah, RSP chair Rabi Lamichhane hold five-hour meeting",
     "Nirmala Rai wins bronze at Asia-Pacific Trail Running Championships",
-    "Oli says PM Shah’s India visit was like a ‘private trip’, criticises failure to raise border disputes",
-    "Bhim Rawal accuses PM Shah of compromising national interests during India visit",
-    "Sobita Gautam moved up to third position in Cabinet hierarchy"
+    "Oli says PM Shah’s India visit was like a ‘private trip’, criticises failure to raise border disputes"
   ],
   "activities": [
     {
       "id": "act-live-0",
+      "category": "Judiciary & Law",
+      "time": "Nov 26, 2026",
+      "agency": "OnlineKhabar",
+      "title": "Ek Narayan Aryal fled to Kolkata a day before arrests in Rs 1.69 billion worker-fee scam",
+      "summary": "Kathmandu, November 26 Former Nepal government chief secretary Ek Narayan Aryal, who is accused of involvement in illegally collecting money from Nepali workers heading to Malaysia under the pretext of medical examinations and transferring the funds abroad, ha...",
+      "sourceName": "OnlineKhabar",
+      "sourceUrl": "https://english.onlinekhabar.com/ek-narayan-aryal-fled-to-kolkata.html"
+    },
+    {
+      "id": "act-live-1",
+      "category": "Domestic & Ministries",
+      "time": "Nov 26, 2026",
+      "agency": "OnlineKhabar",
+      "title": "PM Balendra Shah, RSP chair Rabi Lamichhane hold five-hour meeting",
+      "summary": "Kathmandu, November 26 Prime Minister Balendra Shah and Rastriya Swatantra Party (RSP) chair Rabi Lamichhane held a five-hour meeting at Lamichhane’s residence in Budhanilkantha on Thursday. Shah visited Lamichhane to discuss government affairs and party-relat...",
+      "sourceName": "OnlineKhabar",
+      "sourceUrl": "https://english.onlinekhabar.com/balen-lamichhane-five-hour-meet.html"
+    },
+    {
+      "id": "act-live-2",
       "category": "Official & Diplomatic",
       "time": "Nov 26, 2026",
       "agency": "OnlineKhabar",
@@ -26,7 +46,7 @@
       "sourceUrl": "https://english.onlinekhabar.com/nirmala-rai-win-bronze-asia-pacific-trail-running.html"
     },
     {
-      "id": "act-live-1",
+      "id": "act-live-3",
       "category": "Official & Diplomatic",
       "time": "Nov 26, 2026",
       "agency": "OnlineKhabar",
@@ -36,7 +56,7 @@
       "sourceUrl": "https://english.onlinekhabar.com/oli-shah-india-private-trip.html"
     },
     {
-      "id": "act-live-2",
+      "id": "act-live-4",
       "category": "Official & Diplomatic",
       "time": "Nov 26, 2026",
       "agency": "OnlineKhabar",
@@ -46,7 +66,7 @@
       "sourceUrl": "https://english.onlinekhabar.com/bhim-rawal-accuses-pm-shah-of-compromising-national-interests-during-india-visit.html"
     },
     {
-      "id": "act-live-3",
+      "id": "act-live-5",
       "category": "Domestic & Ministries",
       "time": "Nov 26, 2026",
       "agency": "OnlineKhabar",
@@ -56,7 +76,7 @@
       "sourceUrl": "https://english.onlinekhabar.com/sobita-gautam-cabinet-hierarchy.html"
     },
     {
-      "id": "act-live-4",
+      "id": "act-live-6",
       "category": "Official & Diplomatic",
       "time": "Nov 26, 2026",
       "agency": "OnlineKhabar",
@@ -66,7 +86,7 @@
       "sourceUrl": "https://english.onlinekhabar.com/janamorcha-shah-compromise-national-interests-india-visit.html"
     },
     {
-      "id": "act-live-5",
+      "id": "act-live-7",
       "category": "Domestic & Ministries",
       "time": "Nov 26, 2026",
       "agency": "OnlineKhabar",
@@ -76,7 +96,7 @@
       "sourceUrl": "https://english.onlinekhabar.com/nepals-public-holidays-economic-growth.html"
     },
     {
-      "id": "act-live-6",
+      "id": "act-live-8",
       "category": "Domestic & Ministries",
       "time": "Nov 26, 2026",
       "agency": "OnlineKhabar",
@@ -86,7 +106,7 @@
       "sourceUrl": "https://english.onlinekhabar.com/nepse-falls-10-89-points-as-trading-turnover-declines.html"
     },
     {
-      "id": "act-live-7",
+      "id": "act-live-9",
       "category": "Domestic & Ministries",
       "time": "Nov 26, 2026",
       "agency": "OnlineKhabar",
@@ -96,7 +116,7 @@
       "sourceUrl": "https://english.onlinekhabar.com/students-turn-to-municipality-office-to-demand-teachers-at-school-in-achham.html"
     },
     {
-      "id": "act-live-8",
+      "id": "act-live-10",
       "category": "Domestic & Ministries",
       "time": "Nov 26, 2026",
       "agency": "OnlineKhabar",
@@ -106,7 +126,7 @@
       "sourceUrl": "https://english.onlinekhabar.com/plan-to-remove-3000-kg-of-waste-daily-from-sisdol-and-banchare-danda-minister-shrestha.html"
     },
     {
-      "id": "act-live-9",
+      "id": "act-live-11",
       "category": "Domestic & Ministries",
       "time": "Nov 26, 2026",
       "agency": "OnlineKhabar",
@@ -114,26 +134,6 @@
       "summary": "Kathmandu, November 26 The Citizen Investment Trust (CIT) has identified the Social Security Fund as a major obstacle to mobilising its funds. Speaking at a meeting of the Finance Committee under the House of Representatives at Singha Durbar on Thursday, CIT E...",
       "sourceName": "OnlineKhabar",
       "sourceUrl": "https://english.onlinekhabar.com/social-security-fund-a-major-hurdle-to-cits-fund-mobilisation-says-executive-director-karki.html"
-    },
-    {
-      "id": "act-live-10",
-      "category": "Domestic & Ministries",
-      "time": "Nov 26, 2026",
-      "agency": "OnlineKhabar",
-      "title": "Cricketer Rohit Paudel marries Simran Khadka",
-      "summary": "Kathmandu, November 26 Nepali national cricket team player Rohit Paudel has tied the knot. Paudel married his girlfriend, Simran Khadka, at a ceremony in Thailand. National team players, including captain Sandeep Lamichhane, Kushal Bhurtel, Sompal Kami, Dipend...",
-      "sourceName": "OnlineKhabar",
-      "sourceUrl": "https://english.onlinekhabar.com/cricketer-rohit-paudel-marries-simran-khadka.html"
-    },
-    {
-      "id": "act-live-11",
-      "category": "Domestic & Ministries",
-      "time": "Nov 26, 2026",
-      "agency": "OnlineKhabar",
-      "title": "ICU service begins at Gorkha Hospital",
-      "summary": "Gorkha, October 27 The intensive care unit (ICU) at Gorkha Provincial Hospital has come into operation. The unit began providing services on Thursday. The hospital had previously been providing surgical ICU services. It has now started operating a medical inte...",
-      "sourceName": "OnlineKhabar",
-      "sourceUrl": "https://english.onlinekhabar.com/icu-service-begins-at-gorkha-hospital.html"
     }
   ],
   "protests": [
