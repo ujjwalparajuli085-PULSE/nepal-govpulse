@@ -3,20 +3,30 @@
   "bsDate": "७ मंसिर २०८३, सोमबार",
   "leadDispatch": {
     "kicker": "Lead Dispatch • OnlineKhabar",
-    "title": "Nepal and India can move forward by building on shared interests",
-    "summary": "During Prime Minister Balen Shah’s visit to India, India announced a development cooperation package worth Rs 240 billion for post-flood reconstruction and long-term development. The package includes Rs 56 billion in grants for reconstruction and new infrastru...",
+    "title": "Nepal’s growing debt burden puts pressure on development spending",
+    "summary": "Kathmandu, November 26 Nepal’s outstanding public debt fell by around Rs 43 billion between the end of the last fiscal year and the end of Kartik (November 16) in the current fiscal year, partly due to the depreciation of the US dollar against the Nepali rupee...",
     "primaryLinkText": "Read on OnlineKhabar",
-    "primaryLinkUrl": "https://english.onlinekhabar.com/nepal-india-building-shared-interests.html"
+    "primaryLinkUrl": "https://english.onlinekhabar.com/nepals-growing-debt-burden-puts-pressure-on-development-spending.html"
   },
   "breakingTicker": [
+    "Nepal’s growing debt burden puts pressure on development spending",
     "Nepal and India can move forward by building on shared interests",
     "Sudurpaschim Royals announce trophy tour across all nine districts following NPL title win",
-    "Supreme Court rejects interim relief for Dan Bahadur Karki on three grounds",
-    "Supreme Court refuses interim order against Dan Bahadur Karki’s removal as police chief"
+    "Supreme Court rejects interim relief for Dan Bahadur Karki on three grounds"
   ],
   "activities": [
     {
       "id": "act-live-0",
+      "category": "Domestic & Ministries",
+      "time": "Nov 26, 2026",
+      "agency": "OnlineKhabar",
+      "title": "Nepal’s growing debt burden puts pressure on development spending",
+      "summary": "Kathmandu, November 26 Nepal’s outstanding public debt fell by around Rs 43 billion between the end of the last fiscal year and the end of Kartik (November 16) in the current fiscal year, partly due to the depreciation of the US dollar against the Nepali rupee...",
+      "sourceName": "OnlineKhabar",
+      "sourceUrl": "https://english.onlinekhabar.com/nepals-growing-debt-burden-puts-pressure-on-development-spending.html"
+    },
+    {
+      "id": "act-live-1",
       "category": "Official & Diplomatic",
       "time": "Nov 26, 2026",
       "agency": "OnlineKhabar",
@@ -26,7 +36,7 @@
       "sourceUrl": "https://english.onlinekhabar.com/nepal-india-building-shared-interests.html"
     },
     {
-      "id": "act-live-1",
+      "id": "act-live-2",
       "category": "Domestic & Ministries",
       "time": "Nov 26, 2026",
       "agency": "OnlineKhabar",
@@ -36,7 +46,7 @@
       "sourceUrl": "https://english.onlinekhabar.com/sudurpaschim-royals-trophy-tour.html"
     },
     {
-      "id": "act-live-2",
+      "id": "act-live-3",
       "category": "Judiciary & Law",
       "time": "Nov 26, 2026",
       "agency": "OnlineKhabar",
@@ -46,7 +56,7 @@
       "sourceUrl": "https://english.onlinekhabar.com/supreme-court-rejects-interim-relief-for-dan-bahadur-karki-on-three-grounds.html"
     },
     {
-      "id": "act-live-3",
+      "id": "act-live-4",
       "category": "Judiciary & Law",
       "time": "Nov 26, 2026",
       "agency": "OnlineKhabar",
@@ -56,7 +66,7 @@
       "sourceUrl": "https://english.onlinekhabar.com/sc-refuses-interim-order-dan-bahadur-karki.html"
     },
     {
-      "id": "act-live-4",
+      "id": "act-live-5",
       "category": "Domestic & Ministries",
       "time": "Nov 26, 2026",
       "agency": "OnlineKhabar",
@@ -66,7 +76,7 @@
       "sourceUrl": "https://english.onlinekhabar.com/nepal-project-reduce-risks-glacial-lakes.html"
     },
     {
-      "id": "act-live-5",
+      "id": "act-live-6",
       "category": "Domestic & Ministries",
       "time": "Nov 26, 2026",
       "agency": "OnlineKhabar",
@@ -76,7 +86,7 @@
       "sourceUrl": "https://english.onlinekhabar.com/cost-of-being-teacher.html"
     },
     {
-      "id": "act-live-6",
+      "id": "act-live-7",
       "category": "Judiciary & Law",
       "time": "Nov 26, 2026",
       "agency": "OnlineKhabar",
@@ -86,7 +96,7 @@
       "sourceUrl": "https://english.onlinekhabar.com/sc-ani-choying-drolma-appointment.html"
     },
     {
-      "id": "act-live-7",
+      "id": "act-live-8",
       "category": "Domestic & Ministries",
       "time": "Nov 26, 2026",
       "agency": "OnlineKhabar",
@@ -96,7 +106,7 @@
       "sourceUrl": "https://english.onlinekhabar.com/president-paudel-undergoes-routine-health-check-up-at-teaching-hospital.html"
     },
     {
-      "id": "act-live-8",
+      "id": "act-live-9",
       "category": "Domestic & Ministries",
       "time": "Nov 26, 2026",
       "agency": "OnlineKhabar",
@@ -106,7 +116,7 @@
       "sourceUrl": "https://english.onlinekhabar.com/deuba-faction-entrusts-shashank-koirala-with-forming-convention-preparation-committees.html"
     },
     {
-      "id": "act-live-9",
+      "id": "act-live-10",
       "category": "Domestic & Ministries",
       "time": "Nov 26, 2026",
       "agency": "OnlineKhabar",
@@ -116,7 +126,7 @@
       "sourceUrl": "https://english.onlinekhabar.com/nepali-congress-women-central-committee.html"
     },
     {
-      "id": "act-live-10",
+      "id": "act-live-11",
       "category": "Domestic & Ministries",
       "time": "Nov 26, 2026",
       "agency": "OnlineKhabar",
@@ -124,16 +134,6 @@
       "summary": "Kathmandu, November 25 Members of the House of Representatives have called for reforms to existing laws on sexual violence, saying the punishments prescribed for perpetrators are inadequate. They also said the bill proposed by the government to amend the Natio...",
       "sourceName": "OnlineKhabar",
       "sourceUrl": "https://english.onlinekhabar.com/mps-call-for-stricter-punishments-for-sexual-violence-offences.html"
-    },
-    {
-      "id": "act-live-11",
-      "category": "Official & Diplomatic",
-      "time": "Nov 26, 2026",
-      "agency": "OnlineKhabar",
-      "title": "Arzu Rana appears at political event in Hong Kong after months away from public view",
-      "summary": "Kathmandu, November 25 Former foreign minister Arzu Rana Deuba has reappeared at a political event after remaining largely out of public view for several months. Rana, the wife of former Nepali Congress president Sher Bahadur Deuba, attended a convention of th...",
-      "sourceName": "OnlineKhabar",
-      "sourceUrl": "https://english.onlinekhabar.com/arzu-rana-political-event-hong-kong.html"
     }
   ],
   "protests": [
