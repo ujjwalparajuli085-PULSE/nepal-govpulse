@@ -3,20 +3,50 @@
   "bsDate": "७ मंसिर २०८३, सोमबार",
   "leadDispatch": {
     "kicker": "Lead Dispatch • OnlineKhabar",
-    "title": "Students turn to Municipality Office to demand teachers at school in Achham",
-    "summary": "Kathmandu, November 26 Students of Shakti Secondary School in Kamalbazar Municipality-2, Achham, went to the municipal office on Thursday morning to demand teachers after finding no teachers to teach their classes. Instead of attending lessons in their classro...",
+    "title": "Rastriya Janamorcha accuses PM Shah of compromising Nepal’s national interests during India visit",
+    "summary": "Kathmandu, November 26 The Rastriya Janamorcha has accused Prime Minister Balendra Shah of adopting a weak stance on issues concerning Nepal’s national sovereignty, territorial integrity and national interests during his recent visit to India. In a press state...",
     "primaryLinkText": "Read on OnlineKhabar",
-    "primaryLinkUrl": "https://english.onlinekhabar.com/students-turn-to-municipality-office-to-demand-teachers-at-school-in-achham.html"
+    "primaryLinkUrl": "https://english.onlinekhabar.com/janamorcha-shah-compromise-national-interests-india-visit.html"
   },
   "breakingTicker": [
-    "Students turn to Municipality Office to demand teachers at school in Achham",
-    "Plan to remove 3,000 Kg of waste daily from Sisdol and Banchare Danda: Minister Shrestha",
-    "Social Security Fund a major hurdle to CIT’s fund mobilisation, says Executive Director Karki",
-    "Cricketer Rohit Paudel marries Simran Khadka"
+    "Rastriya Janamorcha accuses PM Shah of compromising Nepal’s national interests during India visit",
+    "Do Nepal’s public holidays come at the expense of economic growth?",
+    "NEPSE falls 10.89 points as trading turnover declines",
+    "Students turn to Municipality Office to demand teachers at school in Achham"
   ],
   "activities": [
     {
       "id": "act-live-0",
+      "category": "Official & Diplomatic",
+      "time": "Nov 26, 2026",
+      "agency": "OnlineKhabar",
+      "title": "Rastriya Janamorcha accuses PM Shah of compromising Nepal’s national interests during India visit",
+      "summary": "Kathmandu, November 26 The Rastriya Janamorcha has accused Prime Minister Balendra Shah of adopting a weak stance on issues concerning Nepal’s national sovereignty, territorial integrity and national interests during his recent visit to India. In a press state...",
+      "sourceName": "OnlineKhabar",
+      "sourceUrl": "https://english.onlinekhabar.com/janamorcha-shah-compromise-national-interests-india-visit.html"
+    },
+    {
+      "id": "act-live-1",
+      "category": "Domestic & Ministries",
+      "time": "Nov 26, 2026",
+      "agency": "OnlineKhabar",
+      "title": "Do Nepal’s public holidays come at the expense of economic growth?",
+      "summary": "Nepal has more public holidays than almost any other country. The Ministry of Home Affairs usually announces about 35 national public holidays a year in the Nepal Gazette. The typical country has 13, and Myanmar, at the top of a 2026 global count, has 30. That...",
+      "sourceName": "OnlineKhabar",
+      "sourceUrl": "https://english.onlinekhabar.com/nepals-public-holidays-economic-growth.html"
+    },
+    {
+      "id": "act-live-2",
+      "category": "Domestic & Ministries",
+      "time": "Nov 26, 2026",
+      "agency": "OnlineKhabar",
+      "title": "NEPSE falls 10.89 points as trading turnover declines",
+      "summary": "Kathmandu, November 26 The Nepal Stock Exchange (Nepse) index fell by 10.89 points on Thursday to close at 2,636 points. The index had gained 8.66 points on the previous trading day. Both the Nepse index and total turnover declined. Shares worth Rs 5.48 billio...",
+      "sourceName": "OnlineKhabar",
+      "sourceUrl": "https://english.onlinekhabar.com/nepse-falls-10-89-points-as-trading-turnover-declines.html"
+    },
+    {
+      "id": "act-live-3",
       "category": "Domestic & Ministries",
       "time": "Nov 26, 2026",
       "agency": "OnlineKhabar",
@@ -26,7 +56,7 @@
       "sourceUrl": "https://english.onlinekhabar.com/students-turn-to-municipality-office-to-demand-teachers-at-school-in-achham.html"
     },
     {
-      "id": "act-live-1",
+      "id": "act-live-4",
       "category": "Domestic & Ministries",
       "time": "Nov 26, 2026",
       "agency": "OnlineKhabar",
@@ -36,7 +66,7 @@
       "sourceUrl": "https://english.onlinekhabar.com/plan-to-remove-3000-kg-of-waste-daily-from-sisdol-and-banchare-danda-minister-shrestha.html"
     },
     {
-      "id": "act-live-2",
+      "id": "act-live-5",
       "category": "Domestic & Ministries",
       "time": "Nov 26, 2026",
       "agency": "OnlineKhabar",
@@ -46,7 +76,7 @@
       "sourceUrl": "https://english.onlinekhabar.com/social-security-fund-a-major-hurdle-to-cits-fund-mobilisation-says-executive-director-karki.html"
     },
     {
-      "id": "act-live-3",
+      "id": "act-live-6",
       "category": "Domestic & Ministries",
       "time": "Nov 26, 2026",
       "agency": "OnlineKhabar",
@@ -56,7 +86,7 @@
       "sourceUrl": "https://english.onlinekhabar.com/cricketer-rohit-paudel-marries-simran-khadka.html"
     },
     {
-      "id": "act-live-4",
+      "id": "act-live-7",
       "category": "Domestic & Ministries",
       "time": "Nov 26, 2026",
       "agency": "OnlineKhabar",
@@ -66,7 +96,7 @@
       "sourceUrl": "https://english.onlinekhabar.com/icu-service-begins-at-gorkha-hospital.html"
     },
     {
-      "id": "act-live-5",
+      "id": "act-live-8",
       "category": "Domestic & Ministries",
       "time": "Nov 26, 2026",
       "agency": "OnlineKhabar",
@@ -76,7 +106,7 @@
       "sourceUrl": "https://english.onlinekhabar.com/deuba-faction-to-use-electronic-voting-machines-at-general-convention.html"
     },
     {
-      "id": "act-live-6",
+      "id": "act-live-9",
       "category": "Official & Diplomatic",
       "time": "Nov 26, 2026",
       "agency": "OnlineKhabar",
@@ -86,7 +116,7 @@
       "sourceUrl": "https://english.onlinekhabar.com/trump-announces-new-tariffs-on-14-countries-including-china-and-india.html"
     },
     {
-      "id": "act-live-7",
+      "id": "act-live-10",
       "category": "Domestic & Ministries",
       "time": "Nov 26, 2026",
       "agency": "OnlineKhabar",
@@ -96,7 +126,7 @@
       "sourceUrl": "https://english.onlinekhabar.com/31-killed-21-injured-in-fuel-tanker-fire-in-egypt.html"
     },
     {
-      "id": "act-live-8",
+      "id": "act-live-11",
       "category": "Domestic & Ministries",
       "time": "Nov 26, 2026",
       "agency": "OnlineKhabar",
@@ -104,36 +134,6 @@
       "summary": "Kathmandu, November 26 The Nepal Medical Council (NMC) has made a Permanent Account Number (PAN) and tax clearance certificate mandatory for obtaining various registration, verification and good standing certificates from the council. Issuing a notice, the cou...",
       "sourceName": "OnlineKhabar",
       "sourceUrl": "https://english.onlinekhabar.com/nepal-medical-council-makes-pan-and-tax-clearance-certificates-mandatory-for-services.html"
-    },
-    {
-      "id": "act-live-9",
-      "category": "Official & Diplomatic",
-      "time": "Nov 26, 2026",
-      "agency": "OnlineKhabar",
-      "title": "Sagar Lamsal ‘Bale’ to return in ‘Sakkigoni-4’, hints Arjun Ghimire",
-      "summary": "Recently, Arjun Ghimire, popularly known as Pande, announced: “Sakkigoni is coming soon.” The promotional poster featured two characters — Pande and Jigri. There is no need to introduce Jigri, as Kumar Kattel is already familiar to the audience. After a long b...",
-      "sourceName": "OnlineKhabar",
-      "sourceUrl": "https://english.onlinekhabar.com/sagar-lamsal-bale-to-return-in-sakkigoni-4-hints-arjun-ghimire.html"
-    },
-    {
-      "id": "act-live-10",
-      "category": "Domestic & Ministries",
-      "time": "Nov 26, 2026",
-      "agency": "OnlineKhabar",
-      "title": "Seven ministers meet at Law Ministry to remove legal hurdles to tourism infrastructure, use of natural resources",
-      "summary": "Kathmandu, November 26 An inter-ministerial meeting involving seven government ministers and senior officials has been held. The meeting discussed removing legal and procedural complications in building tourism infrastructure, promoting adventure tourism, and ...",
-      "sourceName": "OnlineKhabar",
-      "sourceUrl": "https://english.onlinekhabar.com/ministers-remove-hurdles-tourism.html"
-    },
-    {
-      "id": "act-live-11",
-      "category": "Media & Civic",
-      "time": "Nov 26, 2026",
-      "agency": "OnlineKhabar",
-      "title": "Why has ‘Dilruba Dilnasheen’ become so popular? Meet Singer Rito Riba",
-      "summary": "You may have heard the song ‘Dilruba Dilnasheen’ at least once, whether on TikTok or Instagram Reels. With its romantic lyrics and catchy melody, the song has taken social media by storm. But what has made it so popular? And who is the singer behind the viral ...",
-      "sourceName": "OnlineKhabar",
-      "sourceUrl": "https://english.onlinekhabar.com/why-has-dilruba-dilnasheen-become-so-popular-meet-singer-rito-riba.html"
     }
   ],
   "protests": [
