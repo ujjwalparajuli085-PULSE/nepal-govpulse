@@ -3,20 +3,70 @@
   "bsDate": "७ मंसिर २०८३, सोमबार",
   "leadDispatch": {
     "kicker": "Lead Dispatch • OnlineKhabar",
-    "title": "Nepal’s growing debt burden puts pressure on development spending",
-    "summary": "Kathmandu, November 26 Nepal’s outstanding public debt fell by around Rs 43 billion between the end of the last fiscal year and the end of Kartik (November 16) in the current fiscal year, partly due to the depreciation of the US dollar against the Nepali rupee...",
+    "title": "Skybridge with elevators to connect two Bir Hospital buildings",
+    "summary": "Kathmandu, November 26 Kathmandu Metropolitan City will build a skybridge with elevators to connect Bir Hospital’s old and new buildings. Acting Mayor Sunita Dangol laid the foundation stone for the project. The bridge will cost Rs 47,134,727, and the target i...",
     "primaryLinkText": "Read on OnlineKhabar",
-    "primaryLinkUrl": "https://english.onlinekhabar.com/nepals-growing-debt-burden-puts-pressure-on-development-spending.html"
+    "primaryLinkUrl": "https://english.onlinekhabar.com/skybridge-two-bir-hospital-buildings.html"
   },
   "breakingTicker": [
-    "Nepal’s growing debt burden puts pressure on development spending",
-    "Nepal and India can move forward by building on shared interests",
-    "Sudurpaschim Royals announce trophy tour across all nine districts following NPL title win",
-    "Supreme Court rejects interim relief for Dan Bahadur Karki on three grounds"
+    "Skybridge with elevators to connect two Bir Hospital buildings",
+    "How Rs 200 million in student fees disappeared and thousands of receipts burned at RRM Campus",
+    "GLOF Sanjibani project aims to protect 385,000 people from glacial lake flood risks in Nepal",
+    "TU to take action against those involved in Rs 200 million fee scam at RRM Campus"
   ],
   "activities": [
     {
       "id": "act-live-0",
+      "category": "Domestic & Ministries",
+      "time": "Nov 26, 2026",
+      "agency": "OnlineKhabar",
+      "title": "Skybridge with elevators to connect two Bir Hospital buildings",
+      "summary": "Kathmandu, November 26 Kathmandu Metropolitan City will build a skybridge with elevators to connect Bir Hospital’s old and new buildings. Acting Mayor Sunita Dangol laid the foundation stone for the project. The bridge will cost Rs 47,134,727, and the target i...",
+      "sourceName": "OnlineKhabar",
+      "sourceUrl": "https://english.onlinekhabar.com/skybridge-two-bir-hospital-buildings.html"
+    },
+    {
+      "id": "act-live-1",
+      "category": "Domestic & Ministries",
+      "time": "Nov 26, 2026",
+      "agency": "OnlineKhabar",
+      "title": "How Rs 200 million in student fees disappeared and thousands of receipts burned at RRM Campus",
+      "summary": "Kathmandu, November 26 The receipts were proof that they had paid. Yet when students at Ram Sagar Ram Swaroop (RRM) Multiple Campus in Janakpurdham, Dhanusha, went to fill out their examination forms in January and February 2025, some were told they still owed...",
+      "sourceName": "OnlineKhabar",
+      "sourceUrl": "https://english.onlinekhabar.com/student-fees-missing-recipt-burn-rrm-campus.html"
+    },
+    {
+      "id": "act-live-2",
+      "category": "Domestic & Ministries",
+      "time": "Nov 26, 2026",
+      "agency": "OnlineKhabar",
+      "title": "GLOF Sanjibani project aims to protect 385,000 people from glacial lake flood risks in Nepal",
+      "summary": "Kathmandu, November 26 The government of Nepal and the United Nations Development Programme (UNDP) have launched a $49.94 million project to reduce the risk of glacial lake outburst floods (GLOFs) and protect the lives and livelihoods of Himalayan communities....",
+      "sourceName": "OnlineKhabar",
+      "sourceUrl": "https://english.onlinekhabar.com/glof-sanjibani-glof-risk-negate.html"
+    },
+    {
+      "id": "act-live-3",
+      "category": "Domestic & Ministries",
+      "time": "Nov 26, 2026",
+      "agency": "OnlineKhabar",
+      "title": "TU to take action against those involved in Rs 200 million fee scam at RRM Campus",
+      "summary": "Kathmandu, November 26 Tribhuvan University (TU) Vice-Chancellor Professor Dr Bhola Thapa has pledged action against those involved in the alleged embezzlement of more than Rs 200 million in student fees at Ram Sagar Ram Swaroop (RRM) Multiple Campus in Janakp...",
+      "sourceName": "OnlineKhabar",
+      "sourceUrl": "https://english.onlinekhabar.com/tu-to-take-action-rrm-campus-scam.html"
+    },
+    {
+      "id": "act-live-4",
+      "category": "Domestic & Ministries",
+      "time": "Nov 26, 2026",
+      "agency": "OnlineKhabar",
+      "title": "Gold price rises by Rs 1,400 per tola, silver gains Rs 35",
+      "summary": "Kathmandu, November 26 The price of gold increased by Rs 1,400 per tola on Thursday, according to the Federation of Nepal Gold and Silver Dealers’ Association. The federation has set the price of gold at Rs 242,800 per tola for today, up from Rs 241,400 on Wed...",
+      "sourceName": "OnlineKhabar",
+      "sourceUrl": "https://english.onlinekhabar.com/gold-price-rises-silver-gains.html"
+    },
+    {
+      "id": "act-live-5",
       "category": "Domestic & Ministries",
       "time": "Nov 26, 2026",
       "agency": "OnlineKhabar",
@@ -26,7 +76,7 @@
       "sourceUrl": "https://english.onlinekhabar.com/nepals-growing-debt-burden-puts-pressure-on-development-spending.html"
     },
     {
-      "id": "act-live-1",
+      "id": "act-live-6",
       "category": "Official & Diplomatic",
       "time": "Nov 26, 2026",
       "agency": "OnlineKhabar",
@@ -36,7 +86,7 @@
       "sourceUrl": "https://english.onlinekhabar.com/nepal-india-building-shared-interests.html"
     },
     {
-      "id": "act-live-2",
+      "id": "act-live-7",
       "category": "Domestic & Ministries",
       "time": "Nov 26, 2026",
       "agency": "OnlineKhabar",
@@ -46,7 +96,7 @@
       "sourceUrl": "https://english.onlinekhabar.com/sudurpaschim-royals-trophy-tour.html"
     },
     {
-      "id": "act-live-3",
+      "id": "act-live-8",
       "category": "Judiciary & Law",
       "time": "Nov 26, 2026",
       "agency": "OnlineKhabar",
@@ -56,7 +106,7 @@
       "sourceUrl": "https://english.onlinekhabar.com/supreme-court-rejects-interim-relief-for-dan-bahadur-karki-on-three-grounds.html"
     },
     {
-      "id": "act-live-4",
+      "id": "act-live-9",
       "category": "Judiciary & Law",
       "time": "Nov 26, 2026",
       "agency": "OnlineKhabar",
@@ -66,7 +116,7 @@
       "sourceUrl": "https://english.onlinekhabar.com/sc-refuses-interim-order-dan-bahadur-karki.html"
     },
     {
-      "id": "act-live-5",
+      "id": "act-live-10",
       "category": "Domestic & Ministries",
       "time": "Nov 26, 2026",
       "agency": "OnlineKhabar",
@@ -76,7 +126,7 @@
       "sourceUrl": "https://english.onlinekhabar.com/nepal-project-reduce-risks-glacial-lakes.html"
     },
     {
-      "id": "act-live-6",
+      "id": "act-live-11",
       "category": "Domestic & Ministries",
       "time": "Nov 26, 2026",
       "agency": "OnlineKhabar",
@@ -84,56 +134,6 @@
       "summary": "Not long ago, a fellow teacher asked me something I have not been able to shake off since: How do you make sure that lesson planning and marking do not consume so much of your day that you forget to drink water or even step outside for a walk? I laughed when I...",
       "sourceName": "OnlineKhabar",
       "sourceUrl": "https://english.onlinekhabar.com/cost-of-being-teacher.html"
-    },
-    {
-      "id": "act-live-7",
-      "category": "Judiciary & Law",
-      "time": "Nov 26, 2026",
-      "agency": "OnlineKhabar",
-      "title": "SC to hear both sides before deciding on interim order against Ani Choying Drolma’s appointment",
-      "summary": "Kathmandu, November 25 The Supreme Court has scheduled a hearing for Monday, November 30, to decide whether to issue an interim order against the government’s decision to appoint singer Ani Choying Drolma as vice-chairperson of the Lumbini Development Trust. T...",
-      "sourceName": "OnlineKhabar",
-      "sourceUrl": "https://english.onlinekhabar.com/sc-ani-choying-drolma-appointment.html"
-    },
-    {
-      "id": "act-live-8",
-      "category": "Domestic & Ministries",
-      "time": "Nov 26, 2026",
-      "agency": "OnlineKhabar",
-      "title": "President Paudel undergoes routine health check-up at Teaching Hospital",
-      "summary": "Kathmandu, November 25 President Ramchandra Paudel underwent a routine health check-up at Tribhuvan University Teaching Hospital in Maharajgunj on Wednesday. His press adviser, Kiran Pokharel, confirmed that the president visited the hospital for a routine med...",
-      "sourceName": "OnlineKhabar",
-      "sourceUrl": "https://english.onlinekhabar.com/president-paudel-undergoes-routine-health-check-up-at-teaching-hospital.html"
-    },
-    {
-      "id": "act-live-9",
-      "category": "Domestic & Ministries",
-      "time": "Nov 26, 2026",
-      "agency": "OnlineKhabar",
-      "title": "Deuba faction entrusts Shashank Koirala with forming convention preparation committees",
-      "summary": "Kathmandu, November 25 The Sher Bahadur Deuba faction of the Nepali Congress has entrusted its convention coordinator, Dr Shashank Koirala, with the responsibility of forming committees to prepare for the party’s 15th General Convention. Congress leader Jit Ju...",
-      "sourceName": "OnlineKhabar",
-      "sourceUrl": "https://english.onlinekhabar.com/deuba-faction-entrusts-shashank-koirala-with-forming-convention-preparation-committees.html"
-    },
-    {
-      "id": "act-live-10",
-      "category": "Domestic & Ministries",
-      "time": "Nov 26, 2026",
-      "agency": "OnlineKhabar",
-      "title": "Nepali Congress nominates 11 women to central committee to meet one-third representation requirement",
-      "summary": "Kathmandu, November 25 The Nepali Congress has submitted the names of 11 women nominated to its central committee to the Election Commission, aiming to ensure that women make up at least one-third of the party’s central body. The party informed the commission ...",
-      "sourceName": "OnlineKhabar",
-      "sourceUrl": "https://english.onlinekhabar.com/nepali-congress-women-central-committee.html"
-    },
-    {
-      "id": "act-live-11",
-      "category": "Domestic & Ministries",
-      "time": "Nov 26, 2026",
-      "agency": "OnlineKhabar",
-      "title": "MPs call for stricter punishments for sexual violence offences",
-      "summary": "Kathmandu, November 25 Members of the House of Representatives have called for reforms to existing laws on sexual violence, saying the punishments prescribed for perpetrators are inadequate. They also said the bill proposed by the government to amend the Natio...",
-      "sourceName": "OnlineKhabar",
-      "sourceUrl": "https://english.onlinekhabar.com/mps-call-for-stricter-punishments-for-sexual-violence-offences.html"
     }
   ],
   "protests": [
