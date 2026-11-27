@@ -3,20 +3,30 @@
   "bsDate": "७ मंसिर २०८३, सोमबार",
   "leadDispatch": {
     "kicker": "Lead Dispatch • OnlineKhabar",
-    "title": "Ek Narayan Aryal fled to Kolkata a day before arrests in Rs 1.69 billion worker-fee scam",
-    "summary": "Kathmandu, November 26 Former Nepal government chief secretary Ek Narayan Aryal, who is accused of involvement in illegally collecting money from Nepali workers heading to Malaysia under the pretext of medical examinations and transferring the funds abroad, ha...",
+    "title": "RSP opposed ordinance rule in opposition. Now it governs by ordinances",
+    "summary": "Kathmandu, November 26 The government led by the Rastriya Swatantra Party (RSP) has increasingly relied on ordinances to amend existing laws, even as it commands a near two-thirds majority in Parliament, raising questions about its commitment to parliamentary ...",
     "primaryLinkText": "Read on OnlineKhabar",
-    "primaryLinkUrl": "https://english.onlinekhabar.com/ek-narayan-aryal-fled-to-kolkata.html"
+    "primaryLinkUrl": "https://english.onlinekhabar.com/rsp-ordinance-rule.html"
   },
   "breakingTicker": [
+    "RSP opposed ordinance rule in opposition. Now it governs by ordinances",
     "Ek Narayan Aryal fled to Kolkata a day before arrests in Rs 1.69 billion worker-fee scam",
     "PM Balendra Shah, RSP chair Rabi Lamichhane hold five-hour meeting",
-    "Nirmala Rai wins bronze at Asia-Pacific Trail Running Championships",
-    "Oli says PM Shah’s India visit was like a ‘private trip’, criticises failure to raise border disputes"
+    "Nirmala Rai wins bronze at Asia-Pacific Trail Running Championships"
   ],
   "activities": [
     {
       "id": "act-live-0",
+      "category": "Media & Civic",
+      "time": "Nov 27, 2026",
+      "agency": "OnlineKhabar",
+      "title": "RSP opposed ordinance rule in opposition. Now it governs by ordinances",
+      "summary": "Kathmandu, November 26 The government led by the Rastriya Swatantra Party (RSP) has increasingly relied on ordinances to amend existing laws, even as it commands a near two-thirds majority in Parliament, raising questions about its commitment to parliamentary ...",
+      "sourceName": "OnlineKhabar",
+      "sourceUrl": "https://english.onlinekhabar.com/rsp-ordinance-rule.html"
+    },
+    {
+      "id": "act-live-1",
       "category": "Judiciary & Law",
       "time": "Nov 27, 2026",
       "agency": "OnlineKhabar",
@@ -26,7 +36,7 @@
       "sourceUrl": "https://english.onlinekhabar.com/ek-narayan-aryal-fled-to-kolkata.html"
     },
     {
-      "id": "act-live-1",
+      "id": "act-live-2",
       "category": "Domestic & Ministries",
       "time": "Nov 27, 2026",
       "agency": "OnlineKhabar",
@@ -36,7 +46,7 @@
       "sourceUrl": "https://english.onlinekhabar.com/balen-lamichhane-five-hour-meet.html"
     },
     {
-      "id": "act-live-2",
+      "id": "act-live-3",
       "category": "Official & Diplomatic",
       "time": "Nov 27, 2026",
       "agency": "OnlineKhabar",
@@ -46,7 +56,7 @@
       "sourceUrl": "https://english.onlinekhabar.com/nirmala-rai-win-bronze-asia-pacific-trail-running.html"
     },
     {
-      "id": "act-live-3",
+      "id": "act-live-4",
       "category": "Official & Diplomatic",
       "time": "Nov 27, 2026",
       "agency": "OnlineKhabar",
@@ -56,7 +66,7 @@
       "sourceUrl": "https://english.onlinekhabar.com/oli-shah-india-private-trip.html"
     },
     {
-      "id": "act-live-4",
+      "id": "act-live-5",
       "category": "Official & Diplomatic",
       "time": "Nov 27, 2026",
       "agency": "OnlineKhabar",
@@ -66,7 +76,7 @@
       "sourceUrl": "https://english.onlinekhabar.com/bhim-rawal-accuses-pm-shah-of-compromising-national-interests-during-india-visit.html"
     },
     {
-      "id": "act-live-5",
+      "id": "act-live-6",
       "category": "Domestic & Ministries",
       "time": "Nov 27, 2026",
       "agency": "OnlineKhabar",
@@ -76,7 +86,7 @@
       "sourceUrl": "https://english.onlinekhabar.com/sobita-gautam-cabinet-hierarchy.html"
     },
     {
-      "id": "act-live-6",
+      "id": "act-live-7",
       "category": "Official & Diplomatic",
       "time": "Nov 27, 2026",
       "agency": "OnlineKhabar",
@@ -86,7 +96,7 @@
       "sourceUrl": "https://english.onlinekhabar.com/janamorcha-shah-compromise-national-interests-india-visit.html"
     },
     {
-      "id": "act-live-7",
+      "id": "act-live-8",
       "category": "Domestic & Ministries",
       "time": "Nov 27, 2026",
       "agency": "OnlineKhabar",
@@ -96,7 +106,7 @@
       "sourceUrl": "https://english.onlinekhabar.com/nepals-public-holidays-economic-growth.html"
     },
     {
-      "id": "act-live-8",
+      "id": "act-live-9",
       "category": "Domestic & Ministries",
       "time": "Nov 27, 2026",
       "agency": "OnlineKhabar",
@@ -106,7 +116,7 @@
       "sourceUrl": "https://english.onlinekhabar.com/nepse-falls-10-89-points-as-trading-turnover-declines.html"
     },
     {
-      "id": "act-live-9",
+      "id": "act-live-10",
       "category": "Domestic & Ministries",
       "time": "Nov 27, 2026",
       "agency": "OnlineKhabar",
@@ -116,7 +126,7 @@
       "sourceUrl": "https://english.onlinekhabar.com/students-turn-to-municipality-office-to-demand-teachers-at-school-in-achham.html"
     },
     {
-      "id": "act-live-10",
+      "id": "act-live-11",
       "category": "Domestic & Ministries",
       "time": "Nov 27, 2026",
       "agency": "OnlineKhabar",
@@ -124,16 +134,6 @@
       "summary": "Kathmandu, November 26 Energy, Water Resources and Irrigation Minister Biraj Bhakta Shrestha has said plans are underway to begin removing 3,000 kilograms of waste from Sisdol and Banchare Danda daily. Speaking at a testing programme for the biomethanation pla...",
       "sourceName": "OnlineKhabar",
       "sourceUrl": "https://english.onlinekhabar.com/plan-to-remove-3000-kg-of-waste-daily-from-sisdol-and-banchare-danda-minister-shrestha.html"
-    },
-    {
-      "id": "act-live-11",
-      "category": "Domestic & Ministries",
-      "time": "Nov 27, 2026",
-      "agency": "OnlineKhabar",
-      "title": "Social Security Fund a major hurdle to CIT’s fund mobilisation, says Executive Director Karki",
-      "summary": "Kathmandu, November 26 The Citizen Investment Trust (CIT) has identified the Social Security Fund as a major obstacle to mobilising its funds. Speaking at a meeting of the Finance Committee under the House of Representatives at Singha Durbar on Thursday, CIT E...",
-      "sourceName": "OnlineKhabar",
-      "sourceUrl": "https://english.onlinekhabar.com/social-security-fund-a-major-hurdle-to-cits-fund-mobilisation-says-executive-director-karki.html"
     }
   ],
   "protests": [
