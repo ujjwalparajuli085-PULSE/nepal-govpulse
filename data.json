@@ -3,20 +3,50 @@
   "bsDate": "७ मंसिर २०८३, सोमबार",
   "leadDispatch": {
     "kicker": "Lead Dispatch • OnlineKhabar",
-    "title": "NPL franchises agree to build home grounds under PPP model as league eyes multi-venue format",
-    "summary": "Kathmandu, November 26 Nepal Premier League (NPL) franchises have expressed willingness to build and operate their own cricket stadiums under a public-private partnership (PPP) model, following Prime Minister Balendra Shah’s aim to introduce a home-and-away fo...",
+    "title": "Bhotekoshi flood: Affected children to receive Rs 17,500 in monthly assistance",
+    "summary": "Rasuwa, November 27 The government has launched a long-term protection and care programme for children affected by the Bhotekoshi floods, beginning in Goljungbesi of Ward 5 of Aamachhodingmo Rural Municipality in Rasuwa. The programme was launched on Thursday ...",
     "primaryLinkText": "Read on OnlineKhabar",
-    "primaryLinkUrl": "https://english.onlinekhabar.com/npl-franchise-build-home-ground.html"
+    "primaryLinkUrl": "https://english.onlinekhabar.com/bhotekoshi-flood-affected-children-to-receive-rs-17500-in-monthly-assistance.html"
   },
   "breakingTicker": [
-    "NPL franchises agree to build home grounds under PPP model as league eyes multi-venue format",
-    "CIB gets missing file as investigation into Malaysia worker-fee scam deepens",
-    "RSP opposed ordinance rule in opposition. Now it governs by ordinances",
-    "Ek Narayan Aryal fled to Kolkata a day before arrests in Rs 1.69 billion worker-fee scam"
+    "Bhotekoshi flood: Affected children to receive Rs 17,500 in monthly assistance",
+    "Jail overcrowding in Jhapa exceeds twice its capacity",
+    "DNA matches offer hope to Rasuwa flood victims’ families, but body identification remains incomplete",
+    "NPL franchises agree to build home grounds under PPP model as league eyes multi-venue format"
   ],
   "activities": [
     {
       "id": "act-live-0",
+      "category": "Domestic & Ministries",
+      "time": "Nov 27, 2026",
+      "agency": "OnlineKhabar",
+      "title": "Bhotekoshi flood: Affected children to receive Rs 17,500 in monthly assistance",
+      "summary": "Rasuwa, November 27 The government has launched a long-term protection and care programme for children affected by the Bhotekoshi floods, beginning in Goljungbesi of Ward 5 of Aamachhodingmo Rural Municipality in Rasuwa. The programme was launched on Thursday ...",
+      "sourceName": "OnlineKhabar",
+      "sourceUrl": "https://english.onlinekhabar.com/bhotekoshi-flood-affected-children-to-receive-rs-17500-in-monthly-assistance.html"
+    },
+    {
+      "id": "act-live-1",
+      "category": "Domestic & Ministries",
+      "time": "Nov 27, 2026",
+      "agency": "OnlineKhabar",
+      "title": "Jail overcrowding in Jhapa exceeds twice its capacity",
+      "summary": "Jhapa, November 27 Jhapa Jail is holding more than twice the number of inmates it was designed to accommodate, with overcrowding in its 60-year-old building forcing inmates to live in difficult conditions. Jail Chief Purna Bahadur Khatri said the facility curr...",
+      "sourceName": "OnlineKhabar",
+      "sourceUrl": "https://english.onlinekhabar.com/jail-overcrowding-in-jhapa-exceeds-twice-its-capacity.html"
+    },
+    {
+      "id": "act-live-2",
+      "category": "Domestic & Ministries",
+      "time": "Nov 27, 2026",
+      "agency": "OnlineKhabar",
+      "title": "DNA matches offer hope to Rasuwa flood victims’ families, but body identification remains incomplete",
+      "summary": "Kathmandu, November 26 Three months after the devastating Bhotekoshi flood in Rasuwa, families of those who went missing are still waiting to receive their loved ones’ remains. DNA test results have offered some hope to families searching for missing relatives...",
+      "sourceName": "OnlineKhabar",
+      "sourceUrl": "https://english.onlinekhabar.com/dna-flood-victims-identification-incomplete.html"
+    },
+    {
+      "id": "act-live-3",
       "category": "Domestic & Ministries",
       "time": "Nov 27, 2026",
       "agency": "OnlineKhabar",
@@ -26,7 +56,7 @@
       "sourceUrl": "https://english.onlinekhabar.com/npl-franchise-build-home-ground.html"
     },
     {
-      "id": "act-live-1",
+      "id": "act-live-4",
       "category": "Judiciary & Law",
       "time": "Nov 27, 2026",
       "agency": "OnlineKhabar",
@@ -36,7 +66,7 @@
       "sourceUrl": "https://english.onlinekhabar.com/cib-get-missing-file-malaysia-scam.html"
     },
     {
-      "id": "act-live-2",
+      "id": "act-live-5",
       "category": "Media & Civic",
       "time": "Nov 27, 2026",
       "agency": "OnlineKhabar",
@@ -46,7 +76,7 @@
       "sourceUrl": "https://english.onlinekhabar.com/rsp-ordinance-rule.html"
     },
     {
-      "id": "act-live-3",
+      "id": "act-live-6",
       "category": "Judiciary & Law",
       "time": "Nov 27, 2026",
       "agency": "OnlineKhabar",
@@ -56,7 +86,7 @@
       "sourceUrl": "https://english.onlinekhabar.com/ek-narayan-aryal-fled-to-kolkata.html"
     },
     {
-      "id": "act-live-4",
+      "id": "act-live-7",
       "category": "Domestic & Ministries",
       "time": "Nov 27, 2026",
       "agency": "OnlineKhabar",
@@ -66,7 +96,7 @@
       "sourceUrl": "https://english.onlinekhabar.com/balen-lamichhane-five-hour-meet.html"
     },
     {
-      "id": "act-live-5",
+      "id": "act-live-8",
       "category": "Official & Diplomatic",
       "time": "Nov 27, 2026",
       "agency": "OnlineKhabar",
@@ -76,7 +106,7 @@
       "sourceUrl": "https://english.onlinekhabar.com/nirmala-rai-win-bronze-asia-pacific-trail-running.html"
     },
     {
-      "id": "act-live-6",
+      "id": "act-live-9",
       "category": "Official & Diplomatic",
       "time": "Nov 27, 2026",
       "agency": "OnlineKhabar",
@@ -86,7 +116,7 @@
       "sourceUrl": "https://english.onlinekhabar.com/oli-shah-india-private-trip.html"
     },
     {
-      "id": "act-live-7",
+      "id": "act-live-10",
       "category": "Official & Diplomatic",
       "time": "Nov 27, 2026",
       "agency": "OnlineKhabar",
@@ -96,7 +126,7 @@
       "sourceUrl": "https://english.onlinekhabar.com/bhim-rawal-accuses-pm-shah-of-compromising-national-interests-during-india-visit.html"
     },
     {
-      "id": "act-live-8",
+      "id": "act-live-11",
       "category": "Domestic & Ministries",
       "time": "Nov 27, 2026",
       "agency": "OnlineKhabar",
@@ -104,41 +134,11 @@
       "summary": "Kathmandu, November 26 President Ramchandra Paudel has revised the order of precedence of the Cabinet on the recommendation of Prime Minister Balendra Shah, moving Law, Justice and Parliamentary Affairs Minister Sobita Gautam from seventh to third position. Ga...",
       "sourceName": "OnlineKhabar",
       "sourceUrl": "https://english.onlinekhabar.com/sobita-gautam-cabinet-hierarchy.html"
-    },
-    {
-      "id": "act-live-9",
-      "category": "Official & Diplomatic",
-      "time": "Nov 27, 2026",
-      "agency": "OnlineKhabar",
-      "title": "Rastriya Janamorcha accuses PM Shah of compromising Nepal’s national interests during India visit",
-      "summary": "Kathmandu, November 26 The Rastriya Janamorcha has accused Prime Minister Balendra Shah of adopting a weak stance on issues concerning Nepal’s national sovereignty, territorial integrity and national interests during his recent visit to India. In a press state...",
-      "sourceName": "OnlineKhabar",
-      "sourceUrl": "https://english.onlinekhabar.com/janamorcha-shah-compromise-national-interests-india-visit.html"
-    },
-    {
-      "id": "act-live-10",
-      "category": "Domestic & Ministries",
-      "time": "Nov 27, 2026",
-      "agency": "OnlineKhabar",
-      "title": "Do Nepal’s public holidays come at the expense of economic growth?",
-      "summary": "Nepal has more public holidays than almost any other country. The Ministry of Home Affairs usually announces about 35 national public holidays a year in the Nepal Gazette. The typical country has 13, and Myanmar, at the top of a 2026 global count, has 30. That...",
-      "sourceName": "OnlineKhabar",
-      "sourceUrl": "https://english.onlinekhabar.com/nepals-public-holidays-economic-growth.html"
-    },
-    {
-      "id": "act-live-11",
-      "category": "Domestic & Ministries",
-      "time": "Nov 27, 2026",
-      "agency": "OnlineKhabar",
-      "title": "NEPSE falls 10.89 points as trading turnover declines",
-      "summary": "Kathmandu, November 26 The Nepal Stock Exchange (Nepse) index fell by 10.89 points on Thursday to close at 2,636 points. The index had gained 8.66 points on the previous trading day. Both the Nepse index and total turnover declined. Shares worth Rs 5.48 billio...",
-      "sourceName": "OnlineKhabar",
-      "sourceUrl": "https://english.onlinekhabar.com/nepse-falls-10-89-points-as-trading-turnover-declines.html"
     }
   ],
   "protests": [
     {
-      "id": "prot-live-19",
+      "id": "prot-live-23",
       "zone": "National / Kathmandu",
       "location": "Kathmandu / Nepal",
       "date": "Nov 27, 2026",
@@ -151,14 +151,14 @@
   ],
   "rumors": [
     {
-      "id": "rum-live-22",
+      "id": "rum-live-12",
       "status": "Active Controversy",
-      "title": "One arrested with 384 kg of fake honey in Kathmandu",
-      "circulatingOn": "Nepal News (Nov 25, 2026)",
-      "claim": "One arrested with 384 kg of fake honey in Kathmandu",
-      "verification": "KATHMANDU: Police have arrested one person for allegedly producing and distributing counterfeit honey mixed with inedible substances in Kathmandu. A team from the Kathmandu Metropolitan Police Range apprehended 44-year-old Laxman Gurung from the Bhandare area ...",
+      "title": "Araghchi calls Kuwait drone incident “precooked recipe for war”, denies Iran’s involvement in deaths of 2 Italians",
+      "circulatingOn": "Nepal News (Nov 27, 2026)",
+      "claim": "Araghchi calls Kuwait drone incident “precooked recipe for war”, denies Iran’s involvement in deaths of 2 Italians",
+      "verification": "TEHRAN: Iranian Foreign Minister Seyed Abbas Araghchi on Thursday expressed condolences over the deaths of two Italian citizens in a drone attack in Kuwait, describing the incident as suspicious and a possible “precooked recipe for war”, while denying Tehran’s...",
       "sourceName": "Nepal News",
-      "sourceUrl": "https://english.nepalnews.com/s/crime-news/one-arrested-with-384-kg-of-fake-honey-in-kathmandu/"
+      "sourceUrl": "https://english.nepalnews.com/s/international/araghchi-calls-kuwait-drone-incident-precooked-recipe-for-war-denies-irans-involvement-in-deaths-of-2-italians/"
     }
   ],
   "forexRates": [
