@@ -3,20 +3,90 @@
   "bsDate": "७ मंसिर २०८३, सोमबार",
   "leadDispatch": {
     "kicker": "Lead Dispatch • OnlineKhabar",
-    "title": "Bhotekoshi flood: 782 people, 409 vehicles hit in public transport sector",
-    "summary": "The details of human and physical losses to the public transport sector from the devastating flood in the Bhotekoshi River on August 26 have been made public. The damage assessment report was submitted today to Minister for Physical Infrastructure Sunil Lamsal...",
+    "title": "NEA invites bids from Indian companies to purchase 150 MW of electricity",
+    "summary": "Kathmandu, November 27 The Nepal Electricity Authority (NEA) has invited proposals from Indian power trading companies to purchase 150 megawatts (MW) of electricity from India. The authority has sought proposals through a competitive process to procure electri...",
     "primaryLinkText": "Read on OnlineKhabar",
-    "primaryLinkUrl": "https://english.onlinekhabar.com/bhotekoshi-782-public-transport.html"
+    "primaryLinkUrl": "https://english.onlinekhabar.com/nea-invites-bids-from-indian-companies-to-purchase-150-mw-of-electricity.html"
   },
   "breakingTicker": [
-    "Bhotekoshi flood: 782 people, 409 vehicles hit in public transport sector",
-    "Kulman Ghising urges government not to displace squatters without alternative arrangements",
-    "Nepal Reinsurance Company to issue 16.91 percent rights shares",
-    "10th National Games: Koshi beat Lumbini in football"
+    "NEA invites bids from Indian companies to purchase 150 MW of electricity",
+    "Squatters live in fear as authorities order them out of temporary shelters",
+    "Trump downplays China and Russia’s support to Iran",
+    "RSP delegation briefs Lamichhane on China trip"
   ],
   "activities": [
     {
       "id": "act-live-0",
+      "category": "Official & Diplomatic",
+      "time": "Nov 27, 2026",
+      "agency": "OnlineKhabar",
+      "title": "NEA invites bids from Indian companies to purchase 150 MW of electricity",
+      "summary": "Kathmandu, November 27 The Nepal Electricity Authority (NEA) has invited proposals from Indian power trading companies to purchase 150 megawatts (MW) of electricity from India. The authority has sought proposals through a competitive process to procure electri...",
+      "sourceName": "OnlineKhabar",
+      "sourceUrl": "https://english.onlinekhabar.com/nea-invites-bids-from-indian-companies-to-purchase-150-mw-of-electricity.html"
+    },
+    {
+      "id": "act-live-1",
+      "category": "Domestic & Ministries",
+      "time": "Nov 27, 2026",
+      "agency": "OnlineKhabar",
+      "title": "Squatters live in fear as authorities order them out of temporary shelters",
+      "summary": "Kathmandu, November 27 Landless families evicted from riverbank settlements in the Kathmandu Valley seven months ago are facing fresh uncertainty after authorities ordered those staying at a temporary shelter in Bode, Bhaktapur, to vacate the premises by Frida...",
+      "sourceName": "OnlineKhabar",
+      "sourceUrl": "https://english.onlinekhabar.com/squatters-live-in-fear-eviction.html"
+    },
+    {
+      "id": "act-live-2",
+      "category": "Official & Diplomatic",
+      "time": "Nov 27, 2026",
+      "agency": "OnlineKhabar",
+      "title": "Trump downplays China and Russia’s support to Iran",
+      "summary": "Washington, D.C., November 27 US President Donald Trump on Thursday downplayed the extent of Russia and China’s intelligence sharing with Iran, amid reports that Tehran’s allies have helped it target US military bases. Trump, speaking briefly to reporters at h...",
+      "sourceName": "OnlineKhabar",
+      "sourceUrl": "https://english.onlinekhabar.com/trump-china-russia-support-iran.html"
+    },
+    {
+      "id": "act-live-4",
+      "category": "Official & Diplomatic",
+      "time": "Nov 27, 2026",
+      "agency": "OnlineKhabar",
+      "title": "RSP delegation briefs Lamichhane on China trip",
+      "summary": "Kathmandu, November 27 Leaders of the ruling Rastriya Swatantra Party (RSP), who have returned from a visit to China, have met party Chair Rabi Lamichhane. At the meeting, General Secretary Bipin Kumar Acharya briefed Lamichhane on behalf of the delegation. Ac...",
+      "sourceName": "OnlineKhabar",
+      "sourceUrl": "https://english.onlinekhabar.com/rsp-team-returning-from-china.html"
+    },
+    {
+      "id": "act-live-5",
+      "category": "Domestic & Ministries",
+      "time": "Nov 27, 2026",
+      "agency": "OnlineKhabar",
+      "title": "Fines imposed during market monitoring must be paid within one month, or assets could be frozen",
+      "summary": "Kathmandu, November 27 The government has directed business firms, companies and establishments to deposit fines imposed during market monitoring into the government revenue account within one month. The Department of Commerce, Supply and Consumer Protection, ...",
+      "sourceName": "OnlineKhabar",
+      "sourceUrl": "https://english.onlinekhabar.com/fines-imposed-within-one-month.html"
+    },
+    {
+      "id": "act-live-6",
+      "category": "Judiciary & Law",
+      "time": "Nov 27, 2026",
+      "agency": "OnlineKhabar",
+      "title": "Illegal goods worth over Rs 750,000 seized, one arrested",
+      "summary": "Siraha, November 27 The Armed Police Force has seized illegal goods worth Rs 765,201 from various border areas of Siraha district. One youth has been arrested in the same operation. The arrested person is Durgesh Kumar Yadav, 18, of Budhaura in Siraha Municipa...",
+      "sourceName": "OnlineKhabar",
+      "sourceUrl": "https://english.onlinekhabar.com/goods-worth-over-rs-750000-seized.html"
+    },
+    {
+      "id": "act-live-7",
+      "category": "Domestic & Ministries",
+      "time": "Nov 27, 2026",
+      "agency": "OnlineKhabar",
+      "title": "Lumbini Development Trust gives 24-hour ultimatum to remove shops from prohibited areas",
+      "summary": "Kathmandu, November 27 The Lumbini Development Trust has directed that shops placed in prohibited areas within the Master Plan area be removed within 24 hours. In a public notice, the Trust drew attention to shops being operated or placed without its approval ...",
+      "sourceName": "OnlineKhabar",
+      "sourceUrl": "https://english.onlinekhabar.com/trust-gives-24-hour-ultimatum.html"
+    },
+    {
+      "id": "act-live-8",
       "category": "Domestic & Ministries",
       "time": "Nov 27, 2026",
       "agency": "OnlineKhabar",
@@ -26,7 +96,7 @@
       "sourceUrl": "https://english.onlinekhabar.com/bhotekoshi-782-public-transport.html"
     },
     {
-      "id": "act-live-1",
+      "id": "act-live-9",
       "category": "Domestic & Ministries",
       "time": "Nov 27, 2026",
       "agency": "OnlineKhabar",
@@ -36,7 +106,7 @@
       "sourceUrl": "https://english.onlinekhabar.com/ghising-urges-not-displace-squatters.html"
     },
     {
-      "id": "act-live-2",
+      "id": "act-live-10",
       "category": "Domestic & Ministries",
       "time": "Nov 27, 2026",
       "agency": "OnlineKhabar",
@@ -46,7 +116,7 @@
       "sourceUrl": "https://english.onlinekhabar.com/nepal-reinsurance-16-91-percent.html"
     },
     {
-      "id": "act-live-3",
+      "id": "act-live-11",
       "category": "Domestic & Ministries",
       "time": "Nov 27, 2026",
       "agency": "OnlineKhabar",
@@ -56,102 +126,32 @@
       "sourceUrl": "https://english.onlinekhabar.com/koshi-beat-lumbini-in-football.html"
     },
     {
-      "id": "act-live-4",
-      "category": "Judiciary & Law",
-      "time": "Nov 27, 2026",
-      "agency": "OnlineKhabar",
-      "title": "9 held for defaming women on social media under ‘Operation Digital Honor’",
-      "summary": "Kathmandu, November 27 Police have taken nine people into custody on charges of misusing social media for character assassination, blackmail and online abuse of women and girls. They were arrested under “Operation Digital Honor.” The operation was conducted by...",
-      "sourceName": "OnlineKhabar",
-      "sourceUrl": "https://english.onlinekhabar.com/under-operation-digital-honor.html"
-    },
-    {
-      "id": "act-live-5",
-      "category": "Judiciary & Law",
-      "time": "Nov 27, 2026",
-      "agency": "OnlineKhabar",
-      "title": "Government to launch special operation against manpower firms and consultancies",
-      "summary": "The government is set to launch a special operation against manpower companies and consultancies to curb fraud and labour exploitation in the name of foreign employment. Under directives from the Ministry of Home Affairs, Nepal Police will covertly gather info...",
-      "sourceName": "OnlineKhabar",
-      "sourceUrl": "https://english.onlinekhabar.com/special-operation-against-manpower.html"
-    },
-    {
-      "id": "act-live-6",
+      "id": "act-live-12",
       "category": "Domestic & Ministries",
       "time": "Nov 27, 2026",
-      "agency": "OnlineKhabar",
-      "title": "Shashank Koirala, Bimalendra Nidhi gear up for presidency contest in Deuba camp",
-      "summary": "As the 15th General Convention of the Nepali Congress Deuba faction draws near, two aspirants have emerged for the post of party president. Former president Sher Bahadur Deuba has said he wants the leadership to be chosen by consensus. Even so, two leaders in ...",
-      "sourceName": "OnlineKhabar",
-      "sourceUrl": "https://english.onlinekhabar.com/shashank-bimalendra-deuba-camp.html"
-    },
-    {
-      "id": "act-live-7",
-      "category": "Domestic & Ministries",
-      "time": "Nov 27, 2026",
-      "agency": "OnlineKhabar",
-      "title": "148 squatter families in Mayadevi Rural Municipality receive land ownership certificates",
-      "summary": "After 13 years, 148 squatter families in Ward 7 of Mayadevi Rural Municipality in Rupandehi have received land ownership certificates. The families live in the area that was formerly Hatibagai VDC-6. Their land was surveyed in 2013, but the certificates could ...",
-      "sourceName": "OnlineKhabar",
-      "sourceUrl": "https://english.onlinekhabar.com/148-squatter-land-ownership.html"
-    },
-    {
-      "id": "act-live-8",
-      "category": "Domestic & Ministries",
-      "time": "Nov 27, 2026",
-      "agency": "OnlineKhabar",
-      "title": "Guava price jumps by Rs 165 per kilo",
-      "summary": "Kathmandu, November 27 The price of guava has risen in the local market. Data from the Kalimati Fruits and Vegetable Market Development Committee shows that guava prices went up on Friday. The average wholesale price at Kalimati today is Rs 165 per kilo, highe...",
-      "sourceName": "OnlineKhabar",
-      "sourceUrl": "https://english.onlinekhabar.com/guava-price-jumps-by-rs-165-per-kilo.html"
-    },
-    {
-      "id": "act-live-9",
-      "category": "Judiciary & Law",
-      "time": "Nov 27, 2026",
-      "agency": "OnlineKhabar",
-      "title": "Absconding fraud suspect, son of former Maoist lawmaker, arrested in Sirha",
-      "summary": "Sirha, November 27 Santulan Kumar Yadav, son of former Maoist lawmaker Dilip Sah, has been arrested. He had been absconding in a fraud case. Police said the 27-year-old Yadav, a resident of Mirchaiya Municipality-6 in Sirha, was arrested at 9:50 pm on November...",
-      "sourceName": "OnlineKhabar",
-      "sourceUrl": "https://english.onlinekhabar.com/absconding-fraud-arrested-in-sirha.html"
-    },
-    {
-      "id": "act-live-10",
-      "category": "Domestic & Ministries",
-      "time": "Nov 27, 2026",
-      "agency": "OnlineKhabar",
-      "title": "Four labour ministers’ tenures linked to Rs 1.69 billion Malaysia fee transfers",
-      "summary": "Kathmandu, November 27 More than 750,000 Nepali workers heading to Malaysia were charged an unauthorised fee for medical examinations over four years, with approximately Rs 1.69 billion transferred to a Malaysian company, according to findings from an investig...",
-      "sourceName": "OnlineKhabar",
-      "sourceUrl": "https://english.onlinekhabar.com/four-labour-minister-malaysia-fee-transfers.html"
-    },
-    {
-      "id": "act-live-11",
-      "category": "Domestic & Ministries",
-      "time": "Nov 27, 2026",
-      "agency": "OnlineKhabar",
-      "title": "Gold price rises by Rs 3,300 per tola",
-      "summary": "Kathmandu, November 27 The price of gold has risen by Rs 3,300 per tola on Friday. The Federation of Nepal Gold and Silver Dealers’ Association has fixed the price at Rs 246,100 per tola for the day. On Thursday, gold was traded at Rs 242,800 per tola. The pri...",
-      "sourceName": "OnlineKhabar",
-      "sourceUrl": "https://english.onlinekhabar.com/gold-price-rises-by-rs-3300-per-tola.html"
+      "agency": "Nepal News",
+      "title": "Bhote Koshi flood survivor children to receive monthly stipend of Rs 17,400",
+      "summary": "RASUWA: The government has launched a long-term plan for the protection, care, and support of children affected by the devastating Bhotekoshi flood, starting from Aama Chhodingmo Rural Municipality-5, Goljungbesi in Rasuwa. The plan began on Thursday by provid...",
+      "sourceName": "Nepal News",
+      "sourceUrl": "https://english.nepalnews.com/s/nation/bhote-koshi-flood-survivor-children-to-receive-monthly-stipend-of-rs-17400/"
     }
   ],
   "protests": [
     {
-      "id": "prot-live-8",
+      "id": "prot-live-3",
       "zone": "National / Kathmandu",
       "location": "Kathmandu / Nepal",
       "date": "Nov 27, 2026",
-      "group": "One Nepali killed and three injured in airstrike in Saudi Arabia",
-      "demand": "Kathmandu, November 27 A Nepali worker has been killed in an airstrike in Saudi Arabia, while three other Nepalis have been injured. Lok Bahadur Paudel Chhetri, spokesperson for the Ministry of Foreign Affairs, said on Thursday that the ministry had received i...",
+      "group": "NAST employees protest ordinance, demand Minister Mahabir Pun’s resignation",
+      "demand": "Kathmandu, November 27 Employees of the Nepal Academy of Science and Technology (NAST) have launched a protest. On Friday, they demonstrated against an ordinance brought, they said, without any discussion with stakeholders on the academy’s act and regulations....",
       "status": "Reported Today",
       "sourceName": "OnlineKhabar",
-      "sourceUrl": "https://english.onlinekhabar.com/one-nepali-killed-and-three-injured-in-airstrike-in-saudi-arabia.html"
+      "sourceUrl": "https://english.onlinekhabar.com/nast-employees-protest-ordinance-demand-minister-mahabir-puns-resignation.html"
     }
   ],
   "rumors": [
     {
-      "id": "rum-live-16",
+      "id": "rum-live-17",
       "status": "Active Controversy",
       "title": "Araghchi calls Kuwait drone incident “precooked recipe for war”, denies Iran’s involvement in deaths of 2 Italians",
       "circulatingOn": "Nepal News (Nov 27, 2026)",
