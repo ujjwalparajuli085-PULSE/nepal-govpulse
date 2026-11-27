@@ -3,20 +3,70 @@
   "bsDate": "७ मंसिर २०८३, सोमबार",
   "leadDispatch": {
     "kicker": "Lead Dispatch • OnlineKhabar",
-    "title": "NEA invites bids from Indian companies to purchase 150 MW of electricity",
-    "summary": "Kathmandu, November 27 The Nepal Electricity Authority (NEA) has invited proposals from Indian power trading companies to purchase 150 megawatts (MW) of electricity from India. The authority has sought proposals through a competitive process to procure electri...",
+    "title": "Padma Aryal says elections remain tainted by money, muscle and media influence",
+    "summary": "Kathmandu, November 27 CPN-UML Secretary and lawmaker Padma Aryal has alleged that Nepal’s electoral system remains vulnerable to fraud and booth capture, claiming she has evidence of irregularities from an election in which an unusually high 99 percent of vot...",
     "primaryLinkText": "Read on OnlineKhabar",
-    "primaryLinkUrl": "https://english.onlinekhabar.com/nea-invites-bids-from-indian-companies-to-purchase-150-mw-of-electricity.html"
+    "primaryLinkUrl": "https://english.onlinekhabar.com/padma-aryal-questions-election-integrity.html"
   },
   "breakingTicker": [
-    "NEA invites bids from Indian companies to purchase 150 MW of electricity",
-    "Squatters live in fear as authorities order them out of temporary shelters",
-    "Trump downplays China and Russia’s support to Iran",
-    "RSP delegation briefs Lamichhane on China trip"
+    "Padma Aryal says elections remain tainted by money, muscle and media influence",
+    "TU gives seven-day ultimatum to vacate university land",
+    "CIAA to investigate Rs 200 million fee embezzlement at RRM Campus",
+    "Rs 200 million student fee scandal at TU’s RRM Campus now under CIAA scrutiny"
   ],
   "activities": [
     {
       "id": "act-live-0",
+      "category": "Media & Civic",
+      "time": "Nov 27, 2026",
+      "agency": "OnlineKhabar",
+      "title": "Padma Aryal says elections remain tainted by money, muscle and media influence",
+      "summary": "Kathmandu, November 27 CPN-UML Secretary and lawmaker Padma Aryal has alleged that Nepal’s electoral system remains vulnerable to fraud and booth capture, claiming she has evidence of irregularities from an election in which an unusually high 99 percent of vot...",
+      "sourceName": "OnlineKhabar",
+      "sourceUrl": "https://english.onlinekhabar.com/padma-aryal-questions-election-integrity.html"
+    },
+    {
+      "id": "act-live-1",
+      "category": "Domestic & Ministries",
+      "time": "Nov 27, 2026",
+      "agency": "OnlineKhabar",
+      "title": "TU gives seven-day ultimatum to vacate university land",
+      "summary": "Kathmandu, November 27 Tribhuvan University (TU) has issued a final seven-day ultimatum to those occupying its land illegally to vacate the premises, warning that it may use force to remove them if they fail to comply. TU Registrar Dr Rabindra Shivakoti said t...",
+      "sourceName": "OnlineKhabar",
+      "sourceUrl": "https://english.onlinekhabar.com/tu-seven-day-ultimatum-vacate-university-land.html"
+    },
+    {
+      "id": "act-live-2",
+      "category": "Judiciary & Law",
+      "time": "Nov 27, 2026",
+      "agency": "OnlineKhabar",
+      "title": "CIAA to investigate Rs 200 million fee embezzlement at RRM Campus",
+      "summary": "Kathmandu, November 27 The file concerning an alleged fee embezzlement scandal at Tribhuvan University’s Ram Sagar Ram Swaroop (RRM) Multiple Campus (RRMC), in Janakpurdham, Dhanusha, has been forwarded to the Commission for the Investigation of Abuse of Autho...",
+      "sourceName": "OnlineKhabar",
+      "sourceUrl": "https://english.onlinekhabar.com/ciaa-to-investigate-rs-200-million-fee-embezzlement-at-rrm-campus.html"
+    },
+    {
+      "id": "act-live-3",
+      "category": "Judiciary & Law",
+      "time": "Nov 27, 2026",
+      "agency": "OnlineKhabar",
+      "title": "Rs 200 million student fee scandal at TU’s RRM Campus now under CIAA scrutiny",
+      "summary": "Kathmandu, November 27 Tribhuvan University (TU) has referred an investigation report on alleged embezzlement of more than Rs 200 million in student fees at its Ramasagar Ramswaroop (RRM) Multiple Campus in Janakpurdham, Dhanusha, to the Commission for the Inv...",
+      "sourceName": "OnlineKhabar",
+      "sourceUrl": "https://english.onlinekhabar.com/fee-scandal-rrm-campus-ciaa.html"
+    },
+    {
+      "id": "act-live-4",
+      "category": "Domestic & Ministries",
+      "time": "Nov 27, 2026",
+      "agency": "OnlineKhabar",
+      "title": "Rastriya Swatantra Party Chair Rabi Lamichhane meets President",
+      "summary": "Kathmandu, November 27 Rabi Lamichhane, chairperson of the Rastriya Swatantra Party (RSP), has met President Ramchandra Paudel. According to the President’s Private Secretariat, the meeting took place at Sheetal Niwas on Friday, during which they discussed con...",
+      "sourceName": "OnlineKhabar",
+      "sourceUrl": "https://english.onlinekhabar.com/rastriya-swatantra-party-chair-rabi-lamichhane-meets-president.html"
+    },
+    {
+      "id": "act-live-5",
       "category": "Official & Diplomatic",
       "time": "Nov 27, 2026",
       "agency": "OnlineKhabar",
@@ -26,7 +76,7 @@
       "sourceUrl": "https://english.onlinekhabar.com/nea-invites-bids-from-indian-companies-to-purchase-150-mw-of-electricity.html"
     },
     {
-      "id": "act-live-1",
+      "id": "act-live-6",
       "category": "Domestic & Ministries",
       "time": "Nov 27, 2026",
       "agency": "OnlineKhabar",
@@ -36,7 +86,7 @@
       "sourceUrl": "https://english.onlinekhabar.com/squatters-live-in-fear-eviction.html"
     },
     {
-      "id": "act-live-2",
+      "id": "act-live-7",
       "category": "Official & Diplomatic",
       "time": "Nov 27, 2026",
       "agency": "OnlineKhabar",
@@ -46,7 +96,7 @@
       "sourceUrl": "https://english.onlinekhabar.com/trump-china-russia-support-iran.html"
     },
     {
-      "id": "act-live-4",
+      "id": "act-live-9",
       "category": "Official & Diplomatic",
       "time": "Nov 27, 2026",
       "agency": "OnlineKhabar",
@@ -56,7 +106,7 @@
       "sourceUrl": "https://english.onlinekhabar.com/rsp-team-returning-from-china.html"
     },
     {
-      "id": "act-live-5",
+      "id": "act-live-10",
       "category": "Domestic & Ministries",
       "time": "Nov 27, 2026",
       "agency": "OnlineKhabar",
@@ -66,7 +116,7 @@
       "sourceUrl": "https://english.onlinekhabar.com/fines-imposed-within-one-month.html"
     },
     {
-      "id": "act-live-6",
+      "id": "act-live-11",
       "category": "Judiciary & Law",
       "time": "Nov 27, 2026",
       "agency": "OnlineKhabar",
@@ -76,69 +126,19 @@
       "sourceUrl": "https://english.onlinekhabar.com/goods-worth-over-rs-750000-seized.html"
     },
     {
-      "id": "act-live-7",
-      "category": "Domestic & Ministries",
-      "time": "Nov 27, 2026",
-      "agency": "OnlineKhabar",
-      "title": "Lumbini Development Trust gives 24-hour ultimatum to remove shops from prohibited areas",
-      "summary": "Kathmandu, November 27 The Lumbini Development Trust has directed that shops placed in prohibited areas within the Master Plan area be removed within 24 hours. In a public notice, the Trust drew attention to shops being operated or placed without its approval ...",
-      "sourceName": "OnlineKhabar",
-      "sourceUrl": "https://english.onlinekhabar.com/trust-gives-24-hour-ultimatum.html"
-    },
-    {
-      "id": "act-live-8",
-      "category": "Domestic & Ministries",
-      "time": "Nov 27, 2026",
-      "agency": "OnlineKhabar",
-      "title": "Bhotekoshi flood: 782 people, 409 vehicles hit in public transport sector",
-      "summary": "The details of human and physical losses to the public transport sector from the devastating flood in the Bhotekoshi River on August 26 have been made public. The damage assessment report was submitted today to Minister for Physical Infrastructure Sunil Lamsal...",
-      "sourceName": "OnlineKhabar",
-      "sourceUrl": "https://english.onlinekhabar.com/bhotekoshi-782-public-transport.html"
-    },
-    {
-      "id": "act-live-9",
-      "category": "Domestic & Ministries",
-      "time": "Nov 27, 2026",
-      "agency": "OnlineKhabar",
-      "title": "Kulman Ghising urges government not to displace squatters without alternative arrangements",
-      "summary": "Kathmandu, November 27 Ujyaalo Nepal Party Chair Kulman Ghising has urged the government not to displace squatter families without arranging alternative housing. Ghising appealed after an order was issued to vacate the Agricultural Development Bank training ce...",
-      "sourceName": "OnlineKhabar",
-      "sourceUrl": "https://english.onlinekhabar.com/ghising-urges-not-displace-squatters.html"
-    },
-    {
-      "id": "act-live-10",
-      "category": "Domestic & Ministries",
-      "time": "Nov 27, 2026",
-      "agency": "OnlineKhabar",
-      "title": "Nepal Reinsurance Company to issue 16.91 percent rights shares",
-      "summary": "Kathmandu, November 27 Nepal Reinsurance Company is set to issue rights shares equivalent to 16.9176 percent of its existing capital. The company is issuing the rights shares to raise its paid-up capital to Rs 20 billion. A board of directors meeting held toda...",
-      "sourceName": "OnlineKhabar",
-      "sourceUrl": "https://english.onlinekhabar.com/nepal-reinsurance-16-91-percent.html"
-    },
-    {
-      "id": "act-live-11",
-      "category": "Domestic & Ministries",
-      "time": "Nov 27, 2026",
-      "agency": "OnlineKhabar",
-      "title": "10th National Games: Koshi beat Lumbini in football",
-      "summary": "Surkhet, November 27 Koshi Province defeated Lumbini Province 4-1 in the first match of the day on Friday morning. It was the seventh match of the men’s football event at the 10th National Games. Milan Rai scored twice for Koshi, in the 12th and 32nd minutes. ...",
-      "sourceName": "OnlineKhabar",
-      "sourceUrl": "https://english.onlinekhabar.com/koshi-beat-lumbini-in-football.html"
-    },
-    {
       "id": "act-live-12",
-      "category": "Domestic & Ministries",
+      "category": "Judiciary & Law",
       "time": "Nov 27, 2026",
       "agency": "Nepal News",
-      "title": "Bhote Koshi flood survivor children to receive monthly stipend of Rs 17,400",
-      "summary": "RASUWA: The government has launched a long-term plan for the protection, care, and support of children affected by the devastating Bhotekoshi flood, starting from Aama Chhodingmo Rural Municipality-5, Goljungbesi in Rasuwa. The plan began on Thursday by provid...",
+      "title": "Two Chinese nationals nabbed with unaccounted money",
+      "summary": "KATHMANDU: A police team on regular patrol arrested two Chinese citizens from Bhotekoshi Rural Municipality-2 in possession of unaccounted money, 1.6 million Nepali currency and 66,950 Chinese Yuan. According to the Central Police News Desk, the police team de...",
       "sourceName": "Nepal News",
-      "sourceUrl": "https://english.nepalnews.com/s/nation/bhote-koshi-flood-survivor-children-to-receive-monthly-stipend-of-rs-17400/"
+      "sourceUrl": "https://english.nepalnews.com/s/crime-news/two-chinese-nationals-nabbed-with-unaccounted-money/"
     }
   ],
   "protests": [
     {
-      "id": "prot-live-3",
+      "id": "prot-live-8",
       "zone": "National / Kathmandu",
       "location": "Kathmandu / Nepal",
       "date": "Nov 27, 2026",
@@ -151,7 +151,7 @@
   ],
   "rumors": [
     {
-      "id": "rum-live-17",
+      "id": "rum-live-21",
       "status": "Active Controversy",
       "title": "Araghchi calls Kuwait drone incident “precooked recipe for war”, denies Iran’s involvement in deaths of 2 Italians",
       "circulatingOn": "Nepal News (Nov 27, 2026)",
