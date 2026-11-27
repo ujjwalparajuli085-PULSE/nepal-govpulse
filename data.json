@@ -3,20 +3,30 @@
   "bsDate": "७ मंसिर २०८३, सोमबार",
   "leadDispatch": {
     "kicker": "Lead Dispatch • OnlineKhabar",
-    "title": "RSP lawmaker seeks equal protocol ranking for all metropolitan mayors and deputy mayors",
-    "summary": "Kathmandu, November 27 Rastriya Swatantra Party (RSP) lawmaker Yagyamani Neupane has called for equal national protocol rankings for the mayors and deputy mayors of all metropolitan cities, arguing that the existing arrangement places Kathmandu’s elected repre...",
+    "title": "Inam Sapkota alleges police torture, coercion in complaint to NHRC",
+    "summary": "Kathmandu, November 27 Inam Sapkota, who was arrested on allegations of acting as a fixer for high-profile individuals and facilitating illicit dealings, has filed a complaint with the National Human Rights Commission (NHRC), alleging that police subjected him...",
     "primaryLinkText": "Read on OnlineKhabar",
-    "primaryLinkUrl": "https://english.onlinekhabar.com/rsp-lawmaker-seeks-equal-protocol-ranking-for-all-metropolitan-mayors-and-deputy-mayors.html"
+    "primaryLinkUrl": "https://english.onlinekhabar.com/inam-sapkota-torture-complaint-nhrc.html"
   },
   "breakingTicker": [
+    "Inam Sapkota alleges police torture, coercion in complaint to NHRC",
     "RSP lawmaker seeks equal protocol ranking for all metropolitan mayors and deputy mayors",
     "Three new teams from Dharan, Birgunj and Surkhet complete lineup for Nepal Football League",
-    "Complaint filed with Human Rights Commission seeking protection of Inam Sapkota in police custody",
-    "PM Balen briefs President Paudel on India visit, seeks approval for three pending ordinances"
+    "Complaint filed with Human Rights Commission seeking protection of Inam Sapkota in police custody"
   ],
   "activities": [
     {
       "id": "act-live-0",
+      "category": "Judiciary & Law",
+      "time": "Nov 27, 2026",
+      "agency": "OnlineKhabar",
+      "title": "Inam Sapkota alleges police torture, coercion in complaint to NHRC",
+      "summary": "Kathmandu, November 27 Inam Sapkota, who was arrested on allegations of acting as a fixer for high-profile individuals and facilitating illicit dealings, has filed a complaint with the National Human Rights Commission (NHRC), alleging that police subjected him...",
+      "sourceName": "OnlineKhabar",
+      "sourceUrl": "https://english.onlinekhabar.com/inam-sapkota-torture-complaint-nhrc.html"
+    },
+    {
+      "id": "act-live-1",
       "category": "Domestic & Ministries",
       "time": "Nov 27, 2026",
       "agency": "OnlineKhabar",
@@ -26,7 +36,7 @@
       "sourceUrl": "https://english.onlinekhabar.com/rsp-lawmaker-seeks-equal-protocol-ranking-for-all-metropolitan-mayors-and-deputy-mayors.html"
     },
     {
-      "id": "act-live-1",
+      "id": "act-live-2",
       "category": "Domestic & Ministries",
       "time": "Nov 27, 2026",
       "agency": "OnlineKhabar",
@@ -36,7 +46,7 @@
       "sourceUrl": "https://english.onlinekhabar.com/dharan-birgunj-surkhet-nepal-football-league.html"
     },
     {
-      "id": "act-live-2",
+      "id": "act-live-3",
       "category": "Judiciary & Law",
       "time": "Nov 27, 2026",
       "agency": "OnlineKhabar",
@@ -46,7 +56,7 @@
       "sourceUrl": "https://english.onlinekhabar.com/complaint-nhrc-inam-sapkota-safety.html"
     },
     {
-      "id": "act-live-3",
+      "id": "act-live-4",
       "category": "Judiciary & Law",
       "time": "Nov 27, 2026",
       "agency": "OnlineKhabar",
@@ -56,7 +66,7 @@
       "sourceUrl": "https://english.onlinekhabar.com/balen-briefs-paudel-india-visit-ordinance.html"
     },
     {
-      "id": "act-live-4",
+      "id": "act-live-5",
       "category": "Judiciary & Law",
       "time": "Nov 27, 2026",
       "agency": "OnlineKhabar",
@@ -66,7 +76,7 @@
       "sourceUrl": "https://english.onlinekhabar.com/court-extends-former-chief-secretary-ek-narayan-aryals-detention-by-four-days.html"
     },
     {
-      "id": "act-live-5",
+      "id": "act-live-6",
       "category": "Domestic & Ministries",
       "time": "Nov 27, 2026",
       "agency": "OnlineKhabar",
@@ -76,7 +86,7 @@
       "sourceUrl": "https://english.onlinekhabar.com/rsp-press-govt-start-parliament.html"
     },
     {
-      "id": "act-live-7",
+      "id": "act-live-8",
       "category": "Domestic & Ministries",
       "time": "Nov 27, 2026",
       "agency": "OnlineKhabar",
@@ -86,7 +96,7 @@
       "sourceUrl": "https://english.onlinekhabar.com/threat-to-bomb-amitabh-bachchans-home-for-fifth-time.html"
     },
     {
-      "id": "act-live-8",
+      "id": "act-live-9",
       "category": "Domestic & Ministries",
       "time": "Nov 27, 2026",
       "agency": "OnlineKhabar",
@@ -96,7 +106,7 @@
       "sourceUrl": "https://english.onlinekhabar.com/olympic-torch-and-trophy-tour-for-10th-national-games-begins-in-dailekh.html"
     },
     {
-      "id": "act-live-9",
+      "id": "act-live-10",
       "category": "Domestic & Ministries",
       "time": "Nov 27, 2026",
       "agency": "OnlineKhabar",
@@ -106,7 +116,7 @@
       "sourceUrl": "https://english.onlinekhabar.com/kausi-theatre-to-stage-play-bishwantar-based-on-buddhist-jataka-tale.html"
     },
     {
-      "id": "act-live-10",
+      "id": "act-live-11",
       "category": "Domestic & Ministries",
       "time": "Nov 27, 2026",
       "agency": "OnlineKhabar",
@@ -116,29 +126,19 @@
       "sourceUrl": "https://english.onlinekhabar.com/deuba-faction-appoints-coordinators-for-five-convention-committees.html"
     },
     {
-      "id": "act-live-11",
-      "category": "Domestic & Ministries",
-      "time": "Nov 27, 2026",
-      "agency": "OnlineKhabar",
-      "title": "NEPSE: Banking and non-life insurance gain despite falling share market",
-      "summary": "Kathmandu, November 27 The Nepal Stock Exchange (NEPSE) index fell by 8.57 points on Friday, closing at 2,628 points. The index had also declined by 10.89 points the previous day. Trading volume also decreased along with the NEPSE index. Transactions worth Rs ...",
-      "sourceName": "OnlineKhabar",
-      "sourceUrl": "https://english.onlinekhabar.com/nepse-banking-and-non-life-insurance-gain-despite-falling-share-market.html"
-    },
-    {
       "id": "act-live-12",
-      "category": "Domestic & Ministries",
+      "category": "Official & Diplomatic",
       "time": "Nov 27, 2026",
       "agency": "Nepal News",
-      "title": "SSF coverage to informal sector workers: Minister Badi",
-      "summary": "KATHMANDU: The government has advanced a process to widen the Social Security Fund (SSF) coverage by including contract-based employees of federal government, relief and temporary teachers, child development facilitators and workers engaged in the informal sec...",
+      "title": "Minister Pun inspects Hetauda textile industry",
+      "summary": "HETAUDA: Minister for Science, Technology and Innovation Mahabir Pun visited the Hetauda Textile Industry located in the industrial estate of Hetauda Sub-metropolitan City-8. The facility, which has been closed since 2000, is currently undergoing test producti...",
       "sourceName": "Nepal News",
-      "sourceUrl": "https://english.nepalnews.com/s/nation/ssf-coverage-to-informal-sector-workers-minister-badi/"
+      "sourceUrl": "https://english.nepalnews.com/s/business/minister-pun-inspects-hetauda-textile-industry/"
     }
   ],
   "protests": [
     {
-      "id": "prot-live-6",
+      "id": "prot-live-7",
       "zone": "National / Kathmandu",
       "location": "Kathmandu / Nepal",
       "date": "Nov 27, 2026",
