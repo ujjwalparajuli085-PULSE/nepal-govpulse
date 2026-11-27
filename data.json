@@ -3,30 +3,60 @@
   "bsDate": "७ मंसिर २०८३, सोमबार",
   "leadDispatch": {
     "kicker": "Lead Dispatch • OnlineKhabar",
-    "title": "PM Balen briefs President Paudel on India visit, seeks approval for three pending ordinances",
-    "summary": "Kathmandu, November 27 Prime Minister Balendra Shah met President Ramchandra Paudel on Friday, three days after returning from his visit to India, following criticism for not paying a courtesy call on the President before leaving the country. During the meetin...",
+    "title": "RSP lawmaker seeks equal protocol ranking for all metropolitan mayors and deputy mayors",
+    "summary": "Kathmandu, November 27 Rastriya Swatantra Party (RSP) lawmaker Yagyamani Neupane has called for equal national protocol rankings for the mayors and deputy mayors of all metropolitan cities, arguing that the existing arrangement places Kathmandu’s elected repre...",
     "primaryLinkText": "Read on OnlineKhabar",
-    "primaryLinkUrl": "https://english.onlinekhabar.com/balen-briefs-paudel-india-visit-ordinance.html"
+    "primaryLinkUrl": "https://english.onlinekhabar.com/rsp-lawmaker-seeks-equal-protocol-ranking-for-all-metropolitan-mayors-and-deputy-mayors.html"
   },
   "breakingTicker": [
-    "PM Balen briefs President Paudel on India visit, seeks approval for three pending ordinances",
-    "Court extends former chief secretary Ek Narayan Aryal’s detention by four days",
-    "RSP leaders press government to convene Parliament session without delay",
-    "Threat to bomb Amitabh Bachchan’s home for fifth time"
+    "RSP lawmaker seeks equal protocol ranking for all metropolitan mayors and deputy mayors",
+    "Three new teams from Dharan, Birgunj and Surkhet complete lineup for Nepal Football League",
+    "Complaint filed with Human Rights Commission seeking protection of Inam Sapkota in police custody",
+    "PM Balen briefs President Paudel on India visit, seeks approval for three pending ordinances"
   ],
   "activities": [
     {
       "id": "act-live-0",
+      "category": "Domestic & Ministries",
+      "time": "Nov 27, 2026",
+      "agency": "OnlineKhabar",
+      "title": "RSP lawmaker seeks equal protocol ranking for all metropolitan mayors and deputy mayors",
+      "summary": "Kathmandu, November 27 Rastriya Swatantra Party (RSP) lawmaker Yagyamani Neupane has called for equal national protocol rankings for the mayors and deputy mayors of all metropolitan cities, arguing that the existing arrangement places Kathmandu’s elected repre...",
+      "sourceName": "OnlineKhabar",
+      "sourceUrl": "https://english.onlinekhabar.com/rsp-lawmaker-seeks-equal-protocol-ranking-for-all-metropolitan-mayors-and-deputy-mayors.html"
+    },
+    {
+      "id": "act-live-1",
+      "category": "Domestic & Ministries",
+      "time": "Nov 27, 2026",
+      "agency": "OnlineKhabar",
+      "title": "Three new teams from Dharan, Birgunj and Surkhet complete lineup for Nepal Football League",
+      "summary": "Kathmandu, November 27 The lineup for the inaugural Nepal Football League (NFL) has been finalised, with teams representing Dharan, Birgunj and Surkhet selected to join the competition, bringing the total number of participating teams to 10. Nepal Football Lea...",
+      "sourceName": "OnlineKhabar",
+      "sourceUrl": "https://english.onlinekhabar.com/dharan-birgunj-surkhet-nepal-football-league.html"
+    },
+    {
+      "id": "act-live-2",
+      "category": "Judiciary & Law",
+      "time": "Nov 27, 2026",
+      "agency": "OnlineKhabar",
+      "title": "Complaint filed with Human Rights Commission seeking protection of Inam Sapkota in police custody",
+      "summary": "Kathmandu, November 27 A complaint has been filed with the National Human Rights Commission (NHRC), seeking protection of the human rights of Inam Sapkota, who is currently in police custody. The commission confirmed that the complaint was received and registe...",
+      "sourceName": "OnlineKhabar",
+      "sourceUrl": "https://english.onlinekhabar.com/complaint-nhrc-inam-sapkota-safety.html"
+    },
+    {
+      "id": "act-live-3",
       "category": "Judiciary & Law",
       "time": "Nov 27, 2026",
       "agency": "OnlineKhabar",
       "title": "PM Balen briefs President Paudel on India visit, seeks approval for three pending ordinances",
-      "summary": "Kathmandu, November 27 Prime Minister Balendra Shah met President Ramchandra Paudel on Friday, three days after returning from his visit to India, following criticism for not paying a courtesy call on the President before leaving the country. During the meetin...",
+      "summary": "Kathmandu, November 27 Prime Minister Balendra Shah met President Ramchandra Paudel on Friday, four days after returning from his visit to India, following criticism for not paying a courtesy call on the President before leaving the country. During the meeting...",
       "sourceName": "OnlineKhabar",
       "sourceUrl": "https://english.onlinekhabar.com/balen-briefs-paudel-india-visit-ordinance.html"
     },
     {
-      "id": "act-live-1",
+      "id": "act-live-4",
       "category": "Judiciary & Law",
       "time": "Nov 27, 2026",
       "agency": "OnlineKhabar",
@@ -36,7 +66,7 @@
       "sourceUrl": "https://english.onlinekhabar.com/court-extends-former-chief-secretary-ek-narayan-aryals-detention-by-four-days.html"
     },
     {
-      "id": "act-live-2",
+      "id": "act-live-5",
       "category": "Domestic & Ministries",
       "time": "Nov 27, 2026",
       "agency": "OnlineKhabar",
@@ -46,7 +76,7 @@
       "sourceUrl": "https://english.onlinekhabar.com/rsp-press-govt-start-parliament.html"
     },
     {
-      "id": "act-live-4",
+      "id": "act-live-7",
       "category": "Domestic & Ministries",
       "time": "Nov 27, 2026",
       "agency": "OnlineKhabar",
@@ -56,7 +86,7 @@
       "sourceUrl": "https://english.onlinekhabar.com/threat-to-bomb-amitabh-bachchans-home-for-fifth-time.html"
     },
     {
-      "id": "act-live-5",
+      "id": "act-live-8",
       "category": "Domestic & Ministries",
       "time": "Nov 27, 2026",
       "agency": "OnlineKhabar",
@@ -66,7 +96,7 @@
       "sourceUrl": "https://english.onlinekhabar.com/olympic-torch-and-trophy-tour-for-10th-national-games-begins-in-dailekh.html"
     },
     {
-      "id": "act-live-6",
+      "id": "act-live-9",
       "category": "Domestic & Ministries",
       "time": "Nov 27, 2026",
       "agency": "OnlineKhabar",
@@ -76,7 +106,7 @@
       "sourceUrl": "https://english.onlinekhabar.com/kausi-theatre-to-stage-play-bishwantar-based-on-buddhist-jataka-tale.html"
     },
     {
-      "id": "act-live-7",
+      "id": "act-live-10",
       "category": "Domestic & Ministries",
       "time": "Nov 27, 2026",
       "agency": "OnlineKhabar",
@@ -86,7 +116,7 @@
       "sourceUrl": "https://english.onlinekhabar.com/deuba-faction-appoints-coordinators-for-five-convention-committees.html"
     },
     {
-      "id": "act-live-8",
+      "id": "act-live-11",
       "category": "Domestic & Ministries",
       "time": "Nov 27, 2026",
       "agency": "OnlineKhabar",
@@ -96,49 +126,19 @@
       "sourceUrl": "https://english.onlinekhabar.com/nepse-banking-and-non-life-insurance-gain-despite-falling-share-market.html"
     },
     {
-      "id": "act-live-9",
-      "category": "Official & Diplomatic",
-      "time": "Nov 27, 2026",
-      "agency": "OnlineKhabar",
-      "title": "PM Balen meets President Paudel after returning from India",
-      "summary": "Kathmandu, November 27 Prime Minister Balendra Shah met President Ram Chandra Paudel at Sheetal Niwas on Friday, four days after returning from his official visit to India. Shah visited the President shortly after holding a meeting with Rastriya Swatantra Part...",
-      "sourceName": "OnlineKhabar",
-      "sourceUrl": "https://english.onlinekhabar.com/pm-balen-meets-president-paudel-after-returning-from-india.html"
-    },
-    {
-      "id": "act-live-10",
-      "category": "Domestic & Ministries",
-      "time": "Nov 27, 2026",
-      "agency": "OnlineKhabar",
-      "title": "Insurance payouts complicated as vehicles damaged in Bhotekoshi floods remain missing",
-      "summary": "Kathmandu, November 27 Legal and technical complications have emerged in the insurance claim process for vehicles swept away by the devastating Rasuwa-Bhotekoshi floods, as their physical remains have not been recovered. A total of 409 vehicles were found to h...",
-      "sourceName": "OnlineKhabar",
-      "sourceUrl": "https://english.onlinekhabar.com/insurance-payouts-complicated-as-vehicles-damaged-in-bhotekoshi-floods-remain-missing.html"
-    },
-    {
-      "id": "act-live-11",
-      "category": "Domestic & Ministries",
-      "time": "Nov 27, 2026",
-      "agency": "OnlineKhabar",
-      "title": "Nepali Congress to approach Election Commission over Deuba faction’s use of party flag, election symbol",
-      "summary": "Kathmandu, November 27 The Nepali Congress is preparing to approach the Election Commission, seeking to stop the Deuba faction from using the party’s official election symbol, the tree, and its four-star flag during its parallel general convention. The move co...",
-      "sourceName": "OnlineKhabar",
-      "sourceUrl": "https://english.onlinekhabar.com/nepali-congress-ec-deuba-flag.html"
-    },
-    {
       "id": "act-live-12",
-      "category": "Official & Diplomatic",
+      "category": "Domestic & Ministries",
       "time": "Nov 27, 2026",
       "agency": "Nepal News",
-      "title": "623 foreign nationals from 19 countries missing in Bhote Koshi floods",
-      "summary": "KATHMANDU: Details of 623 foreign nationals from 19 countries who went missing during the Bhotekoshi and Trishuli floods have been received from their respective national authorities. According to the National Disaster Risk Reduction and Management Authority, ...",
+      "title": "SSF coverage to informal sector workers: Minister Badi",
+      "summary": "KATHMANDU: The government has advanced a process to widen the Social Security Fund (SSF) coverage by including contract-based employees of federal government, relief and temporary teachers, child development facilitators and workers engaged in the informal sec...",
       "sourceName": "Nepal News",
-      "sourceUrl": "https://english.nepalnews.com/s/nation/623-foreign-nationals-from-19-countries-missing-in-bhote-koshi-floods/"
+      "sourceUrl": "https://english.nepalnews.com/s/nation/ssf-coverage-to-informal-sector-workers-minister-badi/"
     }
   ],
   "protests": [
     {
-      "id": "prot-live-3",
+      "id": "prot-live-6",
       "zone": "National / Kathmandu",
       "location": "Kathmandu / Nepal",
       "date": "Nov 27, 2026",
