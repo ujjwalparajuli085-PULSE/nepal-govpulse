@@ -3,20 +3,40 @@
   "bsDate": "७ मंसिर २०८३, सोमबार",
   "leadDispatch": {
     "kicker": "Lead Dispatch • OnlineKhabar",
-    "title": "RSP leaders press government to convene Parliament session without delay",
-    "summary": "Kathmandu, November 27 Leaders of the ruling Rastriya Swatantra Party (RSP) have stepped up pressure on the government to convene the federal parliament session at the earliest, arguing that the delay has prevented discussions on important public concerns and ...",
+    "title": "PM Balen briefs President Paudel on India visit, seeks approval for three pending ordinances",
+    "summary": "Kathmandu, November 27 Prime Minister Balendra Shah met President Ramchandra Paudel on Friday, three days after returning from his visit to India, following criticism for not paying a courtesy call on the President before leaving the country. During the meetin...",
     "primaryLinkText": "Read on OnlineKhabar",
-    "primaryLinkUrl": "https://english.onlinekhabar.com/rsp-press-govt-start-parliament.html"
+    "primaryLinkUrl": "https://english.onlinekhabar.com/balen-briefs-paudel-india-visit-ordinance.html"
   },
   "breakingTicker": [
+    "PM Balen briefs President Paudel on India visit, seeks approval for three pending ordinances",
+    "Court extends former chief secretary Ek Narayan Aryal’s detention by four days",
     "RSP leaders press government to convene Parliament session without delay",
-    "Threat to bomb Amitabh Bachchan’s home for fifth time",
-    "Olympic torch and trophy tour for 10th National Games begins in Dailekh",
-    "Kausi Theatre to stage play ‘Bishwantar’ based on Buddhist Jataka tale"
+    "Threat to bomb Amitabh Bachchan’s home for fifth time"
   ],
   "activities": [
     {
       "id": "act-live-0",
+      "category": "Judiciary & Law",
+      "time": "Nov 27, 2026",
+      "agency": "OnlineKhabar",
+      "title": "PM Balen briefs President Paudel on India visit, seeks approval for three pending ordinances",
+      "summary": "Kathmandu, November 27 Prime Minister Balendra Shah met President Ramchandra Paudel on Friday, three days after returning from his visit to India, following criticism for not paying a courtesy call on the President before leaving the country. During the meetin...",
+      "sourceName": "OnlineKhabar",
+      "sourceUrl": "https://english.onlinekhabar.com/balen-briefs-paudel-india-visit-ordinance.html"
+    },
+    {
+      "id": "act-live-1",
+      "category": "Judiciary & Law",
+      "time": "Nov 27, 2026",
+      "agency": "OnlineKhabar",
+      "title": "Court extends former chief secretary Ek Narayan Aryal’s detention by four days",
+      "summary": "Kathmandu, November 27 The Kathmandu District Court has authorised police to keep former chief secretary Eknarayan Aryal in custody for four more days to investigate him. Shiva Khatiwada, spokesperson for the Kathmandu District Court, said on Friday that the c...",
+      "sourceName": "OnlineKhabar",
+      "sourceUrl": "https://english.onlinekhabar.com/court-extends-former-chief-secretary-ek-narayan-aryals-detention-by-four-days.html"
+    },
+    {
+      "id": "act-live-2",
       "category": "Domestic & Ministries",
       "time": "Nov 27, 2026",
       "agency": "OnlineKhabar",
@@ -26,7 +46,7 @@
       "sourceUrl": "https://english.onlinekhabar.com/rsp-press-govt-start-parliament.html"
     },
     {
-      "id": "act-live-2",
+      "id": "act-live-4",
       "category": "Domestic & Ministries",
       "time": "Nov 27, 2026",
       "agency": "OnlineKhabar",
@@ -36,7 +56,7 @@
       "sourceUrl": "https://english.onlinekhabar.com/threat-to-bomb-amitabh-bachchans-home-for-fifth-time.html"
     },
     {
-      "id": "act-live-3",
+      "id": "act-live-5",
       "category": "Domestic & Ministries",
       "time": "Nov 27, 2026",
       "agency": "OnlineKhabar",
@@ -46,7 +66,7 @@
       "sourceUrl": "https://english.onlinekhabar.com/olympic-torch-and-trophy-tour-for-10th-national-games-begins-in-dailekh.html"
     },
     {
-      "id": "act-live-4",
+      "id": "act-live-6",
       "category": "Domestic & Ministries",
       "time": "Nov 27, 2026",
       "agency": "OnlineKhabar",
@@ -56,7 +76,7 @@
       "sourceUrl": "https://english.onlinekhabar.com/kausi-theatre-to-stage-play-bishwantar-based-on-buddhist-jataka-tale.html"
     },
     {
-      "id": "act-live-5",
+      "id": "act-live-7",
       "category": "Domestic & Ministries",
       "time": "Nov 27, 2026",
       "agency": "OnlineKhabar",
@@ -66,7 +86,7 @@
       "sourceUrl": "https://english.onlinekhabar.com/deuba-faction-appoints-coordinators-for-five-convention-committees.html"
     },
     {
-      "id": "act-live-6",
+      "id": "act-live-8",
       "category": "Domestic & Ministries",
       "time": "Nov 27, 2026",
       "agency": "OnlineKhabar",
@@ -76,17 +96,17 @@
       "sourceUrl": "https://english.onlinekhabar.com/nepse-banking-and-non-life-insurance-gain-despite-falling-share-market.html"
     },
     {
-      "id": "act-live-7",
+      "id": "act-live-9",
       "category": "Official & Diplomatic",
       "time": "Nov 27, 2026",
       "agency": "OnlineKhabar",
       "title": "PM Balen meets President Paudel after returning from India",
-      "summary": "Kathmandu, November 27 Prime Minister Balendra Shah met President Ram Chandra Paudel at Sheetal Niwas on Friday, five days after returning from his official visit to India. Shah visited the President shortly after holding a meeting with Rastriya Swatantra Part...",
+      "summary": "Kathmandu, November 27 Prime Minister Balendra Shah met President Ram Chandra Paudel at Sheetal Niwas on Friday, four days after returning from his official visit to India. Shah visited the President shortly after holding a meeting with Rastriya Swatantra Part...",
       "sourceName": "OnlineKhabar",
       "sourceUrl": "https://english.onlinekhabar.com/pm-balen-meets-president-paudel-after-returning-from-india.html"
     },
     {
-      "id": "act-live-8",
+      "id": "act-live-10",
       "category": "Domestic & Ministries",
       "time": "Nov 27, 2026",
       "agency": "OnlineKhabar",
@@ -96,7 +116,7 @@
       "sourceUrl": "https://english.onlinekhabar.com/insurance-payouts-complicated-as-vehicles-damaged-in-bhotekoshi-floods-remain-missing.html"
     },
     {
-      "id": "act-live-9",
+      "id": "act-live-11",
       "category": "Domestic & Ministries",
       "time": "Nov 27, 2026",
       "agency": "OnlineKhabar",
@@ -106,39 +126,19 @@
       "sourceUrl": "https://english.onlinekhabar.com/nepali-congress-ec-deuba-flag.html"
     },
     {
-      "id": "act-live-10",
-      "category": "Domestic & Ministries",
-      "time": "Nov 27, 2026",
-      "agency": "OnlineKhabar",
-      "title": "Saptari adds 1,026 voters in nine months",
-      "summary": "Saptari, November 27 A total of 1,026 voters have been added to the electoral roll in Saptari over the past nine months. In the House of Representatives election held on March 5, the district had 446,402 registered voters, including 233,096 men, 213,283 women ...",
-      "sourceName": "OnlineKhabar",
-      "sourceUrl": "https://english.onlinekhabar.com/saptari-adds-1026-voters-in-nine-months.html"
-    },
-    {
-      "id": "act-live-11",
-      "category": "Media & Civic",
-      "time": "Nov 27, 2026",
-      "agency": "OnlineKhabar",
-      "title": "Padma Aryal says elections remain tainted by money, muscle and media influence",
-      "summary": "Kathmandu, November 27 CPN-UML Secretary and lawmaker Padma Aryal has alleged that Nepal’s electoral system remains vulnerable to fraud and booth capture, claiming she has evidence of irregularities from an election in which an unusually high 99 percent of vot...",
-      "sourceName": "OnlineKhabar",
-      "sourceUrl": "https://english.onlinekhabar.com/padma-aryal-questions-election-integrity.html"
-    },
-    {
       "id": "act-live-12",
-      "category": "Domestic & Ministries",
+      "category": "Official & Diplomatic",
       "time": "Nov 27, 2026",
       "agency": "Nepal News",
-      "title": "Surendra Raj Regmi elected president of Nepal Bankers Association",
-      "summary": "KATHMANDU: Global IME Bank Chief Executive Officer Surendra Raj Regmi has been elected unopposed as the president of the Nepal Bankers Association. The decision was made during the association’s 40th annual general meeting held at Hotel Mercure today. Regmi, w...",
+      "title": "623 foreign nationals from 19 countries missing in Bhote Koshi floods",
+      "summary": "KATHMANDU: Details of 623 foreign nationals from 19 countries who went missing during the Bhotekoshi and Trishuli floods have been received from their respective national authorities. According to the National Disaster Risk Reduction and Management Authority, ...",
       "sourceName": "Nepal News",
-      "sourceUrl": "https://english.nepalnews.com/s/business/surendra-raj-regmi-elected-president-of-nepal-bankers-association/"
+      "sourceUrl": "https://english.nepalnews.com/s/nation/623-foreign-nationals-from-19-countries-missing-in-bhote-koshi-floods/"
     }
   ],
   "protests": [
     {
-      "id": "prot-live-1",
+      "id": "prot-live-3",
       "zone": "National / Kathmandu",
       "location": "Kathmandu / Nepal",
       "date": "Nov 27, 2026",
