@@ -3,20 +3,110 @@
   "bsDate": "७ मंसिर २०८३, सोमबार",
   "leadDispatch": {
     "kicker": "Lead Dispatch • OnlineKhabar",
-    "title": "Padma Aryal says elections remain tainted by money, muscle and media influence",
-    "summary": "Kathmandu, November 27 CPN-UML Secretary and lawmaker Padma Aryal has alleged that Nepal’s electoral system remains vulnerable to fraud and booth capture, claiming she has evidence of irregularities from an election in which an unusually high 99 percent of vot...",
+    "title": "Threat to bomb Amitabh Bachchan’s home for fifth time",
+    "summary": "On the 18th anniversary of the Mumbai terror attacks, threats were received to bomb Bollywood actor Amitabh Bachchan’s residence, Jalsa, and a concert by singer Diljit Dosanjh in the city. Mumbai Mayor Ritu Tawde received a threatening email warning of explosi...",
     "primaryLinkText": "Read on OnlineKhabar",
-    "primaryLinkUrl": "https://english.onlinekhabar.com/padma-aryal-questions-election-integrity.html"
+    "primaryLinkUrl": "https://english.onlinekhabar.com/threat-to-bomb-amitabh-bachchans-home-for-fifth-time.html"
   },
   "breakingTicker": [
-    "Padma Aryal says elections remain tainted by money, muscle and media influence",
-    "TU gives seven-day ultimatum to vacate university land",
-    "CIAA to investigate Rs 200 million fee embezzlement at RRM Campus",
-    "Rs 200 million student fee scandal at TU’s RRM Campus now under CIAA scrutiny"
+    "Threat to bomb Amitabh Bachchan’s home for fifth time",
+    "Olympic torch and trophy tour for 10th National Games begins in Dailekh",
+    "Kausi Theatre to stage play ‘Bishwantar’ based on Buddhist Jataka tale",
+    "Deuba faction appoints coordinators for five convention committees"
   ],
   "activities": [
     {
       "id": "act-live-0",
+      "category": "Domestic & Ministries",
+      "time": "Nov 27, 2026",
+      "agency": "OnlineKhabar",
+      "title": "Threat to bomb Amitabh Bachchan’s home for fifth time",
+      "summary": "On the 18th anniversary of the Mumbai terror attacks, threats were received to bomb Bollywood actor Amitabh Bachchan’s residence, Jalsa, and a concert by singer Diljit Dosanjh in the city. Mumbai Mayor Ritu Tawde received a threatening email warning of explosi...",
+      "sourceName": "OnlineKhabar",
+      "sourceUrl": "https://english.onlinekhabar.com/threat-to-bomb-amitabh-bachchans-home-for-fifth-time.html"
+    },
+    {
+      "id": "act-live-1",
+      "category": "Domestic & Ministries",
+      "time": "Nov 27, 2026",
+      "agency": "OnlineKhabar",
+      "title": "Olympic torch and trophy tour for 10th National Games begins in Dailekh",
+      "summary": "Surkhet, November 27 The Olympic torch and trophy tour for the 10th National Games, which will be held in Karnali Province, began on Friday with a flame lit from the eternal fire at Shristhan, a religious and tourist site in Dailekh. The tour has been organise...",
+      "sourceName": "OnlineKhabar",
+      "sourceUrl": "https://english.onlinekhabar.com/olympic-torch-and-trophy-tour-for-10th-national-games-begins-in-dailekh.html"
+    },
+    {
+      "id": "act-live-2",
+      "category": "Domestic & Ministries",
+      "time": "Nov 27, 2026",
+      "agency": "OnlineKhabar",
+      "title": "Kausi Theatre to stage play ‘Bishwantar’ based on Buddhist Jataka tale",
+      "summary": "Kathmandu, November 27 Kausi Theatre in Teku is set to begin staging the play Bishwantar today. Directed by Chandraman Munikar, the play is based on a Buddhist Jataka tale. The play has been adapted for the stage by Ingihopo Koich Sunuwar. Presented by Bajraka...",
+      "sourceName": "OnlineKhabar",
+      "sourceUrl": "https://english.onlinekhabar.com/kausi-theatre-to-stage-play-bishwantar-based-on-buddhist-jataka-tale.html"
+    },
+    {
+      "id": "act-live-3",
+      "category": "Domestic & Ministries",
+      "time": "Nov 27, 2026",
+      "agency": "OnlineKhabar",
+      "title": "Deuba faction appoints coordinators for five convention committees",
+      "summary": "Kathmandu, November 27 The Sher Bahadur Deuba faction of the Nepali Congress has appointed coordinators for five committees for its upcoming general convention. Prof Dr Shashank Koirala, coordinator of the Main Preparation Committee, appointed coordinators for...",
+      "sourceName": "OnlineKhabar",
+      "sourceUrl": "https://english.onlinekhabar.com/deuba-faction-appoints-coordinators-for-five-convention-committees.html"
+    },
+    {
+      "id": "act-live-4",
+      "category": "Domestic & Ministries",
+      "time": "Nov 27, 2026",
+      "agency": "OnlineKhabar",
+      "title": "NEPSE: Banking and non-life insurance gain despite falling share market",
+      "summary": "Kathmandu, November 27 The Nepal Stock Exchange (NEPSE) index fell by 8.57 points on Friday, closing at 2,628 points. The index had also declined by 10.89 points the previous day. Trading volume also decreased along with the NEPSE index. Transactions worth Rs ...",
+      "sourceName": "OnlineKhabar",
+      "sourceUrl": "https://english.onlinekhabar.com/nepse-banking-and-non-life-insurance-gain-despite-falling-share-market.html"
+    },
+    {
+      "id": "act-live-5",
+      "category": "Official & Diplomatic",
+      "time": "Nov 27, 2026",
+      "agency": "OnlineKhabar",
+      "title": "PM Balen meets President Paudel after returning from India",
+      "summary": "Kathmandu, November 27 Prime Minister Balendra Shah met President Ram Chandra Paudel at Sheetal Niwas on Friday, five days after returning from his official visit to India. Shah visited the President shortly after holding a meeting with Rastriya Swatantra Part...",
+      "sourceName": "OnlineKhabar",
+      "sourceUrl": "https://english.onlinekhabar.com/pm-balen-meets-president-paudel-after-returning-from-india.html"
+    },
+    {
+      "id": "act-live-6",
+      "category": "Domestic & Ministries",
+      "time": "Nov 27, 2026",
+      "agency": "OnlineKhabar",
+      "title": "Insurance payouts complicated as vehicles damaged in Bhotekoshi floods remain missing",
+      "summary": "Kathmandu, November 27 Legal and technical complications have emerged in the insurance claim process for vehicles swept away by the devastating Rasuwa-Bhotekoshi floods, as their physical remains have not been recovered. A total of 409 vehicles were found to h...",
+      "sourceName": "OnlineKhabar",
+      "sourceUrl": "https://english.onlinekhabar.com/insurance-payouts-complicated-as-vehicles-damaged-in-bhotekoshi-floods-remain-missing.html"
+    },
+    {
+      "id": "act-live-7",
+      "category": "Domestic & Ministries",
+      "time": "Nov 27, 2026",
+      "agency": "OnlineKhabar",
+      "title": "Nepali Congress to approach Election Commission over Deuba faction’s use of party flag, election symbol",
+      "summary": "Kathmandu, November 27 The Nepali Congress is preparing to approach the Election Commission, seeking to stop the Deuba faction from using the party’s official election symbol, the tree, and its four-star flag during its parallel general convention. The move co...",
+      "sourceName": "OnlineKhabar",
+      "sourceUrl": "https://english.onlinekhabar.com/nepali-congress-ec-deuba-flag.html"
+    },
+    {
+      "id": "act-live-8",
+      "category": "Domestic & Ministries",
+      "time": "Nov 27, 2026",
+      "agency": "OnlineKhabar",
+      "title": "Saptari adds 1,026 voters in nine months",
+      "summary": "Saptari, November 27 A total of 1,026 voters have been added to the electoral roll in Saptari over the past nine months. In the House of Representatives election held on March 5, the district had 446,402 registered voters, including 233,096 men, 213,283 women ...",
+      "sourceName": "OnlineKhabar",
+      "sourceUrl": "https://english.onlinekhabar.com/saptari-adds-1026-voters-in-nine-months.html"
+    },
+    {
+      "id": "act-live-9",
       "category": "Media & Civic",
       "time": "Nov 27, 2026",
       "agency": "OnlineKhabar",
@@ -26,7 +116,7 @@
       "sourceUrl": "https://english.onlinekhabar.com/padma-aryal-questions-election-integrity.html"
     },
     {
-      "id": "act-live-1",
+      "id": "act-live-10",
       "category": "Domestic & Ministries",
       "time": "Nov 27, 2026",
       "agency": "OnlineKhabar",
@@ -36,7 +126,7 @@
       "sourceUrl": "https://english.onlinekhabar.com/tu-seven-day-ultimatum-vacate-university-land.html"
     },
     {
-      "id": "act-live-2",
+      "id": "act-live-11",
       "category": "Judiciary & Law",
       "time": "Nov 27, 2026",
       "agency": "OnlineKhabar",
@@ -44,96 +134,6 @@
       "summary": "Kathmandu, November 27 The file concerning an alleged fee embezzlement scandal at Tribhuvan University’s Ram Sagar Ram Swaroop (RRM) Multiple Campus (RRMC), in Janakpurdham, Dhanusha, has been forwarded to the Commission for the Investigation of Abuse of Autho...",
       "sourceName": "OnlineKhabar",
       "sourceUrl": "https://english.onlinekhabar.com/ciaa-to-investigate-rs-200-million-fee-embezzlement-at-rrm-campus.html"
-    },
-    {
-      "id": "act-live-3",
-      "category": "Judiciary & Law",
-      "time": "Nov 27, 2026",
-      "agency": "OnlineKhabar",
-      "title": "Rs 200 million student fee scandal at TU’s RRM Campus now under CIAA scrutiny",
-      "summary": "Kathmandu, November 27 Tribhuvan University (TU) has referred an investigation report on alleged embezzlement of more than Rs 200 million in student fees at its Ramasagar Ramswaroop (RRM) Multiple Campus in Janakpurdham, Dhanusha, to the Commission for the Inv...",
-      "sourceName": "OnlineKhabar",
-      "sourceUrl": "https://english.onlinekhabar.com/fee-scandal-rrm-campus-ciaa.html"
-    },
-    {
-      "id": "act-live-4",
-      "category": "Domestic & Ministries",
-      "time": "Nov 27, 2026",
-      "agency": "OnlineKhabar",
-      "title": "Rastriya Swatantra Party Chair Rabi Lamichhane meets President",
-      "summary": "Kathmandu, November 27 Rabi Lamichhane, chairperson of the Rastriya Swatantra Party (RSP), has met President Ramchandra Paudel. According to the President’s Private Secretariat, the meeting took place at Sheetal Niwas on Friday, during which they discussed con...",
-      "sourceName": "OnlineKhabar",
-      "sourceUrl": "https://english.onlinekhabar.com/rastriya-swatantra-party-chair-rabi-lamichhane-meets-president.html"
-    },
-    {
-      "id": "act-live-5",
-      "category": "Official & Diplomatic",
-      "time": "Nov 27, 2026",
-      "agency": "OnlineKhabar",
-      "title": "NEA invites bids from Indian companies to purchase 150 MW of electricity",
-      "summary": "Kathmandu, November 27 The Nepal Electricity Authority (NEA) has invited proposals from Indian power trading companies to purchase 150 megawatts (MW) of electricity from India. The authority has sought proposals through a competitive process to procure electri...",
-      "sourceName": "OnlineKhabar",
-      "sourceUrl": "https://english.onlinekhabar.com/nea-invites-bids-from-indian-companies-to-purchase-150-mw-of-electricity.html"
-    },
-    {
-      "id": "act-live-6",
-      "category": "Domestic & Ministries",
-      "time": "Nov 27, 2026",
-      "agency": "OnlineKhabar",
-      "title": "Squatters live in fear as authorities order them out of temporary shelters",
-      "summary": "Kathmandu, November 27 Landless families evicted from riverbank settlements in the Kathmandu Valley seven months ago are facing fresh uncertainty after authorities ordered those staying at a temporary shelter in Bode, Bhaktapur, to vacate the premises by Frida...",
-      "sourceName": "OnlineKhabar",
-      "sourceUrl": "https://english.onlinekhabar.com/squatters-live-in-fear-eviction.html"
-    },
-    {
-      "id": "act-live-7",
-      "category": "Official & Diplomatic",
-      "time": "Nov 27, 2026",
-      "agency": "OnlineKhabar",
-      "title": "Trump downplays China and Russia’s support to Iran",
-      "summary": "Washington, D.C., November 27 US President Donald Trump on Thursday downplayed the extent of Russia and China’s intelligence sharing with Iran, amid reports that Tehran’s allies have helped it target US military bases. Trump, speaking briefly to reporters at h...",
-      "sourceName": "OnlineKhabar",
-      "sourceUrl": "https://english.onlinekhabar.com/trump-china-russia-support-iran.html"
-    },
-    {
-      "id": "act-live-9",
-      "category": "Official & Diplomatic",
-      "time": "Nov 27, 2026",
-      "agency": "OnlineKhabar",
-      "title": "RSP delegation briefs Lamichhane on China trip",
-      "summary": "Kathmandu, November 27 Leaders of the ruling Rastriya Swatantra Party (RSP), who have returned from a visit to China, have met party Chair Rabi Lamichhane. At the meeting, General Secretary Bipin Kumar Acharya briefed Lamichhane on behalf of the delegation. Ac...",
-      "sourceName": "OnlineKhabar",
-      "sourceUrl": "https://english.onlinekhabar.com/rsp-team-returning-from-china.html"
-    },
-    {
-      "id": "act-live-10",
-      "category": "Domestic & Ministries",
-      "time": "Nov 27, 2026",
-      "agency": "OnlineKhabar",
-      "title": "Fines imposed during market monitoring must be paid within one month, or assets could be frozen",
-      "summary": "Kathmandu, November 27 The government has directed business firms, companies and establishments to deposit fines imposed during market monitoring into the government revenue account within one month. The Department of Commerce, Supply and Consumer Protection, ...",
-      "sourceName": "OnlineKhabar",
-      "sourceUrl": "https://english.onlinekhabar.com/fines-imposed-within-one-month.html"
-    },
-    {
-      "id": "act-live-11",
-      "category": "Judiciary & Law",
-      "time": "Nov 27, 2026",
-      "agency": "OnlineKhabar",
-      "title": "Illegal goods worth over Rs 750,000 seized, one arrested",
-      "summary": "Siraha, November 27 The Armed Police Force has seized illegal goods worth Rs 765,201 from various border areas of Siraha district. One youth has been arrested in the same operation. The arrested person is Durgesh Kumar Yadav, 18, of Budhaura in Siraha Municipa...",
-      "sourceName": "OnlineKhabar",
-      "sourceUrl": "https://english.onlinekhabar.com/goods-worth-over-rs-750000-seized.html"
-    },
-    {
-      "id": "act-live-12",
-      "category": "Judiciary & Law",
-      "time": "Nov 27, 2026",
-      "agency": "Nepal News",
-      "title": "Two Chinese nationals nabbed with unaccounted money",
-      "summary": "KATHMANDU: A police team on regular patrol arrested two Chinese citizens from Bhotekoshi Rural Municipality-2 in possession of unaccounted money, 1.6 million Nepali currency and 66,950 Chinese Yuan. According to the Central Police News Desk, the police team de...",
-      "sourceName": "Nepal News",
-      "sourceUrl": "https://english.nepalnews.com/s/crime-news/two-chinese-nationals-nabbed-with-unaccounted-money/"
     }
   ],
   "protests": [
