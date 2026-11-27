@@ -3,20 +3,30 @@
   "bsDate": "७ मंसिर २०८३, सोमबार",
   "leadDispatch": {
     "kicker": "Lead Dispatch • OnlineKhabar",
-    "title": "CIB gets missing file as investigation into Malaysia worker-fee scam deepens",
-    "summary": "Kathmandu, November 26 A file that had gone missing from the Ministry of Labour in the investigation into alleged fraud involving Nepali workers travelling to Malaysia has been recovered and handed over to the Central Investigation Bureau (CIB) of Nepal Police...",
+    "title": "NPL franchises agree to build home grounds under PPP model as league eyes multi-venue format",
+    "summary": "Kathmandu, November 26 Nepal Premier League (NPL) franchises have expressed willingness to build and operate their own cricket stadiums under a public-private partnership (PPP) model, following Prime Minister Balendra Shah’s aim to introduce a home-and-away fo...",
     "primaryLinkText": "Read on OnlineKhabar",
-    "primaryLinkUrl": "https://english.onlinekhabar.com/cib-get-missing-file-malaysia-scam.html"
+    "primaryLinkUrl": "https://english.onlinekhabar.com/npl-franchise-build-home-ground.html"
   },
   "breakingTicker": [
+    "NPL franchises agree to build home grounds under PPP model as league eyes multi-venue format",
     "CIB gets missing file as investigation into Malaysia worker-fee scam deepens",
     "RSP opposed ordinance rule in opposition. Now it governs by ordinances",
-    "Ek Narayan Aryal fled to Kolkata a day before arrests in Rs 1.69 billion worker-fee scam",
-    "PM Balendra Shah, RSP chair Rabi Lamichhane hold five-hour meeting"
+    "Ek Narayan Aryal fled to Kolkata a day before arrests in Rs 1.69 billion worker-fee scam"
   ],
   "activities": [
     {
       "id": "act-live-0",
+      "category": "Domestic & Ministries",
+      "time": "Nov 27, 2026",
+      "agency": "OnlineKhabar",
+      "title": "NPL franchises agree to build home grounds under PPP model as league eyes multi-venue format",
+      "summary": "Kathmandu, November 26 Nepal Premier League (NPL) franchises have expressed willingness to build and operate their own cricket stadiums under a public-private partnership (PPP) model, following Prime Minister Balendra Shah’s aim to introduce a home-and-away fo...",
+      "sourceName": "OnlineKhabar",
+      "sourceUrl": "https://english.onlinekhabar.com/npl-franchise-build-home-ground.html"
+    },
+    {
+      "id": "act-live-1",
       "category": "Judiciary & Law",
       "time": "Nov 27, 2026",
       "agency": "OnlineKhabar",
@@ -26,7 +36,7 @@
       "sourceUrl": "https://english.onlinekhabar.com/cib-get-missing-file-malaysia-scam.html"
     },
     {
-      "id": "act-live-1",
+      "id": "act-live-2",
       "category": "Media & Civic",
       "time": "Nov 27, 2026",
       "agency": "OnlineKhabar",
@@ -36,7 +46,7 @@
       "sourceUrl": "https://english.onlinekhabar.com/rsp-ordinance-rule.html"
     },
     {
-      "id": "act-live-2",
+      "id": "act-live-3",
       "category": "Judiciary & Law",
       "time": "Nov 27, 2026",
       "agency": "OnlineKhabar",
@@ -46,7 +56,7 @@
       "sourceUrl": "https://english.onlinekhabar.com/ek-narayan-aryal-fled-to-kolkata.html"
     },
     {
-      "id": "act-live-3",
+      "id": "act-live-4",
       "category": "Domestic & Ministries",
       "time": "Nov 27, 2026",
       "agency": "OnlineKhabar",
@@ -56,7 +66,7 @@
       "sourceUrl": "https://english.onlinekhabar.com/balen-lamichhane-five-hour-meet.html"
     },
     {
-      "id": "act-live-4",
+      "id": "act-live-5",
       "category": "Official & Diplomatic",
       "time": "Nov 27, 2026",
       "agency": "OnlineKhabar",
@@ -66,7 +76,7 @@
       "sourceUrl": "https://english.onlinekhabar.com/nirmala-rai-win-bronze-asia-pacific-trail-running.html"
     },
     {
-      "id": "act-live-5",
+      "id": "act-live-6",
       "category": "Official & Diplomatic",
       "time": "Nov 27, 2026",
       "agency": "OnlineKhabar",
@@ -76,7 +86,7 @@
       "sourceUrl": "https://english.onlinekhabar.com/oli-shah-india-private-trip.html"
     },
     {
-      "id": "act-live-6",
+      "id": "act-live-7",
       "category": "Official & Diplomatic",
       "time": "Nov 27, 2026",
       "agency": "OnlineKhabar",
@@ -86,7 +96,7 @@
       "sourceUrl": "https://english.onlinekhabar.com/bhim-rawal-accuses-pm-shah-of-compromising-national-interests-during-india-visit.html"
     },
     {
-      "id": "act-live-7",
+      "id": "act-live-8",
       "category": "Domestic & Ministries",
       "time": "Nov 27, 2026",
       "agency": "OnlineKhabar",
@@ -96,7 +106,7 @@
       "sourceUrl": "https://english.onlinekhabar.com/sobita-gautam-cabinet-hierarchy.html"
     },
     {
-      "id": "act-live-8",
+      "id": "act-live-9",
       "category": "Official & Diplomatic",
       "time": "Nov 27, 2026",
       "agency": "OnlineKhabar",
@@ -106,7 +116,7 @@
       "sourceUrl": "https://english.onlinekhabar.com/janamorcha-shah-compromise-national-interests-india-visit.html"
     },
     {
-      "id": "act-live-9",
+      "id": "act-live-10",
       "category": "Domestic & Ministries",
       "time": "Nov 27, 2026",
       "agency": "OnlineKhabar",
@@ -116,7 +126,7 @@
       "sourceUrl": "https://english.onlinekhabar.com/nepals-public-holidays-economic-growth.html"
     },
     {
-      "id": "act-live-10",
+      "id": "act-live-11",
       "category": "Domestic & Ministries",
       "time": "Nov 27, 2026",
       "agency": "OnlineKhabar",
@@ -124,21 +134,11 @@
       "summary": "Kathmandu, November 26 The Nepal Stock Exchange (Nepse) index fell by 10.89 points on Thursday to close at 2,636 points. The index had gained 8.66 points on the previous trading day. Both the Nepse index and total turnover declined. Shares worth Rs 5.48 billio...",
       "sourceName": "OnlineKhabar",
       "sourceUrl": "https://english.onlinekhabar.com/nepse-falls-10-89-points-as-trading-turnover-declines.html"
-    },
-    {
-      "id": "act-live-11",
-      "category": "Domestic & Ministries",
-      "time": "Nov 27, 2026",
-      "agency": "OnlineKhabar",
-      "title": "Students turn to Municipality Office to demand teachers at school in Achham",
-      "summary": "Kathmandu, November 26 Students of Shakti Secondary School in Kamalbazar Municipality-2, Achham, went to the municipal office on Thursday morning to demand teachers after finding no teachers to teach their classes. Instead of attending lessons in their classro...",
-      "sourceName": "OnlineKhabar",
-      "sourceUrl": "https://english.onlinekhabar.com/students-turn-to-municipality-office-to-demand-teachers-at-school-in-achham.html"
     }
   ],
   "protests": [
     {
-      "id": "prot-live-18",
+      "id": "prot-live-19",
       "zone": "National / Kathmandu",
       "location": "Kathmandu / Nepal",
       "date": "Nov 27, 2026",
