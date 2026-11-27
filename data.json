@@ -3,20 +3,90 @@
   "bsDate": "७ मंसिर २०८३, सोमबार",
   "leadDispatch": {
     "kicker": "Lead Dispatch • OnlineKhabar",
-    "title": "148 squatter families in Mayadevi Rural Municipality receive land ownership certificates",
-    "summary": "After 13 years, 148 squatter families in Ward 7 of Mayadevi Rural Municipality in Rupandehi have received land ownership certificates. The families live in the area that was formerly Hatibagai VDC-6. Their land was surveyed in 2013, but the certificates could ...",
+    "title": "Bhotekoshi flood: 782 people, 409 vehicles hit in public transport sector",
+    "summary": "The details of human and physical losses to the public transport sector from the devastating flood in the Bhotekoshi River on August 26 have been made public. The damage assessment report was submitted today to Minister for Physical Infrastructure Sunil Lamsal...",
     "primaryLinkText": "Read on OnlineKhabar",
-    "primaryLinkUrl": "https://english.onlinekhabar.com/148-squatter-land-ownership.html"
+    "primaryLinkUrl": "https://english.onlinekhabar.com/bhotekoshi-782-public-transport.html"
   },
   "breakingTicker": [
-    "148 squatter families in Mayadevi Rural Municipality receive land ownership certificates",
-    "Guava price jumps by Rs 165 per kilo",
-    "Absconding fraud suspect, son of former Maoist lawmaker, arrested in Sirha",
-    "Four labour ministers’ tenures linked to Rs 1.69 billion Malaysia fee transfers"
+    "Bhotekoshi flood: 782 people, 409 vehicles hit in public transport sector",
+    "Kulman Ghising urges government not to displace squatters without alternative arrangements",
+    "Nepal Reinsurance Company to issue 16.91 percent rights shares",
+    "10th National Games: Koshi beat Lumbini in football"
   ],
   "activities": [
     {
       "id": "act-live-0",
+      "category": "Domestic & Ministries",
+      "time": "Nov 27, 2026",
+      "agency": "OnlineKhabar",
+      "title": "Bhotekoshi flood: 782 people, 409 vehicles hit in public transport sector",
+      "summary": "The details of human and physical losses to the public transport sector from the devastating flood in the Bhotekoshi River on August 26 have been made public. The damage assessment report was submitted today to Minister for Physical Infrastructure Sunil Lamsal...",
+      "sourceName": "OnlineKhabar",
+      "sourceUrl": "https://english.onlinekhabar.com/bhotekoshi-782-public-transport.html"
+    },
+    {
+      "id": "act-live-1",
+      "category": "Domestic & Ministries",
+      "time": "Nov 27, 2026",
+      "agency": "OnlineKhabar",
+      "title": "Kulman Ghising urges government not to displace squatters without alternative arrangements",
+      "summary": "Kathmandu, November 27 Ujyaalo Nepal Party Chair Kulman Ghising has urged the government not to displace squatter families without arranging alternative housing. Ghising appealed after an order was issued to vacate the Agricultural Development Bank training ce...",
+      "sourceName": "OnlineKhabar",
+      "sourceUrl": "https://english.onlinekhabar.com/ghising-urges-not-displace-squatters.html"
+    },
+    {
+      "id": "act-live-2",
+      "category": "Domestic & Ministries",
+      "time": "Nov 27, 2026",
+      "agency": "OnlineKhabar",
+      "title": "Nepal Reinsurance Company to issue 16.91 percent rights shares",
+      "summary": "Kathmandu, November 27 Nepal Reinsurance Company is set to issue rights shares equivalent to 16.9176 percent of its existing capital. The company is issuing the rights shares to raise its paid-up capital to Rs 20 billion. A board of directors meeting held toda...",
+      "sourceName": "OnlineKhabar",
+      "sourceUrl": "https://english.onlinekhabar.com/nepal-reinsurance-16-91-percent.html"
+    },
+    {
+      "id": "act-live-3",
+      "category": "Domestic & Ministries",
+      "time": "Nov 27, 2026",
+      "agency": "OnlineKhabar",
+      "title": "10th National Games: Koshi beat Lumbini in football",
+      "summary": "Surkhet, November 27 Koshi Province defeated Lumbini Province 4-1 in the first match of the day on Friday morning. It was the seventh match of the men’s football event at the 10th National Games. Milan Rai scored twice for Koshi, in the 12th and 32nd minutes. ...",
+      "sourceName": "OnlineKhabar",
+      "sourceUrl": "https://english.onlinekhabar.com/koshi-beat-lumbini-in-football.html"
+    },
+    {
+      "id": "act-live-4",
+      "category": "Judiciary & Law",
+      "time": "Nov 27, 2026",
+      "agency": "OnlineKhabar",
+      "title": "9 held for defaming women on social media under ‘Operation Digital Honor’",
+      "summary": "Kathmandu, November 27 Police have taken nine people into custody on charges of misusing social media for character assassination, blackmail and online abuse of women and girls. They were arrested under “Operation Digital Honor.” The operation was conducted by...",
+      "sourceName": "OnlineKhabar",
+      "sourceUrl": "https://english.onlinekhabar.com/under-operation-digital-honor.html"
+    },
+    {
+      "id": "act-live-5",
+      "category": "Judiciary & Law",
+      "time": "Nov 27, 2026",
+      "agency": "OnlineKhabar",
+      "title": "Government to launch special operation against manpower firms and consultancies",
+      "summary": "The government is set to launch a special operation against manpower companies and consultancies to curb fraud and labour exploitation in the name of foreign employment. Under directives from the Ministry of Home Affairs, Nepal Police will covertly gather info...",
+      "sourceName": "OnlineKhabar",
+      "sourceUrl": "https://english.onlinekhabar.com/special-operation-against-manpower.html"
+    },
+    {
+      "id": "act-live-6",
+      "category": "Domestic & Ministries",
+      "time": "Nov 27, 2026",
+      "agency": "OnlineKhabar",
+      "title": "Shashank Koirala, Bimalendra Nidhi gear up for presidency contest in Deuba camp",
+      "summary": "As the 15th General Convention of the Nepali Congress Deuba faction draws near, two aspirants have emerged for the post of party president. Former president Sher Bahadur Deuba has said he wants the leadership to be chosen by consensus. Even so, two leaders in ...",
+      "sourceName": "OnlineKhabar",
+      "sourceUrl": "https://english.onlinekhabar.com/shashank-bimalendra-deuba-camp.html"
+    },
+    {
+      "id": "act-live-7",
       "category": "Domestic & Ministries",
       "time": "Nov 27, 2026",
       "agency": "OnlineKhabar",
@@ -26,7 +96,7 @@
       "sourceUrl": "https://english.onlinekhabar.com/148-squatter-land-ownership.html"
     },
     {
-      "id": "act-live-1",
+      "id": "act-live-8",
       "category": "Domestic & Ministries",
       "time": "Nov 27, 2026",
       "agency": "OnlineKhabar",
@@ -36,7 +106,7 @@
       "sourceUrl": "https://english.onlinekhabar.com/guava-price-jumps-by-rs-165-per-kilo.html"
     },
     {
-      "id": "act-live-2",
+      "id": "act-live-9",
       "category": "Judiciary & Law",
       "time": "Nov 27, 2026",
       "agency": "OnlineKhabar",
@@ -46,7 +116,7 @@
       "sourceUrl": "https://english.onlinekhabar.com/absconding-fraud-arrested-in-sirha.html"
     },
     {
-      "id": "act-live-3",
+      "id": "act-live-10",
       "category": "Domestic & Ministries",
       "time": "Nov 27, 2026",
       "agency": "OnlineKhabar",
@@ -56,7 +126,7 @@
       "sourceUrl": "https://english.onlinekhabar.com/four-labour-minister-malaysia-fee-transfers.html"
     },
     {
-      "id": "act-live-4",
+      "id": "act-live-11",
       "category": "Domestic & Ministries",
       "time": "Nov 27, 2026",
       "agency": "OnlineKhabar",
@@ -64,76 +134,6 @@
       "summary": "Kathmandu, November 27 The price of gold has risen by Rs 3,300 per tola on Friday. The Federation of Nepal Gold and Silver Dealers’ Association has fixed the price at Rs 246,100 per tola for the day. On Thursday, gold was traded at Rs 242,800 per tola. The pri...",
       "sourceName": "OnlineKhabar",
       "sourceUrl": "https://english.onlinekhabar.com/gold-price-rises-by-rs-3300-per-tola.html"
-    },
-    {
-      "id": "act-live-5",
-      "category": "Media & Civic",
-      "time": "Nov 27, 2026",
-      "agency": "OnlineKhabar",
-      "title": "Rana urges government not to evict landless families from holding centres",
-      "summary": "Kathmandu, November 27 Nepali Congress General Secretary Udaya Shumsher Rana has urged the government to immediately withdraw its decision to evict landless families from holding centres without arranging alternative housing for them. Expressing strong objecti...",
-      "sourceName": "OnlineKhabar",
-      "sourceUrl": "https://english.onlinekhabar.com/rana-urges-government-not-to-evict-landless-families-from-holding-centres.html"
-    },
-    {
-      "id": "act-live-6",
-      "category": "Domestic & Ministries",
-      "time": "Nov 27, 2026",
-      "agency": "OnlineKhabar",
-      "title": "Nepal Football League set to launch with 10 teams, ambitious home-and-away format",
-      "summary": "Kathmandu, November 26 A new franchise-based football league is set to reshape Nepal’s domestic football landscape, with the Nepal Football League (NFL) preparing to launch its inaugural edition on February 13, 2027, featuring 10 teams and an ambitious home-an...",
-      "sourceName": "OnlineKhabar",
-      "sourceUrl": "https://english.onlinekhabar.com/nepal-football-league-home-away.html"
-    },
-    {
-      "id": "act-live-7",
-      "category": "Media & Civic",
-      "time": "Nov 27, 2026",
-      "agency": "OnlineKhabar",
-      "title": "Angdembe urges government not to evict landless families without alternative housing",
-      "summary": "Kathmandu, November 27 Bhishmaraj Angdembe, parliamentary party leader of the main opposition Nepali Congress, has demanded that the government immediately withdraw its decision to evict landless families taking shelter in holding centres without arranging alt...",
-      "sourceName": "OnlineKhabar",
-      "sourceUrl": "https://english.onlinekhabar.com/angdembe-urges-government-not-to-evict-landless-families-without-alternative-housing.html"
-    },
-    {
-      "id": "act-live-9",
-      "category": "Domestic & Ministries",
-      "time": "Nov 27, 2026",
-      "agency": "OnlineKhabar",
-      "title": "Bagmati Province to prepare development framework for next ten years",
-      "summary": "Hetauda, November 27 The Bagmati Province government is set to prepare a development framework for the next ten years after conducting an in-depth review of the work it has carried out since the province’s establishment. The 18th meeting of the Provincial Coun...",
-      "sourceName": "OnlineKhabar",
-      "sourceUrl": "https://english.onlinekhabar.com/bagmati-province-to-prepare-development-framework-for-next-ten-years.html"
-    },
-    {
-      "id": "act-live-10",
-      "category": "Domestic & Ministries",
-      "time": "Nov 27, 2026",
-      "agency": "OnlineKhabar",
-      "title": "National guideline mandates indigenous peoples’ consent for development projects",
-      "summary": "Lalitpur, November 27 The Indigenous Nationalities Commission, the National Foundation for Development of Indigenous Nationalities and the Nepal Federation of Indigenous Nationalities have jointly issued the ‘National Guideline for the Implementation of the Fr...",
-      "sourceName": "OnlineKhabar",
-      "sourceUrl": "https://english.onlinekhabar.com/national-guideline-mandates-indigenous-peoples-consent-for-development-projects.html"
-    },
-    {
-      "id": "act-live-11",
-      "category": "Official & Diplomatic",
-      "time": "Nov 27, 2026",
-      "agency": "OnlineKhabar",
-      "title": "Nepal collects Rs 334 million in autumn climbing permit fees",
-      "summary": "Kathmandu, November 26 A total of 1,633 climbers from 77 countries have obtained permits to climb various mountains in Nepal during the autumn season. According to the Department of Tourism, permits have been issued to 1,633 climbers from 77 countries, organis...",
-      "sourceName": "OnlineKhabar",
-      "sourceUrl": "https://english.onlinekhabar.com/nepal-collects-rs-334-million-in-autumn-climbing-permit-fees.html"
-    },
-    {
-      "id": "act-live-12",
-      "category": "Domestic & Ministries",
-      "time": "Nov 27, 2026",
-      "agency": "Nepal News",
-      "title": "Efforts to strengthen Nepal–Bangladesh trade ties in Chattogram",
-      "summary": "KATHMANDU: Stronger partnerships between the private sectors of Nepal and Bangladesh are key to expanding cooperation in trade, energy, air connectivity, and tourism. Speaking at a programme titled ‘Nepal–Bangladesh Economic Cooperation: Strengthening Trade an...",
-      "sourceName": "Nepal News",
-      "sourceUrl": "https://english.nepalnews.com/s/business/efforts-to-strengthen-nepal-bangladesh-trade-ties-in-chattogram/"
     }
   ],
   "protests": [
@@ -151,7 +151,7 @@
   ],
   "rumors": [
     {
-      "id": "rum-live-14",
+      "id": "rum-live-16",
       "status": "Active Controversy",
       "title": "Araghchi calls Kuwait drone incident “precooked recipe for war”, denies Iran’s involvement in deaths of 2 Italians",
       "circulatingOn": "Nepal News (Nov 27, 2026)",
