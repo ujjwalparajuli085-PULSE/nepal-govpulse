@@ -3,20 +3,30 @@
   "bsDate": "७ मंसिर २०८३, सोमबार",
   "leadDispatch": {
     "kicker": "Lead Dispatch • OnlineKhabar",
-    "title": "Inam Sapkota alleges police torture, coercion in complaint to NHRC",
-    "summary": "Kathmandu, November 27 Inam Sapkota, who was arrested on allegations of acting as a fixer for high-profile individuals and facilitating illicit dealings, has filed a complaint with the National Human Rights Commission (NHRC), alleging that police subjected him...",
+    "title": "The ties that keep us connected to Nepal",
+    "summary": "My wife and I have lived in the United States for 20 years. While we often wish we could celebrate traditional festivals in Nepal with our parents and relatives, we have been fortunate to celebrate them with our vibrant Nepali community here. During our first ...",
     "primaryLinkText": "Read on OnlineKhabar",
-    "primaryLinkUrl": "https://english.onlinekhabar.com/inam-sapkota-torture-complaint-nhrc.html"
+    "primaryLinkUrl": "https://english.onlinekhabar.com/the-ties-that-keep-us-connected-to-nepal.html"
   },
   "breakingTicker": [
+    "The ties that keep us connected to Nepal",
     "Inam Sapkota alleges police torture, coercion in complaint to NHRC",
     "RSP lawmaker seeks equal protocol ranking for all metropolitan mayors and deputy mayors",
-    "Three new teams from Dharan, Birgunj and Surkhet complete lineup for Nepal Football League",
-    "Complaint filed with Human Rights Commission seeking protection of Inam Sapkota in police custody"
+    "Three new teams from Dharan, Birgunj and Surkhet complete lineup for Nepal Football League"
   ],
   "activities": [
     {
       "id": "act-live-0",
+      "category": "Domestic & Ministries",
+      "time": "Nov 28, 2026",
+      "agency": "OnlineKhabar",
+      "title": "The ties that keep us connected to Nepal",
+      "summary": "My wife and I have lived in the United States for 20 years. While we often wish we could celebrate traditional festivals in Nepal with our parents and relatives, we have been fortunate to celebrate them with our vibrant Nepali community here. During our first ...",
+      "sourceName": "OnlineKhabar",
+      "sourceUrl": "https://english.onlinekhabar.com/the-ties-that-keep-us-connected-to-nepal.html"
+    },
+    {
+      "id": "act-live-1",
       "category": "Judiciary & Law",
       "time": "Nov 28, 2026",
       "agency": "OnlineKhabar",
@@ -26,7 +36,7 @@
       "sourceUrl": "https://english.onlinekhabar.com/inam-sapkota-torture-complaint-nhrc.html"
     },
     {
-      "id": "act-live-1",
+      "id": "act-live-2",
       "category": "Domestic & Ministries",
       "time": "Nov 28, 2026",
       "agency": "OnlineKhabar",
@@ -36,7 +46,7 @@
       "sourceUrl": "https://english.onlinekhabar.com/rsp-lawmaker-seeks-equal-protocol-ranking-for-all-metropolitan-mayors-and-deputy-mayors.html"
     },
     {
-      "id": "act-live-2",
+      "id": "act-live-3",
       "category": "Domestic & Ministries",
       "time": "Nov 28, 2026",
       "agency": "OnlineKhabar",
@@ -46,7 +56,7 @@
       "sourceUrl": "https://english.onlinekhabar.com/dharan-birgunj-surkhet-nepal-football-league.html"
     },
     {
-      "id": "act-live-3",
+      "id": "act-live-4",
       "category": "Judiciary & Law",
       "time": "Nov 28, 2026",
       "agency": "OnlineKhabar",
@@ -56,7 +66,7 @@
       "sourceUrl": "https://english.onlinekhabar.com/complaint-nhrc-inam-sapkota-safety.html"
     },
     {
-      "id": "act-live-4",
+      "id": "act-live-5",
       "category": "Judiciary & Law",
       "time": "Nov 28, 2026",
       "agency": "OnlineKhabar",
@@ -66,7 +76,7 @@
       "sourceUrl": "https://english.onlinekhabar.com/balen-briefs-paudel-india-visit-ordinance.html"
     },
     {
-      "id": "act-live-5",
+      "id": "act-live-6",
       "category": "Judiciary & Law",
       "time": "Nov 28, 2026",
       "agency": "OnlineKhabar",
@@ -76,7 +86,7 @@
       "sourceUrl": "https://english.onlinekhabar.com/court-extends-former-chief-secretary-ek-narayan-aryals-detention-by-four-days.html"
     },
     {
-      "id": "act-live-6",
+      "id": "act-live-7",
       "category": "Domestic & Ministries",
       "time": "Nov 28, 2026",
       "agency": "OnlineKhabar",
@@ -86,7 +96,7 @@
       "sourceUrl": "https://english.onlinekhabar.com/rsp-press-govt-start-parliament.html"
     },
     {
-      "id": "act-live-8",
+      "id": "act-live-9",
       "category": "Domestic & Ministries",
       "time": "Nov 28, 2026",
       "agency": "OnlineKhabar",
@@ -96,7 +106,7 @@
       "sourceUrl": "https://english.onlinekhabar.com/threat-to-bomb-amitabh-bachchans-home-for-fifth-time.html"
     },
     {
-      "id": "act-live-9",
+      "id": "act-live-10",
       "category": "Domestic & Ministries",
       "time": "Nov 28, 2026",
       "agency": "OnlineKhabar",
@@ -106,7 +116,7 @@
       "sourceUrl": "https://english.onlinekhabar.com/olympic-torch-and-trophy-tour-for-10th-national-games-begins-in-dailekh.html"
     },
     {
-      "id": "act-live-10",
+      "id": "act-live-11",
       "category": "Domestic & Ministries",
       "time": "Nov 28, 2026",
       "agency": "OnlineKhabar",
@@ -114,16 +124,6 @@
       "summary": "Kathmandu, November 27 Kausi Theatre in Teku is set to begin staging the play Bishwantar today. Directed by Chandraman Munikar, the play is based on a Buddhist Jataka tale. The play has been adapted for the stage by Ingihopo Koich Sunuwar. Presented by Bajraka...",
       "sourceName": "OnlineKhabar",
       "sourceUrl": "https://english.onlinekhabar.com/kausi-theatre-to-stage-play-bishwantar-based-on-buddhist-jataka-tale.html"
-    },
-    {
-      "id": "act-live-11",
-      "category": "Domestic & Ministries",
-      "time": "Nov 28, 2026",
-      "agency": "OnlineKhabar",
-      "title": "Deuba faction appoints coordinators for five convention committees",
-      "summary": "Kathmandu, November 27 The Sher Bahadur Deuba faction of the Nepali Congress has appointed coordinators for five committees for its upcoming general convention. Prof Dr Shashank Koirala, coordinator of the Main Preparation Committee, appointed coordinators for...",
-      "sourceName": "OnlineKhabar",
-      "sourceUrl": "https://english.onlinekhabar.com/deuba-faction-appoints-coordinators-for-five-convention-committees.html"
     },
     {
       "id": "act-live-12",
@@ -138,7 +138,7 @@
   ],
   "protests": [
     {
-      "id": "prot-live-7",
+      "id": "prot-live-8",
       "zone": "National / Kathmandu",
       "location": "Kathmandu / Nepal",
       "date": "Nov 28, 2026",
