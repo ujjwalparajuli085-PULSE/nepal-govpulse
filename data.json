@@ -3,20 +3,30 @@
   "bsDate": "७ मंसिर २०८३, सोमबार",
   "leadDispatch": {
     "kicker": "Lead Dispatch • OnlineKhabar",
-    "title": "Four percent of Nepal’s listed shares remain beyond the reach of Demat",
-    "summary": "Kathmandu, November 27 Nearly 4 percent of the shares listed on Nepal’s stock market have yet to be dematerialised, leaving 846.8 million shares outside the electronic system even more than a decade after the introduction of mandatory Demat accounts. According...",
+    "title": "SpaceX’s million-satellite plan faces questions over pollution, safety and feasibility",
+    "summary": "This week, on the eve the Thanksgiving holiday, the United States Federal Communications Commission approved SpaceX’s plan to launch one million “Starmind” artificial intelligence (AI) data centre satellites. This decision reflects the convergence of a satelli...",
     "primaryLinkText": "Read on OnlineKhabar",
-    "primaryLinkUrl": "https://english.onlinekhabar.com/many-shares-remain-missing.html"
+    "primaryLinkUrl": "https://english.onlinekhabar.com/spacex-million-satellite-plan-musk.html"
   },
   "breakingTicker": [
+    "SpaceX’s million-satellite plan faces questions over pollution, safety and feasibility",
     "Four percent of Nepal’s listed shares remain beyond the reach of Demat",
     "Government prepares special task force to curb foreign employment fraud",
-    "The ties that keep us connected to Nepal",
-    "Inam Sapkota alleges police torture, coercion in complaint to NHRC"
+    "The ties that keep us connected to Nepal"
   ],
   "activities": [
     {
       "id": "act-live-0",
+      "category": "Domestic & Ministries",
+      "time": "Nov 28, 2026",
+      "agency": "OnlineKhabar",
+      "title": "SpaceX’s million-satellite plan faces questions over pollution, safety and feasibility",
+      "summary": "This week, on the eve the Thanksgiving holiday, the United States Federal Communications Commission approved SpaceX’s plan to launch one million “Starmind” artificial intelligence (AI) data centre satellites. This decision reflects the convergence of a satelli...",
+      "sourceName": "OnlineKhabar",
+      "sourceUrl": "https://english.onlinekhabar.com/spacex-million-satellite-plan-musk.html"
+    },
+    {
+      "id": "act-live-1",
       "category": "Domestic & Ministries",
       "time": "Nov 28, 2026",
       "agency": "OnlineKhabar",
@@ -26,7 +36,7 @@
       "sourceUrl": "https://english.onlinekhabar.com/many-shares-remain-missing.html"
     },
     {
-      "id": "act-live-1",
+      "id": "act-live-2",
       "category": "Official & Diplomatic",
       "time": "Nov 28, 2026",
       "agency": "OnlineKhabar",
@@ -36,7 +46,7 @@
       "sourceUrl": "https://english.onlinekhabar.com/govt-special-task-force-foreign-employment-fraud.html"
     },
     {
-      "id": "act-live-2",
+      "id": "act-live-3",
       "category": "Domestic & Ministries",
       "time": "Nov 28, 2026",
       "agency": "OnlineKhabar",
@@ -46,7 +56,7 @@
       "sourceUrl": "https://english.onlinekhabar.com/the-ties-that-keep-us-connected-to-nepal.html"
     },
     {
-      "id": "act-live-3",
+      "id": "act-live-4",
       "category": "Judiciary & Law",
       "time": "Nov 28, 2026",
       "agency": "OnlineKhabar",
@@ -56,7 +66,7 @@
       "sourceUrl": "https://english.onlinekhabar.com/inam-sapkota-torture-complaint-nhrc.html"
     },
     {
-      "id": "act-live-4",
+      "id": "act-live-5",
       "category": "Domestic & Ministries",
       "time": "Nov 28, 2026",
       "agency": "OnlineKhabar",
@@ -66,7 +76,7 @@
       "sourceUrl": "https://english.onlinekhabar.com/rsp-lawmaker-seeks-equal-protocol-ranking-for-all-metropolitan-mayors-and-deputy-mayors.html"
     },
     {
-      "id": "act-live-5",
+      "id": "act-live-6",
       "category": "Domestic & Ministries",
       "time": "Nov 28, 2026",
       "agency": "OnlineKhabar",
@@ -76,7 +86,7 @@
       "sourceUrl": "https://english.onlinekhabar.com/dharan-birgunj-surkhet-nepal-football-league.html"
     },
     {
-      "id": "act-live-6",
+      "id": "act-live-7",
       "category": "Judiciary & Law",
       "time": "Nov 28, 2026",
       "agency": "OnlineKhabar",
@@ -86,7 +96,7 @@
       "sourceUrl": "https://english.onlinekhabar.com/complaint-nhrc-inam-sapkota-safety.html"
     },
     {
-      "id": "act-live-7",
+      "id": "act-live-8",
       "category": "Judiciary & Law",
       "time": "Nov 28, 2026",
       "agency": "OnlineKhabar",
@@ -96,7 +106,7 @@
       "sourceUrl": "https://english.onlinekhabar.com/balen-briefs-paudel-india-visit-ordinance.html"
     },
     {
-      "id": "act-live-8",
+      "id": "act-live-9",
       "category": "Judiciary & Law",
       "time": "Nov 28, 2026",
       "agency": "OnlineKhabar",
@@ -106,7 +116,7 @@
       "sourceUrl": "https://english.onlinekhabar.com/court-extends-former-chief-secretary-ek-narayan-aryals-detention-by-four-days.html"
     },
     {
-      "id": "act-live-9",
+      "id": "act-live-10",
       "category": "Domestic & Ministries",
       "time": "Nov 28, 2026",
       "agency": "OnlineKhabar",
@@ -114,16 +124,6 @@
       "summary": "Kathmandu, November 27 Leaders of the ruling Rastriya Swatantra Party (RSP) have stepped up pressure on the government to convene the federal parliament session at the earliest, arguing that the delay has prevented discussions on important public concerns and ...",
       "sourceName": "OnlineKhabar",
       "sourceUrl": "https://english.onlinekhabar.com/rsp-press-govt-start-parliament.html"
-    },
-    {
-      "id": "act-live-11",
-      "category": "Domestic & Ministries",
-      "time": "Nov 28, 2026",
-      "agency": "OnlineKhabar",
-      "title": "Threat to bomb Amitabh Bachchan’s home for fifth time",
-      "summary": "On the 18th anniversary of the Mumbai terror attacks, threats were received to bomb Bollywood actor Amitabh Bachchan’s residence, Jalsa, and a concert by singer Diljit Dosanjh in the city. Mumbai Mayor Ritu Tawde received a threatening email warning of explosi...",
-      "sourceName": "OnlineKhabar",
-      "sourceUrl": "https://english.onlinekhabar.com/threat-to-bomb-amitabh-bachchans-home-for-fifth-time.html"
     },
     {
       "id": "act-live-12",
@@ -138,7 +138,7 @@
   ],
   "protests": [
     {
-      "id": "prot-live-10",
+      "id": "prot-live-11",
       "zone": "National / Kathmandu",
       "location": "Kathmandu / Nepal",
       "date": "Nov 28, 2026",
